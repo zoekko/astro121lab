@@ -1,2 +1,0 @@
-unzip file.zip
-zip -r output_filename.zip directory_name_to_be_zipped
