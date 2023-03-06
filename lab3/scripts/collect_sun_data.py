@@ -9,18 +9,30 @@ import astropy.time
 import time
 import matplotlib.pylab as plt
 import numpy as np
+import snap_spec
+
+save_dir = '/home/pi/Desktop/sun'
+total_time = 60 # duration of observation in minutes
 
 # create interferometer object
-interf = ugradio.itnterf.Interferometer()
+interf = ugradio.interf.Interferometer()
+spec = snap_spec.snap.UGRadioSnap()
+spec.initialize(mode='corr')
 
+t0 = astropy.time.Time(time.time(), format='unix')
+t_e = 0
+print('start time (JD): ')
+print(t0)
+all_data = np.array([])
 
-for i in range(10): # get 10 observations
-    # where interf is currently pointing
-    print('interf currently pointing at: ')
-    interf.get_pointing() 
-
+while t_e < total_time:
+    print('')
     # get the coordinates of the sun in RA and DEC
     t = astropy.time.Time(time.time(), format='unix')
+    print('time elapsed (min): ')
+    t_e = t - t0
+    t_e = t_e * 24 * 60
+    print(t_e)
     sun = astropy.coordinates.get_sun(t)
     # convert coordinates to alt az (Earth coordinates)
     obs = astropy.coordinates.EarthLocation(lon=ugradio.nch.lon, lat=ugradio.nch.lat, height=ugradio.nch.alt)
@@ -28,62 +40,32 @@ for i in range(10): # get 10 observations
     pointing = sun.transform_to(altaz)
     print('sun is currently at: ')
     print('alt: ')
-    pointing.alt
+    print(pointing.alt.deg)
     print('az: ')
-    pointing.az
+    print(pointing.az.deg)
     
+    # 3/6/23 EDIT: point interf twice
     interf.point(pointing.alt.deg, pointing.az.deg) # could set wait=False to do other stuff while the telescope is moving
+    interf.point(pointing.alt.deg, pointing.az.deg)
     print('interf now pointing at: ')
-    interf.get_pointing() # currently where the interfs are pointing
+    print(interf.get_pointing()) # currently where the interfs are pointing
     # interf.wait() # see if the interfs are done pointing
     
-    # collect data 
+    # collect data
+    try:
+        data = spec.read_data()
+        all_data = np.append(all_data, data)
+        np.save(save_dir, all_data)
+    except(AssertionError):
+        print('Assertion Error: trying again')
+        data = spec.read_data()
+        all_data = np.append(all_data, data)
+        np.save(save_dir, all_data)
+        
     
-
-
-
-
-# Zoom Lecture 13
-ugradio.hp_multi??
-
-# measure the current voltage value
-hpm.read_voltage()
-
-# be careful about using time.sleep - this won't create equally spaced time intervals
-import time
-data, times = [], []
-for i in range(10):
-    t0 = time.time()
-    v = hpm.read_voltage()
-    data.append(v)
-    times.append(t0)
-    time.sleep(1-(time.time()-t0))
-
-plt.plot(times, data)
-plt.show()
-
-np.diff(times)
-
-# don't use time.sleep, use built in hpm methods:
-hpm.get_recording_data??
-hpm.start_recording(1) # will run in the background!
-hpm.get_recording_status()
-volts,times = hpm.get_recording_data() # will still run in the background!
-# if ^ looks good, can end the recording, otherwise can continue running
-np.savez('backup.npz', volts=volts, times=times)
-hpm.end_recording()
-np.savez('final_sun.npz', volts=volts, times=times)
-
-# if stuff quits and fails:
-# use a try and except loop so that you don't exit the program
-# catch pointing error, etc.
-# save the data and stop the recording
-try:
-    print(data[0])
-except(IndexError):
-    print('index error')
-
-# note: figure out what happens when the sun sets!
-
-
+print('')
+print('Finished collecting data!')
 interf.stow() # always finsih every observation with this
+interf.stow()
+print('interf stowed at: ')
+print(interf.get_pointing())
