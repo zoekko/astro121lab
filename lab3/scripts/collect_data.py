@@ -34,7 +34,7 @@ sun.ra.deg # converts to degrees
 sun.ra.rad # converts to radians
 # convert to Earth coordinates
 ugradio.nch # use this to get current lat long and alt
-obs = astropy.coordinates.EarthLocation(long=ugradio.nch.lon, lat=ugradio.nch.lat, height=ugradio.nch.alt)
+obs = astropy.coordinates.EarthLocation(lon=ugradio.nch.lon, lat=ugradio.nch.lat, height=ugradio.nch.alt)
 
 # we now have all the info to compute where the sun is relative to us
 # we have the time and the location of the earth and the location of the sun 
