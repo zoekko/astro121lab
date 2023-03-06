@@ -24,9 +24,12 @@ t_e = 0
 print('start time (JD): ')
 print(t0)
 all_data = np.array([])
+i = 0
 
 while t_e < total_time:
     print('')
+    print('iteration: ')
+    print(i)
     # get the coordinates of the sun in RA and DEC
     t = astropy.time.Time(time.time(), format='unix')
     print('time elapsed (min): ')
@@ -62,6 +65,7 @@ while t_e < total_time:
         all_data = np.append(all_data, data)
         np.save(save_dir, all_data)
         
+    i += 1
     
 print('')
 print('Finished collecting data!')
