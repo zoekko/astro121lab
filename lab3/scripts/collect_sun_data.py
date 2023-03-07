@@ -1,4 +1,4 @@
-# collect data from the sun for ~ 1 hour
+# collect data from the sun for ~ 13 hours
 # use ipython instead of jupyter notebook
 # pull up webcam 
 # make sure we're repointing very often (faster than 4 min ?)
@@ -11,8 +11,8 @@ import matplotlib.pylab as plt
 import numpy as np
 import snap_spec
 
-save_dir = '/home/pi/Desktop/sun'
-total_time = 60 # duration of observation in minutes
+save_dir = '/home/pi/Blueberry Pi/astro121lab/lab3/data/full_sun_data'
+total_time = 13*60 # duration of observation in minutes
 
 # create interferometer object
 interf = ugradio.interf.Interferometer()
