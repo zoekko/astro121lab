@@ -1,7 +1,4 @@
-# collect data from the sun for ~ 13 hours
-# use ipython instead of jupyter notebook
-# pull up webcam 
-# make sure we're repointing very often (faster than 4 min ?)
+# point at sun and collect data
 
 import ugradio
 import astropy.coordinates
@@ -11,7 +8,7 @@ import matplotlib.pylab as plt
 import numpy as np
 import snap_spec
 
-save_dir = '/home/pi/Blueberry Pi/astro121lab/lab3/data/sun/full_day_sun'
+save_dir = '/home/pi/Blueberry Pi/astro121lab/lab3/data/sun/full_day_sun_pt2'
 total_time = 8*60 # duration of observation in minutes
 
 # create interferometer object
@@ -25,6 +22,8 @@ print('start time (JD): ')
 print(t0)
 all_data = np.array([])
 i = 0
+
+prev_cnt = None
 
 while t_e < total_time:
     print('')
@@ -47,23 +46,20 @@ while t_e < total_time:
     print('az: ')
     print(pointing.az.deg)
     
-    # 3/6/23 EDIT: point interf twice
-    interf.point(pointing.alt.deg, pointing.az.deg) # could set wait=False to do other stuff while the telescope is moving
-    interf.point(pointing.alt.deg, pointing.az.deg)
-    print('interf now pointing at: ')
-    print(interf.get_pointing()) # currently where the interfs are pointing
-    # interf.wait() # see if the interfs are done pointing
-    
-    # collect data
+    # 3/6/23 EDIT: point interf twice: not necessary 
     try:
-        data = spec.read_data()
+        interf.point(pointing.alt.deg, pointing.az.deg) # could set wait=False to do other stuff while the telescope is moving
+        interf.point(pointing.alt.deg, pointing.az.deg)
+        print('interf now pointing at: ')
+        print(interf.get_pointing()) # currently where the interfs are pointing
+        # collect data
+        data = spec.read_data(prev_cnt=prev_cnt)
+        prev_cnt = data['acc_cnt']
         all_data = np.append(all_data, data)
         np.save(save_dir, all_data)
     except(AssertionError):
         print('Assertion Error: trying again')
-        data = spec.read_data()
-        all_data = np.append(all_data, data)
-        np.save(save_dir, all_data)
+        interf.point(pointing.alt.deg, pointing.az.deg)
         
     i += 1
     
