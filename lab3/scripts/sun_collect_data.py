@@ -13,20 +13,8 @@ import numpy as np
 import snap_spec
 import threading
 
-save_dir = '/home/pi/Blueberry Pi/astro121lab/lab3/data/sun/full_day_sun_pt2'
-total_time = 8*60 # duration of observation in minutes
-
-# create interferometer object
-interf = ugradio.interf.Interferometer()
-spec = snap_spec.snap.UGRadioSnap()
-spec.initialize(mode='corr')
-obs = astropy.coordinates.EarthLocation(lon=ugradio.nch.lon, lat=ugradio.nch.lat, height=ugradio.nch.alt)
-
-all_data = np.array([])
-i = 0
-prev_cnt = None
-
 def track():
+    i=0
     t0 = astropy.time.Time(time.time(), format='unix')
     t_e = 0
     print('Tracking start time (JD): ')
@@ -63,6 +51,8 @@ def track():
         i += 1
         
 def record():
+    all_data = np.array([])
+    prev_cnt = None
     t0 = astropy.time.Time(time.time(), format='unix')
     t_e = 0
     print('Recording start time (JD): ')
@@ -80,6 +70,16 @@ def record():
         np.save(save_dir, all_data)
     
 if __name__=="__main__":
+    
+    save_dir = '/home/pi/Blueberry Pi/astro121lab/lab3/data/sun/full_day_sun_pt2'
+    total_time = 8*60 # duration of observation in minutes
+
+    # create interferometer object
+    interf = ugradio.interf.Interferometer()
+    spec = snap_spec.snap.UGRadioSnap()
+    spec.initialize(mode='corr')
+    obs = astropy.coordinates.EarthLocation(lon=ugradio.nch.lon, lat=ugradio.nch.lat, height=ugradio.nch.alt)
+
     thrd = threading.Thread(target=track)
     thrd.start()
     time.sleep(15) # give interfs time to point to sun
