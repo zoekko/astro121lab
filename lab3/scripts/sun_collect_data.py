@@ -71,7 +71,7 @@ def record():
     
 if __name__=="__main__":
     
-    save_dir = '/home/pi/Blueberry Pi/astro121lab/lab3/data/sun/full_day_sun_pt2'
+    save_dir = '/home/pi/Blueberry Pi/astro121lab/lab3/data/sun/full_day_sun'
     total_time = 8*60 # duration of observation in minutes
 
     # create interferometer object
