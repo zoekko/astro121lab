@@ -1,0 +1,5 @@
+average power pre-calculated
+8192 blocks, 2048 samples per blocks
+format: f = freqs, p = average power
+
+p_cal and p_cold: LO = 1421 MHz, cold pointed at zenith
