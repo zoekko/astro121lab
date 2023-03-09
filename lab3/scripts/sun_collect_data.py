@@ -32,6 +32,14 @@ def track():
         altaz = astropy.coordinates.AltAz(obstime=t, location=obs) # defines a time and a location on earth
         pointing = sun.transform_to(altaz)
         logging.info(f'Sun is currently at alt, az: {pointing.alt.deg}, {pointing.az.deg}')
+        
+        # check bounds on observation
+        if not (pointing.alt.deg > ugradio.interf.ALT_MIN and
+            pointing.alt.deg < ugradio.interf.ALT_MAX and
+            pointing.az.deg > ugradio.interf.AZ_MIN and
+            pointing.az.deg < ugradio.interf.AZ_MAX):
+            time.sleep(10)
+            continue
 
         # 3/6/23 EDIT: point interf twice: not necessary 
         try:
