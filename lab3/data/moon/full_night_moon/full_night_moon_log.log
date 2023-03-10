@@ -1,0 +1,2816 @@
+INFO:katcp.client:Client connect loop for ('localhost', 7147) finished.
+INFO:root:Initializing the spectrometer...
+INFO:root:Spectrometer initialized.
+INFO:root:First tracking start time (JD): 1678429465.1597133
+INFO:root:Moon is currently at alt, az: 19.075603830190268, 116.375227532036
+INFO:root:interf now pointing at: {'ant_w': (19.0758789062, 119.65058593799999), 'ant_e': (18.95703125, 116.317871094)}
+INFO:root:Tracking start time (JD): 1678429478.8342528
+INFO:root:Recording start time (JD): 1678429478.8366516
+INFO:root:
+INFO:root:Recording time elapsed (min): 3.77933183948187e-05
+INFO:root:Iteration: 0
+INFO:root:Tracking time elapsed (min): 0.0002543171246394138
+INFO:root:Moon is currently at alt, az: 19.114337158005014, 116.4169929374842
+INFO:root:Recording time elapsed (min): 0.0036865194638568966
+INFO:root:Recording time elapsed (min): 0.0110715627669844
+INFO:root:Recording time elapsed (min): 0.03398722410196342
+INFO:root:Recording time elapsed (min): 0.05523413022356927
+INFO:root:Recording time elapsed (min): 0.07649025519685715
+INFO:root:Recording time elapsed (min): 0.09614876906073988
+INFO:root:Recording time elapsed (min): 0.11741273800526031
+INFO:root:Recording time elapsed (min): 0.1386956413587015
+INFO:root:Recording time elapsed (min): 0.15995672941201633
+INFO:root:interf now pointing at: {'ant_w': (19.0758789062, 116.288769531), 'ant_e': (18.9350585938, 116.427734375)}
+INFO:root:
+INFO:root:Iteration: 1
+INFO:root:Tracking time elapsed (min): 0.1702995340029556
+INFO:root:Moon is currently at alt, az: 19.14319510797359, 116.44813612582324
+INFO:root:Recording time elapsed (min): 0.17819919188815092
+INFO:root:Recording time elapsed (min): 0.20100475152329267
+INFO:root:Recording time elapsed (min): 0.22224694490430075
+INFO:root:Recording time elapsed (min): 0.24333471457157252
+INFO:root:Recording time elapsed (min): 0.26368517080941345
+INFO:root:Recording time elapsed (min): 0.28496186335882356
+INFO:root:interf now pointing at: {'ant_w': (19.1857421875, 116.53046875), 'ant_e': (19.1547851562, 116.559570312)}
+INFO:root:
+INFO:root:Iteration: 2
+INFO:root:Tracking time elapsed (min): 0.28517606655752203
+INFO:root:Moon is currently at alt, az: 19.162686079321624, 116.46918326580186
+INFO:root:Recording time elapsed (min): 0.3060277382532206
+INFO:root:Recording time elapsed (min): 0.32556107044215743
+INFO:root:Recording time elapsed (min): 0.3468489090601157
+INFO:root:Recording time elapsed (min): 0.3680914123852741
+INFO:root:Recording time elapsed (min): 0.3892871777215934
+INFO:root:interf now pointing at: {'ant_w': (19.1857421875, 116.420605469), 'ant_e': (19.1328125, 116.471679688)}
+INFO:root:
+INFO:root:Iteration: 3
+INFO:root:Tracking time elapsed (min): 0.3993732968965702
+INFO:root:Moon is currently at alt, az: 19.18205824254097, 116.49011227122357
+INFO:root:Recording time elapsed (min): 0.4076676170030691
+INFO:root:Recording time elapsed (min): 0.4305442253748648
+INFO:root:Recording time elapsed (min): 0.4517730951308696
+INFO:root:Recording time elapsed (min): 0.47132062514624096
+INFO:root:Recording time elapsed (min): 0.4925261696179817
+INFO:root:Recording time elapsed (min): 0.5138309280077635
+INFO:root:interf now pointing at: {'ant_w': (19.1857421875, 116.398632812), 'ant_e': (19.220703125, 116.515625)}
+INFO:root:
+INFO:root:Iteration: 4
+INFO:root:Tracking time elapsed (min): 0.5142395337422911
+INFO:root:Moon is currently at alt, az: 19.20154031719964, 116.51117025223802
+INFO:root:Recording time elapsed (min): 0.532355924447323
+INFO:root:Recording time elapsed (min): 0.5550671060880052
+INFO:root:Recording time elapsed (min): 0.5763231515883849
+INFO:root:Recording time elapsed (min): 0.5975672165552393
+INFO:root:Recording time elapsed (min): 0.6170982400575742
+INFO:root:interf now pointing at: {'ant_w': (19.0319335938, 116.925976562), 'ant_e': (19.1987304688, 116.493652344)}
+INFO:root:
+INFO:root:Iteration: 5
+INFO:root:Tracking time elapsed (min): 0.629378338654849
+INFO:root:Moon is currently at alt, az: 19.22106501758717, 116.53228461615868
+INFO:root:Recording time elapsed (min): 0.6372142791747404
+INFO:root:Recording time elapsed (min): 0.6600377321243123
+INFO:root:Recording time elapsed (min): 0.6795654177665789
+INFO:root:Recording time elapsed (min): 0.7008072813351696
+INFO:root:Recording time elapsed (min): 0.7221911668777015
+INFO:root:Recording time elapsed (min): 0.7434402942657581
+INFO:root:interf now pointing at: {'ant_w': (19.141796875, 116.266796875), 'ant_e': (19.1767578125, 116.537597656)}
+INFO:root:
+INFO:root:Iteration: 6
+INFO:root:Tracking time elapsed (min): 0.744071284929877
+INFO:root:Moon is currently at alt, az: 19.240510521881625, 116.5533236087501
+INFO:root:Recording time elapsed (min): 0.7626581748326711
+INFO:root:Recording time elapsed (min): 0.7830856283505838
+INFO:root:Recording time elapsed (min): 0.8052947600681915
+INFO:root:Recording time elapsed (min): 0.8257979114850134
+INFO:root:Recording time elapsed (min): 0.8463595906893318
+INFO:root:Recording time elapsed (min): 0.8668450713157227
+INFO:root:interf now pointing at: {'ant_w': (19.2516601562, 116.640332031), 'ant_e': (19.0888671875, 116.515625)}
+INFO:root:
+INFO:root:Iteration: 7
+INFO:root:Tracking time elapsed (min): 0.8766472736994224
+INFO:root:Moon is currently at alt, az: 19.26298351701999, 116.57765097732268
+INFO:root:Recording time elapsed (min): 0.8882587472597603
+INFO:root:Recording time elapsed (min): 0.90855653285975
+INFO:root:Recording time elapsed (min): 0.9288760860760892
+INFO:root:Recording time elapsed (min): 0.9509656230608599
+INFO:root:Recording time elapsed (min): 0.9717296123504227
+INFO:root:interf now pointing at: {'ant_w': (19.2516601562, 116.552441406), 'ant_e': (19.1767578125, 116.603515625)}
+INFO:root:
+INFO:root:Iteration: 8
+INFO:root:Tracking time elapsed (min): 0.9905798594156945
+INFO:root:Moon is currently at alt, az: 19.282292429377502, 116.59856414965894
+INFO:root:Recording time elapsed (min): 0.9924610972404135
+INFO:root:Recording time elapsed (min): 1.013123953342392
+INFO:root:Recording time elapsed (min): 1.033859177430454
+INFO:root:Recording time elapsed (min): 1.054537085692031
+INFO:root:Recording time elapsed (min): 1.0752524693806897
+INFO:root:Recording time elapsed (min): 1.0955362637837585
+INFO:root:interf now pointing at: {'ant_w': (19.2956054688, 116.684277344), 'ant_e': (19.1987304688, 116.515625)}
+INFO:root:
+INFO:root:Iteration: 9
+INFO:root:Tracking time elapsed (min): 1.104813643296536
+INFO:root:Moon is currently at alt, az: 19.301648825170368, 116.6195389467212
+INFO:root:Recording time elapsed (min): 1.1171417395273586
+INFO:root:Recording time elapsed (min): 1.1384343544641773
+INFO:root:Recording time elapsed (min): 1.1597152988115411
+INFO:root:Recording time elapsed (min): 1.1816883047421456
+INFO:root:Recording time elapsed (min): 1.2012765407561687
+INFO:root:interf now pointing at: {'ant_w': (19.2956054688, 116.66230468799999), 'ant_e': (19.2866210938, 116.625488281)}
+INFO:root:
+INFO:root:Iteration: 10
+INFO:root:Tracking time elapsed (min): 1.2188101887702985
+INFO:root:Moon is currently at alt, az: 19.320961461333454, 116.64047651558842
+INFO:root:Recording time elapsed (min): 1.2220715085665201
+INFO:root:Recording time elapsed (min): 1.243124004205054
+INFO:root:Recording time elapsed (min): 1.2641815106073917
+INFO:root:Recording time elapsed (min): 1.2837021231651402
+INFO:root:Recording time elapsed (min): 1.304929661750771
+INFO:root:Recording time elapsed (min): 1.3261668562889195
+INFO:root:interf now pointing at: {'ant_w': (19.2956054688, 116.640332031), 'ant_e': (19.30859375, 116.625488281)}
+INFO:root:
+INFO:root:Iteration: 11
+INFO:root:Tracking time elapsed (min): 1.3336223522822088
+INFO:root:Moon is currently at alt, az: 19.34040867642788, 116.66157028736856
+INFO:root:Recording time elapsed (min): 1.3445323546727561
+INFO:root:Recording time elapsed (min): 1.3674544095993113
+INFO:root:Recording time elapsed (min): 1.3887808163960802
+INFO:root:Recording time elapsed (min): 1.4100293199221348
+INFO:root:Recording time elapsed (min): 1.4295901338258954
+INFO:root:interf now pointing at: {'ant_w': (19.3615234375, 116.684277344), 'ant_e': (19.3305664062, 116.713378906)}
+INFO:root:
+INFO:root:Iteration: 12
+INFO:root:Tracking time elapsed (min): 1.4298513015111336
+INFO:root:Moon is currently at alt, az: 19.3567054286022, 116.67925482484243
+INFO:root:Recording time elapsed (min): 1.450693293412506
+INFO:root:Recording time elapsed (min): 1.4711992740630553
+INFO:root:Recording time elapsed (min): 1.4919401089350348
+INFO:root:interf now pointing at: {'ant_w': (19.3615234375, 116.684277344), 'ant_e': (19.30859375, 116.669433594)}
+INFO:root:
+INFO:root:Iteration: 13
+INFO:root:Tracking time elapsed (min): 1.5072517077127934
+INFO:root:Moon is currently at alt, az: 19.369811647855066, 116.69348241374743
+INFO:root:Recording time elapsed (min): 1.5117388049761438
+INFO:root:Recording time elapsed (min): 1.5339956720670056
+INFO:root:Recording time elapsed (min): 1.5544989824294841
+INFO:root:Recording time elapsed (min): 1.5750293691952422
+INFO:root:Recording time elapsed (min): 1.5972205877303924
+INFO:root:interf now pointing at: {'ant_w': (19.3615234375, 116.640332031), 'ant_e': (19.3525390625, 116.69140625)}
+INFO:root:
+INFO:root:Iteration: 14
+INFO:root:Tracking time elapsed (min): 1.6035057067871161
+INFO:root:Moon is currently at alt, az: 19.38610805259015, 116.71117971456442
+INFO:root:Recording time elapsed (min): 1.616427175203965
+INFO:root:Recording time elapsed (min): 1.6389025330543117
+INFO:root:Recording time elapsed (min): 1.6592239141464216
+INFO:root:Recording time elapsed (min): 1.6795646230379724
+INFO:root:interf now pointing at: {'ant_w': (19.40546875, 116.860058594), 'ant_e': (19.4184570312, 116.735351562)}
+INFO:root:
+INFO:root:Iteration: 15
+INFO:root:Tracking time elapsed (min): 1.6986768047014955
+INFO:root:Moon is currently at alt, az: 19.402218611460015, 116.72868236504169
+INFO:root:Recording time elapsed (min): 1.7000372250874385
+INFO:root:Recording time elapsed (min): 1.7203857103983378
+INFO:root:Recording time elapsed (min): 1.7428703228631992
+INFO:root:Recording time elapsed (min): 1.763221851984662
+INFO:root:interf now pointing at: {'ant_w': (19.40546875, 116.83808593799999), 'ant_e': (19.396484375, 116.735351562)}
+INFO:root:
+INFO:root:Iteration: 16
+INFO:root:Tracking time elapsed (min): 1.775736570358264
+INFO:root:Moon is currently at alt, az: 19.415261457214317, 116.74285745611117
+INFO:root:Recording time elapsed (min): 1.7832958618799655
+INFO:root:Recording time elapsed (min): 1.806413662433588
+INFO:root:Recording time elapsed (min): 1.8250373760858718
+INFO:root:Recording time elapsed (min): 1.8470906217893024
+INFO:root:Recording time elapsed (min): 1.8678545276323355
+INFO:root:Recording time elapsed (min): 1.8888857722281838
+INFO:root:interf now pointing at: {'ant_w': (19.40546875, 117.387402344), 'ant_e': (19.1987304688, 116.69140625)}
+INFO:root:
+INFO:root:Iteration: 17
+INFO:root:Tracking time elapsed (min): 1.8902396241824082
+INFO:root:Moon is currently at alt, az: 19.434638793826814, 116.76392558342829
+INFO:root:Recording time elapsed (min): 1.9086939215659982
+INFO:root:Recording time elapsed (min): 1.9299348433811936
+INFO:root:Recording time elapsed (min): 1.9511984984079422
+INFO:root:Recording time elapsed (min): 1.9725117166837158
+INFO:root:Recording time elapsed (min): 1.9920250693956998
+INFO:root:interf now pointing at: {'ant_w': (19.4494140625, 116.728222656), 'ant_e': (19.4184570312, 116.735351562)}
+INFO:root:
+INFO:root:Iteration: 18
+INFO:root:Tracking time elapsed (min): 2.00462963978449
+INFO:root:Moon is currently at alt, az: 19.453993391657193, 116.7849793256067
+INFO:root:Recording time elapsed (min): 2.012286647160799
+INFO:root:Recording time elapsed (min): 2.0352205117543587
+INFO:root:Recording time elapsed (min): 2.0547755877176765
+INFO:root:Recording time elapsed (min): 2.0768517971038225
+INFO:root:Recording time elapsed (min): 2.096429506937598
+INFO:root:Recording time elapsed (min): 2.117726838588716
+INFO:root:interf now pointing at: {'ant_w': (19.4494140625, 116.772167969), 'ant_e': (19.2646484375, 116.69140625)}
+INFO:root:
+INFO:root:Iteration: 19
+INFO:root:Tracking time elapsed (min): 2.119597025712361
+INFO:root:Moon is currently at alt, az: 19.47344204039711, 116.80614579891461
+INFO:root:Recording time elapsed (min): 2.1390266974766536
+INFO:root:Recording time elapsed (min): 2.1604257742563338
+INFO:root:Recording time elapsed (min): 2.1799564917882197
+INFO:root:Recording time elapsed (min): 2.201259028911551
+INFO:root:Recording time elapsed (min): 2.2225446025529827
+INFO:root:interf now pointing at: {'ant_w': (19.5153320312, 116.860058594), 'ant_e': (19.2646484375, 116.823242188)}
+INFO:root:
+INFO:root:Iteration: 20
+INFO:root:Tracking time elapsed (min): 2.2341416358947797
+INFO:root:Moon is currently at alt, az: 19.49281553774482, 116.82724088715457
+INFO:root:Recording time elapsed (min): 2.2409802516301536
+INFO:root:Recording time elapsed (min): 2.263851968447348
+INFO:root:Recording time elapsed (min): 2.28428897062936
+INFO:root:Recording time elapsed (min): 2.3052799701690407
+INFO:root:Recording time elapsed (min): 2.3265681584676035
+INFO:root:Recording time elapsed (min): 2.3478032787640934
+INFO:root:interf now pointing at: {'ant_w': (19.5153320312, 116.794140625), 'ant_e': (19.396484375, 116.845214844)}
+INFO:root:
+INFO:root:Iteration: 21
+INFO:root:Tracking time elapsed (min): 2.349095884958894
+INFO:root:Moon is currently at alt, az: 19.512254670448282, 116.8484178966185
+INFO:root:Recording time elapsed (min): 2.3679906249045857
+INFO:root:Recording time elapsed (min): 2.389312311013514
+INFO:root:Recording time elapsed (min): 2.4088669935862317
+INFO:root:Recording time elapsed (min): 2.430179568131736
+INFO:root:Recording time elapsed (min): 2.4507023851076593
+INFO:root:interf now pointing at: {'ant_w': (19.5153320312, 116.83808593799999), 'ant_e': (19.4624023438, 116.889160156)}
+INFO:root:
+INFO:root:Iteration: 22
+INFO:root:Tracking time elapsed (min): 2.463877908388774
+INFO:root:Moon is currently at alt, az: 19.53166102941382, 116.86956966221692
+INFO:root:Recording time elapsed (min): 2.470815801620452
+INFO:root:Recording time elapsed (min): 2.493671456972768
+INFO:root:Recording time elapsed (min): 2.513250243663787
+INFO:root:Recording time elapsed (min): 2.53454039891559
+INFO:root:Recording time elapsed (min): 2.5559066375096595
+INFO:root:Recording time elapsed (min): 2.5754714051882477
+INFO:root:interf now pointing at: {'ant_w': (19.5153320312, 116.860058594), 'ant_e': (19.5283203125, 116.845214844)}
+INFO:root:
+INFO:root:Iteration: 23
+INFO:root:Tracking time elapsed (min): 2.578754043579119
+INFO:root:Moon is currently at alt, az: 19.551079643673553, 116.89074526309464
+INFO:root:Recording time elapsed (min): 2.5971492489178516
+INFO:root:Recording time elapsed (min): 2.6184278845786935
+INFO:root:Recording time elapsed (min): 2.6379675904909394
+INFO:root:Recording time elapsed (min): 2.6591474175452845
+INFO:root:Recording time elapsed (min): 2.6804401874542183
+INFO:root:interf now pointing at: {'ant_w': (19.7130859375, 113.234570312), 'ant_e': (19.6821289062, 116.911132812)}
+INFO:root:
+INFO:root:Iteration: 24
+INFO:root:Tracking time elapsed (min): 2.6936176300048764
+INFO:root:Moon is currently at alt, az: 19.57049247545639, 116.91192505101397
+INFO:root:Recording time elapsed (min): 2.698993388811699
+INFO:root:Recording time elapsed (min): 2.721766761938662
+INFO:root:Recording time elapsed (min): 2.742286062240593
+INFO:root:Recording time elapsed (min): 2.7640215237935095
+INFO:root:Recording time elapsed (min): 2.784026968479143
+INFO:root:Recording time elapsed (min): 2.8043817321458775
+INFO:root:Recording time elapsed (min): 2.8254296223322317
+INFO:root:interf now pointing at: {'ant_w': (19.4274414062, 115.585644531), 'ant_e': (19.5502929688, 116.933105469)}
+INFO:root:
+INFO:root:Iteration: 25
+INFO:root:Tracking time elapsed (min): 2.82672163248062
+INFO:root:Moon is currently at alt, az: 19.592983493445136, 116.9364763416738
+INFO:root:Recording time elapsed (min): 2.8473231712976688
+INFO:root:Recording time elapsed (min): 2.868609170118912
+INFO:root:Recording time elapsed (min): 2.8878822167714446
+INFO:root:Recording time elapsed (min): 2.908958538373261
+INFO:root:Recording time elapsed (min): 2.930239419142362
+INFO:root:interf now pointing at: {'ant_w': (19.7130859375, 116.969921875), 'ant_e': (19.4184570312, 116.933105469)}
+INFO:root:
+INFO:root:Iteration: 26
+INFO:root:Tracking time elapsed (min): 2.941427135467558
+INFO:root:Moon is currently at alt, az: 19.612361703388267, 116.95764100877145
+INFO:root:Recording time elapsed (min): 2.9488305687904326
+INFO:root:Recording time elapsed (min): 2.971737619241086
+INFO:root:Recording time elapsed (min): 2.9930309812227307
+INFO:root:Recording time elapsed (min): 3.014274843533773
+INFO:root:Recording time elapsed (min): 3.0337874452273095
+INFO:root:Recording time elapsed (min): 3.055200882752702
+INFO:root:interf now pointing at: {'ant_w': (19.5153320312, 117.18964843799999), 'ant_e': (19.66015625, 117.020996094)}
+INFO:root:
+INFO:root:Iteration: 27
+INFO:root:Tracking time elapsed (min): 3.0747093637784317
+INFO:root:Moon is currently at alt, az: 19.63487364229104, 116.98224149135616
+INFO:root:Recording time elapsed (min): 3.076625867684646
+INFO:root:Recording time elapsed (min): 3.0976692597070787
+INFO:root:Recording time elapsed (min): 3.1172503511110783
+INFO:root:Recording time elapsed (min): 3.1388926545778695
+INFO:root:Recording time elapsed (min): 3.160168643792449
+INFO:root:Recording time elapsed (min): 3.1797136346498966
+INFO:root:interf now pointing at: {'ant_w': (19.6471679688, 116.794140625), 'ant_e': (19.5942382812, 116.999023438)}
+INFO:root:
+INFO:root:Iteration: 28
+INFO:root:Tracking time elapsed (min): 3.1893139084180078
+INFO:root:Moon is currently at alt, az: 19.654226881448814, 117.00340157832612
+INFO:root:Recording time elapsed (min): 3.1999524394670686
+INFO:root:Recording time elapsed (min): 3.2230293154715817
+INFO:root:Recording time elapsed (min): 3.242588122685728
+INFO:root:Recording time elapsed (min): 3.263913313547704
+INFO:root:Recording time elapsed (min): 3.2851245999335887
+INFO:root:interf now pointing at: {'ant_w': (19.6471679688, 117.101757812), 'ant_e': (19.6381835938, 117.04296875)}
+INFO:root:
+INFO:root:Iteration: 29
+INFO:root:Tracking time elapsed (min): 3.3041514873504862
+INFO:root:Moon is currently at alt, az: 19.673615795477417, 117.02461121388343
+INFO:root:Recording time elapsed (min): 3.3060900131861004
+INFO:root:Recording time elapsed (min): 3.3271417816479953
+INFO:root:Recording time elapsed (min): 3.3448505918184246
+INFO:root:Recording time elapsed (min): 3.3677381634712233
+INFO:root:interf now pointing at: {'ant_w': (19.6471679688, 117.01386718799999), 'ant_e': (19.66015625, 117.020996094)}
+INFO:root:
+INFO:root:Iteration: 30
+INFO:root:Tracking time elapsed (min): 3.381826321283965
+INFO:root:Moon is currently at alt, az: 19.686728148374453, 117.03896087531388
+INFO:root:Recording time elapsed (min): 3.388088119029966
+INFO:root:Recording time elapsed (min): 3.4092366774876393
+INFO:root:Recording time elapsed (min): 3.4305017193157816
+INFO:root:Recording time elapsed (min): 3.451702419916778
+INFO:root:Recording time elapsed (min): 3.4729964256286117
+INFO:root:interf now pointing at: {'ant_w': (19.6471679688, 117.18964843799999), 'ant_e': (19.6821289062, 117.04296875)}
+INFO:root:
+INFO:root:Iteration: 31
+INFO:root:Tracking time elapsed (min): 3.478457967440294
+INFO:root:Moon is currently at alt, az: 19.703038261161502, 117.05681679736873
+INFO:root:Recording time elapsed (min): 3.491350134213711
+INFO:root:Recording time elapsed (min): 3.5143663565317507
+INFO:root:Recording time elapsed (min): 3.5339227755863867
+INFO:root:Recording time elapsed (min): 3.5551680882771652
+INFO:root:interf now pointing at: {'ant_w': (19.6911132812, 117.079785156), 'ant_e': (19.7041015625, 117.04296875)}
+INFO:root:
+INFO:root:Iteration: 32
+INFO:root:Tracking time elapsed (min): 3.574808986981717
+INFO:root:Moon is currently at alt, az: 19.719298406741512, 117.07462547815145
+INFO:root:Recording time elapsed (min): 3.5766433199246173
+INFO:root:Recording time elapsed (min): 3.5976753910381998
+INFO:root:Recording time elapsed (min): 3.6180142482121713
+INFO:root:Recording time elapsed (min): 3.639269832769987
+INFO:root:interf now pointing at: {'ant_w': (19.7790039062, 117.101757812), 'ant_e': (19.6162109375, 117.020996094)}
+INFO:root:
+INFO:root:Iteration: 33
+INFO:root:Tracking time elapsed (min): 3.652383375167876
+INFO:root:Moon is currently at alt, az: 19.73238792951842, 117.0889670009128
+INFO:root:Recording time elapsed (min): 3.65816704829534
+INFO:root:Recording time elapsed (min): 3.6809693574904845
+INFO:root:Recording time elapsed (min): 3.700519621372189
+INFO:root:Recording time elapsed (min): 3.7215745846429815
+INFO:root:Recording time elapsed (min): 3.7425759394963087
+INFO:root:interf now pointing at: {'ant_w': (19.7350585938, 117.0578125), 'ant_e': (19.7260742188, 117.086914062)}
+INFO:root:
+INFO:root:Iteration: 34
+INFO:root:Tracking time elapsed (min): 3.7488166451454408
+INFO:root:Moon is currently at alt, az: 19.748657254764645, 117.10679921832667
+INFO:root:Recording time elapsed (min): 3.7636267781257526
+INFO:root:Recording time elapsed (min): 3.784985637664775
+INFO:root:Recording time elapsed (min): 3.806386180718677
+INFO:root:Recording time elapsed (min): 3.825929816563862
+INFO:root:interf now pointing at: {'ant_w': (19.7130859375, 117.079785156), 'ant_e': (19.748046875, 117.108886719)}
+INFO:root:
+INFO:root:Iteration: 35
+INFO:root:Tracking time elapsed (min): 3.845356472333261
+INFO:root:Moon is currently at alt, az: 19.7649419451468, 117.12465577309827
+INFO:root:Recording time elapsed (min): 3.847328277428943
+INFO:root:Recording time elapsed (min): 3.8684255242347287
+INFO:root:Recording time elapsed (min): 3.8896312793095245
+INFO:root:Recording time elapsed (min): 3.910025620460509
+INFO:root:interf now pointing at: {'ant_w': (19.7130859375, 117.079785156), 'ant_e': (19.7260742188, 117.064941406)}
+INFO:root:
+INFO:root:Iteration: 36
+INFO:root:Tracking time elapsed (min): 3.9229776938756533
+INFO:root:Moon is currently at alt, az: 19.778033477427375, 117.13901639888313
+INFO:root:Recording time elapsed (min): 3.928514015674578
+INFO:root:Recording time elapsed (min): 3.9521780371666004
+INFO:root:Recording time elapsed (min): 3.9718742132186513
+INFO:root:Recording time elapsed (min): 3.9931676864623356
+INFO:root:Recording time elapsed (min): 4.014493159453032
+INFO:root:interf now pointing at: {'ant_w': (19.75703125, 117.123730469), 'ant_e': (19.8139648438, 117.130859375)}
+INFO:root:
+INFO:root:Iteration: 37
+INFO:root:Tracking time elapsed (min): 4.01949414014819
+INFO:root:Moon is currently at alt, az: 19.794309501945694, 117.15687699732429
+INFO:root:Recording time elapsed (min): 4.032586467266066
+INFO:root:Recording time elapsed (min): 4.054786173502558
+INFO:root:Recording time elapsed (min): 4.0755017558733275
+INFO:root:Recording time elapsed (min): 4.095761160055753
+INFO:root:Recording time elapsed (min): 4.11820705334339
+INFO:root:Recording time elapsed (min): 4.138924622535667
+INFO:root:Recording time elapsed (min): 4.1596345146496905
+INFO:root:Recording time elapsed (min): 4.180286916097007
+INFO:root:Recording time elapsed (min): 4.201020463307632
+INFO:root:Recording time elapsed (min): 4.221750036875402
+INFO:root:Recording time elapsed (min): 4.242057136694548
+INFO:root:interf now pointing at: {'ant_w': (19.7790039062, 124.660351562), 'ant_e': (19.7260742188, 117.262695312)}
+INFO:root:
+INFO:root:Iteration: 38
+INFO:root:Tracking time elapsed (min): 4.244306329886083
+INFO:root:Moon is currently at alt, az: 19.832210481899462, 117.19849703811914
+INFO:root:Recording time elapsed (min): 4.262376177310925
+INFO:root:Recording time elapsed (min): 4.284377817312883
+INFO:root:Recording time elapsed (min): 4.3050723632176435
+INFO:root:Recording time elapsed (min): 4.325780566533366
+INFO:root:Recording time elapsed (min): 4.346182020505243
+INFO:root:Recording time elapsed (min): 4.366461181640622
+INFO:root:Recording time elapsed (min): 4.388911616802176
+INFO:root:Recording time elapsed (min): 4.409574345747629
+INFO:root:Recording time elapsed (min): 4.430452473958306
+INFO:root:Recording time elapsed (min): 4.451198879877669
+INFO:root:interf now pointing at: {'ant_w': (19.844921875, 117.23359375), 'ant_e': (19.8579101562, 117.240722656)}
+INFO:root:
+INFO:root:Iteration: 39
+INFO:root:Tracking time elapsed (min): 4.46809507608414
+INFO:root:Moon is currently at alt, az: 19.869924771491426, 117.23995266993529
+INFO:root:Recording time elapsed (min): 4.4716220657030625
+INFO:root:Recording time elapsed (min): 4.492588206132213
+INFO:root:Recording time elapsed (min): 4.5133353551228605
+INFO:root:Recording time elapsed (min): 4.5339678963025065
+INFO:root:Recording time elapsed (min): 4.554624831676417
+INFO:root:Recording time elapsed (min): 4.575317084789221
+INFO:root:interf now pointing at: {'ant_w': (19.844921875, 117.18964843799999), 'ant_e': (19.8359375, 117.152832031)}
+INFO:root:
+INFO:root:Iteration: 40
+INFO:root:Tracking time elapsed (min): 4.583108886082998
+INFO:root:Moon is currently at alt, az: 19.889302124222056, 117.26126808840517
+INFO:root:Recording time elapsed (min): 4.596202063560417
+INFO:root:Recording time elapsed (min): 4.616625773906717
+INFO:root:Recording time elapsed (min): 4.638829068342787
+INFO:root:Recording time elapsed (min): 4.659326986471806
+INFO:root:Recording time elapsed (min): 4.679882423082962
+INFO:root:Recording time elapsed (min): 4.700536886850992
+INFO:root:interf now pointing at: {'ant_w': (19.9328125, 117.145703125), 'ant_e': (19.9677734375, 117.372558594)}
+INFO:root:
+INFO:root:Iteration: 41
+INFO:root:Tracking time elapsed (min): 4.715179085731478
+INFO:root:Moon is currently at alt, az: 19.91154849669133, 117.28575272312206
+INFO:root:Recording time elapsed (min): 4.720413156350398
+INFO:root:Recording time elapsed (min): 4.741588052113848
+INFO:root:Recording time elapsed (min): 4.764571146170233
+INFO:root:Recording time elapsed (min): 4.784104263782494
+INFO:root:Recording time elapsed (min): 4.805417998631771
+INFO:root:Recording time elapsed (min): 4.826762866973873
+INFO:root:Recording time elapsed (min): 4.848041665553993
+INFO:root:interf now pointing at: {'ant_w': (19.8888671875, 118.310253906), 'ant_e': (19.9018554688, 117.262695312)}
+INFO:root:
+INFO:root:Iteration: 42
+INFO:root:Tracking time elapsed (min): 4.848352591196665
+INFO:root:Moon is currently at alt, az: 19.93397571435118, 117.3104507534029
+INFO:root:Recording time elapsed (min): 4.867380138238238
+INFO:root:Recording time elapsed (min): 4.888617384433704
+INFO:root:Recording time elapsed (min): 4.909847040971069
+INFO:root:Recording time elapsed (min): 4.93109651803965
+INFO:root:Recording time elapsed (min): 4.95055893262224
+INFO:root:Recording time elapsed (min): 4.971021393934896
+INFO:root:Recording time elapsed (min): 4.993176619211832
+INFO:root:interf now pointing at: {'ant_w': (19.9108398438, 117.629101562), 'ant_e': (19.9677734375, 117.306640625)}
+INFO:root:
+INFO:root:Iteration: 43
+INFO:root:Tracking time elapsed (min): 4.999112407366431
+INFO:root:Moon is currently at alt, az: 19.959358505261743, 117.33842103689508
+INFO:root:Recording time elapsed (min): 5.0138602415720435
+INFO:root:Recording time elapsed (min): 5.0345628738403025
+INFO:root:Recording time elapsed (min): 5.055008633931433
+INFO:root:Recording time elapsed (min): 5.075391566753336
+INFO:root:Recording time elapsed (min): 5.095849355061848
+INFO:root:Recording time elapsed (min): 5.118019239107703
+INFO:root:interf now pointing at: {'ant_w': (19.9108398438, 117.255566406), 'ant_e': (19.9677734375, 117.372558594)}
+INFO:root:
+INFO:root:Iteration: 44
+INFO:root:Tracking time elapsed (min): 5.131169648965157
+INFO:root:Moon is currently at alt, az: 19.981587123623434, 117.36293083561687
+INFO:root:Recording time elapsed (min): 5.137855807940115
+INFO:root:Recording time elapsed (min): 5.15864564577738
+INFO:root:Recording time elapsed (min): 5.180657533804567
+INFO:root:Recording time elapsed (min): 5.200950789451584
+INFO:root:Recording time elapsed (min): 5.222417600949578
+INFO:root:Recording time elapsed (min): 5.242901496092465
+INFO:root:interf now pointing at: {'ant_w': (19.9987304688, 117.23359375), 'ant_e': (20.099609375, 117.416503906)}
+INFO:root:
+INFO:root:Iteration: 45
+INFO:root:Tracking time elapsed (min): 5.2458960175514235
+INFO:root:Moon is currently at alt, az: 20.000894488626745, 117.38423114618517
+INFO:root:Recording time elapsed (min): 5.264367791016875
+INFO:root:Recording time elapsed (min): 5.28509010076518
+INFO:root:Recording time elapsed (min): 5.3058070580163985
+INFO:root:Recording time elapsed (min): 5.326533210277491
+INFO:root:Recording time elapsed (min): 5.347259640693602
+INFO:root:interf now pointing at: {'ant_w': (20.0646484375, 117.980664062), 'ant_e': (19.9897460938, 117.39453125)}
+INFO:root:
+INFO:root:Iteration: 46
+INFO:root:Tracking time elapsed (min): 5.359676265716562
+INFO:root:Moon is currently at alt, az: 20.020038932979265, 117.4053623420738
+INFO:root:Recording time elapsed (min): 5.366994722684204
+INFO:root:Recording time elapsed (min): 5.387532333532974
+INFO:root:Recording time elapsed (min): 5.4097012837727565
+INFO:root:Recording time elapsed (min): 5.430182206630665
+INFO:root:Recording time elapsed (min): 5.450669618447623
+INFO:root:Recording time elapsed (min): 5.471221156914972
+INFO:root:interf now pointing at: {'ant_w': (20.0426757812, 115.717480469), 'ant_e': (20.0336914062, 117.504394531)}
+INFO:root:
+INFO:root:Iteration: 47
+INFO:root:Tracking time elapsed (min): 5.474002877871191
+INFO:root:Moon is currently at alt, az: 20.0392715931998, 117.42660157735057
+INFO:root:Recording time elapsed (min): 5.492836956183087
+INFO:root:Recording time elapsed (min): 5.514070101579014
+INFO:root:Recording time elapsed (min): 5.535310248533873
+INFO:root:Recording time elapsed (min): 5.553107357025118
+INFO:root:Recording time elapsed (min): 5.5759917934735
+INFO:root:Recording time elapsed (min): 5.597227561473801
+INFO:root:Recording time elapsed (min): 5.6169396519660975
+INFO:root:interf now pointing at: {'ant_w': (20.020703125, 117.848828125), 'ant_e': (19.923828125, 117.5703125)}
+INFO:root:
+INFO:root:Iteration: 48
+INFO:root:Tracking time elapsed (min): 5.624491159121208
+INFO:root:Moon is currently at alt, az: 20.064581890316013, 117.45456886200621
+INFO:root:Recording time elapsed (min): 5.638157331943479
+INFO:root:Recording time elapsed (min): 5.659253140290552
+INFO:root:Recording time elapsed (min): 5.680551612377176
+INFO:root:Recording time elapsed (min): 5.701818072795843
+INFO:root:Recording time elapsed (min): 5.722333931922909
+INFO:root:Recording time elapsed (min): 5.741632668177248
+INFO:root:Recording time elapsed (min): 5.764377832412668
+INFO:root:interf now pointing at: {'ant_w': (20.0646484375, 118.859570312), 'ant_e': (20.0556640625, 117.482421875)}
+INFO:root:
+INFO:root:Iteration: 49
+INFO:root:Tracking time elapsed (min): 5.774924063682549
+INFO:root:Moon is currently at alt, az: 20.08987641228579, 117.48253728293533
+INFO:root:Recording time elapsed (min): 5.782623362541175
+INFO:root:Recording time elapsed (min): 5.805534454186727
+INFO:root:Recording time elapsed (min): 5.826745128631554
+INFO:root:Recording time elapsed (min): 5.8478137254715
+INFO:root:Recording time elapsed (min): 5.867335180441549
+INFO:root:Recording time elapsed (min): 5.888580437501227
+INFO:root:Recording time elapsed (min): 5.909808743000031
+INFO:root:interf now pointing at: {'ant_w': (20.0646484375, 117.321484375), 'ant_e': (20.1435546875, 117.438476562)}
+INFO:root:
+INFO:root:Iteration: 50
+INFO:root:Tracking time elapsed (min): 5.925739920139286
+INFO:root:Moon is currently at alt, az: 20.1152288303851, 117.51058838458815
+INFO:root:Recording time elapsed (min): 5.9295700867970424
+INFO:root:Recording time elapsed (min): 5.950516458352375
+INFO:root:Recording time elapsed (min): 5.971719213326763
+INFO:root:Recording time elapsed (min): 5.992611344655305
+INFO:root:Recording time elapsed (min): 6.013267346223143
+INFO:root:interf now pointing at: {'ant_w': (20.0646484375, 117.695019531), 'ant_e': (20.099609375, 117.526367188)}
+INFO:root:
+INFO:root:Iteration: 51
+INFO:root:Tracking time elapsed (min): 6.021346886952719
+INFO:root:Moon is currently at alt, az: 20.131297163916077, 117.5283768313052
+INFO:root:Recording time elapsed (min): 6.03496556282038
+INFO:root:Recording time elapsed (min): 6.056221866607672
+INFO:root:Recording time elapsed (min): 6.075600198904647
+INFO:root:Recording time elapsed (min): 6.094854052861507
+INFO:root:Recording time elapsed (min): 6.115815289815272
+INFO:root:interf now pointing at: {'ant_w': (20.196484375, 117.167675781), 'ant_e': (20.099609375, 117.482421875)}
+INFO:root:
+INFO:root:Iteration: 52
+INFO:root:Tracking time elapsed (min): 6.116659832000737
+INFO:root:Moon is currently at alt, az: 20.147313473524854, 117.54611518042009
+INFO:root:Recording time elapsed (min): 6.136885118484496
+INFO:root:Recording time elapsed (min): 6.157840267817134
+INFO:root:Recording time elapsed (min): 6.178802212079351
+INFO:root:Recording time elapsed (min): 6.199760337670588
+INFO:root:Recording time elapsed (min): 6.220723187923367
+INFO:root:interf now pointing at: {'ant_w': (20.196484375, 117.695019531), 'ant_e': (20.1215820312, 117.592285156)}
+INFO:root:
+INFO:root:Iteration: 53
+INFO:root:Tracking time elapsed (min): 6.2303800622621885
+INFO:root:Moon is currently at alt, az: 20.166419519666828, 117.56728526790786
+INFO:root:Recording time elapsed (min): 6.2417114257812045
+INFO:root:Recording time elapsed (min): 6.262710384527779
+INFO:root:Recording time elapsed (min): 6.283671251932752
+INFO:root:Recording time elapsed (min): 6.304870251814503
+INFO:root:Recording time elapsed (min): 6.32475360234575
+INFO:root:interf now pointing at: {'ant_w': (20.196484375, 117.695019531), 'ant_e': (20.1435546875, 117.5703125)}
+INFO:root:
+INFO:root:Iteration: 54
+INFO:root:Tracking time elapsed (min): 6.344183051586123
+INFO:root:Moon is currently at alt, az: 20.185535753189782, 117.58847732972718
+INFO:root:Recording time elapsed (min): 6.347114539146421
+INFO:root:Recording time elapsed (min): 6.368198474248228
+INFO:root:Recording time elapsed (min): 6.3894617557525635
+INFO:root:Recording time elapsed (min): 6.410715921719854
+INFO:root:Recording time elapsed (min): 6.430227470397956
+INFO:root:Recording time elapsed (min): 6.4514561692873595
+INFO:root:Recording time elapsed (min): 6.472692171732524
+INFO:root:Recording time elapsed (min): 6.493890996773972
+INFO:root:Recording time elapsed (min): 6.513400928179358
+INFO:root:Recording time elapsed (min): 6.5346258560816395
+INFO:root:Recording time elapsed (min): 6.555837984879744
+INFO:root:Recording time elapsed (min): 6.577075068155933
+INFO:root:interf now pointing at: {'ant_w': (20.1745117188, 127.978222656), 'ant_e': (20.1215820312, 117.482421875)}
+INFO:root:
+INFO:root:Iteration: 55
+INFO:root:Tracking time elapsed (min): 6.587823450565322
+INFO:root:Moon is currently at alt, az: 20.226449107754767, 117.63386945491114
+INFO:root:Recording time elapsed (min): 6.595514460404717
+INFO:root:Recording time elapsed (min): 6.618290678660053
+INFO:root:Recording time elapsed (min): 6.6395762046177875
+INFO:root:Recording time elapsed (min): 6.659089342753095
+INFO:root:Recording time elapsed (min): 6.68032596508656
+INFO:root:Recording time elapsed (min): 6.701548397540993
+INFO:root:Recording time elapsed (min): 6.722898685932144
+INFO:root:Recording time elapsed (min): 6.742440394560463
+INFO:root:Recording time elapsed (min): 6.7637122154235385
+INFO:root:Recording time elapsed (min): 6.784835783640535
+INFO:root:Recording time elapsed (min): 6.806060949961301
+INFO:root:Recording time elapsed (min): 6.825556027889199
+INFO:root:Recording time elapsed (min): 6.846614861488289
+INFO:root:interf now pointing at: {'ant_w': (20.1745117188, 117.58515625), 'ant_e': (20.2094726562, 117.636230469)}
+INFO:root:
+INFO:root:Iteration: 56
+INFO:root:Tracking time elapsed (min): 6.84956486622494
+INFO:root:Moon is currently at alt, az: 20.27038302462178, 117.6826675923437
+INFO:root:Recording time elapsed (min): 6.86807747681935
+INFO:root:Recording time elapsed (min): 6.887601367632525
+INFO:root:Recording time elapsed (min): 6.910435406366986
+INFO:root:Recording time elapsed (min): 6.929939428965248
+INFO:root:interf now pointing at: {'ant_w': (20.2624023438, 117.804882812), 'ant_e': (20.275390625, 117.636230469)}
+INFO:root:
+INFO:root:Iteration: 57
+INFO:root:Tracking time elapsed (min): 6.945855319499961
+INFO:root:Moon is currently at alt, az: 20.286540631393645, 117.70062842603033
+INFO:root:Recording time elapsed (min): 6.949470154444377
+INFO:root:Recording time elapsed (min): 6.972327097256912
+INFO:root:Recording time elapsed (min): 6.993546243508595
+INFO:root:Recording time elapsed (min): 7.014803671836827
+INFO:root:Recording time elapsed (min): 7.034349469343821
+INFO:root:Recording time elapsed (min): 7.055605530738767
+INFO:root:interf now pointing at: {'ant_w': (20.284375, 117.673046875), 'ant_e': (20.3852539062, 117.702148438)}
+INFO:root:
+INFO:root:Iteration: 58
+INFO:root:Tracking time elapsed (min): 7.059580842653936
+INFO:root:Moon is currently at alt, az: 20.30562040259972, 117.7218474753008
+INFO:root:Recording time elapsed (min): 7.077227365970611
+INFO:root:Recording time elapsed (min): 7.0962021509806394
+INFO:root:Recording time elapsed (min): 7.118454591433165
+INFO:root:Recording time elapsed (min): 7.1389012813567465
+INFO:root:Recording time elapsed (min): 7.159358489513332
+INFO:root:interf now pointing at: {'ant_w': (20.3283203125, 117.695019531), 'ant_e': (20.2973632812, 117.724121094)}
+INFO:root:
+INFO:root:Iteration: 59
+INFO:root:Tracking time elapsed (min): 7.174169329802176
+INFO:root:Moon is currently at alt, az: 20.32484116868128, 117.74323421734105
+INFO:root:Recording time elapsed (min): 7.179343171914354
+INFO:root:Recording time elapsed (min): 7.201890341440826
+INFO:root:Recording time elapsed (min): 7.222205483913395
+INFO:root:Recording time elapsed (min): 7.242929875850681
+INFO:root:Recording time elapsed (min): 7.264045000076251
+INFO:root:Recording time elapsed (min): 7.284374292691558
+INFO:root:interf now pointing at: {'ant_w': (20.3283203125, 118.024609375), 'ant_e': (20.2314453125, 117.768066406)}
+INFO:root:
+INFO:root:Iteration: 60
+INFO:root:Tracking time elapsed (min): 7.288590125242855
+INFO:root:Moon is currently at alt, az: 20.3440300129115, 117.76459635845755
+INFO:root:Recording time elapsed (min): 7.305362240473432
+INFO:root:Recording time elapsed (min): 7.325663443406398
+INFO:root:Recording time elapsed (min): 7.346396088600162
+INFO:root:Recording time elapsed (min): 7.3669962604840045
+INFO:root:Recording time elapsed (min): 7.389371327559147
+INFO:root:interf now pointing at: {'ant_w': (20.3942382812, 117.870800781), 'ant_e': (20.275390625, 117.790039062)}
+INFO:root:
+INFO:root:Iteration: 61
+INFO:root:Tracking time elapsed (min): 7.402218810717276
+INFO:root:Moon is currently at alt, az: 20.36308225979644, 117.7858172421858
+INFO:root:Recording time elapsed (min): 7.407926114400212
+INFO:root:Recording time elapsed (min): 7.430688405036889
+INFO:root:Recording time elapsed (min): 7.451998742421457
+INFO:root:Recording time elapsed (min): 7.473260227839154
+INFO:root:Recording time elapsed (min): 7.492797346909779
+INFO:root:Recording time elapsed (min): 7.514043001333839
+INFO:root:interf now pointing at: {'ant_w': (20.3942382812, 117.89277343799999), 'ant_e': (20.3413085938, 117.812011719)}
+INFO:root:
+INFO:root:Iteration: 62
+INFO:root:Tracking time elapsed (min): 7.516967848936673
+INFO:root:Moon is currently at alt, az: 20.382318554673454, 117.80725406841007
+INFO:root:Recording time elapsed (min): 7.533911991119373
+INFO:root:Recording time elapsed (min): 7.555191214879304
+INFO:root:Recording time elapsed (min): 7.576424952348022
+INFO:root:Recording time elapsed (min): 7.597673300902041
+INFO:root:interf now pointing at: {'ant_w': (20.3502929688, 117.826855469), 'ant_e': (20.4731445312, 117.812011719)}
+INFO:root:
+INFO:root:Iteration: 63
+INFO:root:Tracking time elapsed (min): 7.613562381267549
+INFO:root:Moon is currently at alt, az: 20.3985084994412, 117.82530459401399
+INFO:root:Recording time elapsed (min): 7.617907782395674
+INFO:root:Recording time elapsed (min): 7.6384527087211485
+INFO:root:Recording time elapsed (min): 7.658901834487857
+INFO:root:Recording time elapsed (min): 7.67960857947668
+INFO:root:Recording time elapsed (min): 7.701842590173085
+INFO:root:Recording time elapsed (min): 7.722355433305097
+INFO:root:interf now pointing at: {'ant_w': (20.3502929688, 117.7609375), 'ant_e': (20.36328125, 117.790039062)}
+INFO:root:
+INFO:root:Iteration: 64
+INFO:root:Tracking time elapsed (min): 7.728032767772683
+INFO:root:Moon is currently at alt, az: 20.417691054015496, 117.84670175928252
+INFO:root:Recording time elapsed (min): 7.7428576032320695
+INFO:root:Recording time elapsed (min): 7.763532872994707
+INFO:root:Recording time elapsed (min): 7.784013144175184
+INFO:root:Recording time elapsed (min): 7.8044972817102565
+INFO:root:Recording time elapsed (min): 7.826758893330847
+INFO:root:Recording time elapsed (min): 7.84744504690166
+INFO:root:Recording time elapsed (min): 7.868168787161514
+INFO:root:Recording time elapsed (min): 7.888885196050017
+INFO:root:interf now pointing at: {'ant_w': (20.4381835938, 120.441601562), 'ant_e': (20.3852539062, 117.921875)}
+INFO:root:
+INFO:root:Iteration: 65
+INFO:root:Tracking time elapsed (min): 7.896992484728491
+INFO:root:Moon is currently at alt, az: 20.445997771995234, 117.87829653555856
+INFO:root:Recording time elapsed (min): 7.910150174299817
+INFO:root:Recording time elapsed (min): 7.930713526407871
+INFO:root:Recording time elapsed (min): 7.951161738236694
+INFO:root:Recording time elapsed (min): 7.97163184086477
+INFO:root:Recording time elapsed (min): 7.992027751604693
+INFO:root:Recording time elapsed (min): 8.014210657278644
+INFO:root:Recording time elapsed (min): 8.034638671080216
+INFO:root:interf now pointing at: {'ant_w': (20.5041015625, 116.860058594), 'ant_e': (20.4072265625, 117.855957031)}
+INFO:root:
+INFO:root:Iteration: 66
+INFO:root:Tracking time elapsed (min): 8.047470613320673
+INFO:root:Moon is currently at alt, az: 20.471201164812594, 117.9064476846351
+INFO:root:Recording time elapsed (min): 8.054405355453449
+INFO:root:Recording time elapsed (min): 8.076922881603208
+INFO:root:Recording time elapsed (min): 8.097665146986577
+INFO:root:Recording time elapsed (min): 8.118751700719136
+INFO:root:Recording time elapsed (min): 8.139479454358378
+INFO:root:Recording time elapsed (min): 8.159740412235257
+INFO:root:Recording time elapsed (min): 8.180451277891727
+INFO:root:Recording time elapsed (min): 8.201161472002658
+INFO:root:interf now pointing at: {'ant_w': (20.5700195312, 121.298535156), 'ant_e': (20.2314453125, 117.987792969)}
+INFO:root:
+INFO:root:Iteration: 67
+INFO:root:Tracking time elapsed (min): 8.217239173253397
+INFO:root:Moon is currently at alt, az: 20.49962754951219, 117.9382216397955
+INFO:root:Recording time elapsed (min): 8.22130418221156
+INFO:root:Recording time elapsed (min): 8.244083972771907
+INFO:root:Recording time elapsed (min): 8.263657959302257
+INFO:root:Recording time elapsed (min): 8.284951416651376
+INFO:root:Recording time elapsed (min): 8.306207879384324
+INFO:root:Recording time elapsed (min): 8.32744947671884
+INFO:root:Recording time elapsed (min): 8.347012690703055
+INFO:root:Recording time elapsed (min): 8.3683488607406
+INFO:root:interf now pointing at: {'ant_w': (20.5260742188, 117.71699218799999), 'ant_e': (20.1435546875, 117.899902344)}
+INFO:root:
+INFO:root:Iteration: 68
+INFO:root:Tracking time elapsed (min): 8.386779785156229
+INFO:root:Moon is currently at alt, az: 20.528007354121474, 117.96996775456088
+INFO:root:Recording time elapsed (min): 8.389247012138306
+INFO:root:Recording time elapsed (min): 8.41037616332371
+INFO:root:Recording time elapsed (min): 8.43105837901434
+INFO:root:Recording time elapsed (min): 8.451792399088474
+INFO:root:Recording time elapsed (min): 8.472510464986147
+INFO:root:Recording time elapsed (min): 8.493193368116962
+INFO:root:Recording time elapsed (min): 8.513465646902691
+INFO:root:interf now pointing at: {'ant_w': (20.5260742188, 117.870800781), 'ant_e': (20.4951171875, 117.987792969)}
+INFO:root:
+INFO:root:Iteration: 69
+INFO:root:Tracking time elapsed (min): 8.519664450486486
+INFO:root:Moon is currently at alt, az: 20.550245348662298, 117.99486049018225
+INFO:root:Recording time elapsed (min): 8.535096824169122
+INFO:root:Recording time elapsed (min): 8.556403124332412
+INFO:root:Recording time elapsed (min): 8.575840687751715
+INFO:root:Recording time elapsed (min): 8.597138730684906
+INFO:root:Recording time elapsed (min): 8.61840298970539
+INFO:root:interf now pointing at: {'ant_w': (20.5260742188, 118.24433593799999), 'ant_e': (20.5170898438, 117.833984375)}
+INFO:root:
+INFO:root:Iteration: 70
+INFO:root:Tracking time elapsed (min): 8.633379256725267
+INFO:root:Moon is currently at alt, az: 20.569271192112257, 118.01616945737341
+INFO:root:Recording time elapsed (min): 8.638646101951535
+INFO:root:Recording time elapsed (min): 8.659699118137354
+INFO:root:Recording time elapsed (min): 8.680964080492588
+INFO:root:Recording time elapsed (min): 8.702239076296454
+INFO:root:Recording time elapsed (min): 8.72197158336638
+INFO:root:Recording time elapsed (min): 8.743281133969587
+INFO:root:Recording time elapsed (min): 8.76459788878754
+INFO:root:Recording time elapsed (min): 8.785927776495548
+INFO:root:Recording time elapsed (min): 8.805577011903107
+INFO:root:Recording time elapsed (min): 8.826678566137947
+INFO:root:Recording time elapsed (min): 8.847988800207718
+INFO:root:Recording time elapsed (min): 8.869280664126089
+INFO:root:Recording time elapsed (min): 8.888846945762596
+INFO:root:Recording time elapsed (min): 8.910193995634694
+INFO:root:interf now pointing at: {'ant_w': (20.548046875, 132.21894531200002), 'ant_e': (20.4072265625, 117.921875)}
+INFO:root:
+INFO:root:Iteration: 71
+INFO:root:Tracking time elapsed (min): 8.913677362600927
+INFO:root:Moon is currently at alt, az: 20.616152190224692, 118.06872295791625
+INFO:root:Recording time elapsed (min): 8.929814390341386
+INFO:root:Recording time elapsed (min): 8.951101334889726
+INFO:root:Recording time elapsed (min): 8.972326628367098
+INFO:root:Recording time elapsed (min): 8.993620240688331
+INFO:root:Recording time elapsed (min): 9.014879405498482
+INFO:root:Recording time elapsed (min): 9.034434572855572
+INFO:root:Recording time elapsed (min): 9.056521165370874
+INFO:root:Recording time elapsed (min): 9.076066120465569
+INFO:root:Recording time elapsed (min): 9.097393230597168
+INFO:root:Recording time elapsed (min): 9.118659345308933
+INFO:root:Recording time elapsed (min): 9.139944251378367
+INFO:root:Recording time elapsed (min): 9.159468770027166
+INFO:root:interf now pointing at: {'ant_w': (20.5919921875, 117.980664062), 'ant_e': (20.5610351562, 118.119628906)}
+INFO:root:
+INFO:root:Iteration: 72
+INFO:root:Tracking time elapsed (min): 9.175423586368536
+INFO:root:Moon is currently at alt, az: 20.659909432906975, 118.11783489433115
+INFO:root:Recording time elapsed (min): 9.179731281598418
+INFO:root:Recording time elapsed (min): 9.202518089612264
+INFO:root:Recording time elapsed (min): 9.22210858265557
+INFO:root:Recording time elapsed (min): 9.243388283252711
+INFO:root:Recording time elapsed (min): 9.264629666010471
+INFO:root:Recording time elapsed (min): 9.285889498392699
+INFO:root:interf now pointing at: {'ant_w': (20.6359375, 118.200390625), 'ant_e': (20.802734375, 118.119628906)}
+INFO:root:
+INFO:root:Iteration: 73
+INFO:root:Tracking time elapsed (min): 9.289965061346699
+INFO:root:Moon is currently at alt, az: 20.67905146869754, 118.13933771143714
+INFO:root:Recording time elapsed (min): 9.303879141807547
+INFO:root:Recording time elapsed (min): 9.326929159959159
+INFO:root:Recording time elapsed (min): 9.3481766144434
+INFO:root:Recording time elapsed (min): 9.367717182636213
+INFO:root:interf now pointing at: {'ant_w': (20.6359375, 118.002636719), 'ant_e': (20.6049804688, 118.141601562)}
+INFO:root:
+INFO:root:Iteration: 74
+INFO:root:Tracking time elapsed (min): 9.38645348548886
+INFO:root:Moon is currently at alt, az: 20.695173493553305, 118.15745672847673
+INFO:root:Recording time elapsed (min): 9.388752341270434
+INFO:root:Recording time elapsed (min): 9.409777939319612
+INFO:root:Recording time elapsed (min): 9.431075847148875
+INFO:root:Recording time elapsed (min): 9.452312258879285
+INFO:root:Recording time elapsed (min): 9.471937652428917
+INFO:root:Recording time elapsed (min): 9.49275385936101
+INFO:root:interf now pointing at: {'ant_w': (20.7458007812, 117.914746094), 'ant_e': (20.6708984375, 118.141601562)}
+INFO:root:
+INFO:root:Iteration: 75
+INFO:root:Tracking time elapsed (min): 9.500909602642054
+INFO:root:Moon is currently at alt, az: 20.7142941295091, 118.1789560757773
+INFO:root:Recording time elapsed (min): 9.514018623034133
+INFO:root:Recording time elapsed (min): 9.534500126043888
+INFO:root:Recording time elapsed (min): 9.554987247784883
+INFO:root:Recording time elapsed (min): 9.575479412078813
+INFO:root:Recording time elapsed (min): 9.597659031550094
+INFO:root:interf now pointing at: {'ant_w': (20.7458007812, 118.222363281), 'ant_e': (20.71484375, 118.185546875)}
+INFO:root:
+INFO:root:Iteration: 76
+INFO:root:Tracking time elapsed (min): 9.614616183439866
+INFO:root:Moon is currently at alt, az: 20.733285711692133, 118.200321382784
+INFO:root:Recording time elapsed (min): 9.618022453784931
+INFO:root:Recording time elapsed (min): 9.638487974802636
+INFO:root:Recording time elapsed (min): 9.658996462821898
+INFO:root:Recording time elapsed (min): 9.681124218304955
+INFO:root:Recording time elapsed (min): 9.701529089609728
+INFO:root:interf now pointing at: {'ant_w': (20.7458007812, 118.354199219), 'ant_e': (20.6708984375, 118.185546875)}
+INFO:root:
+INFO:root:Iteration: 77
+INFO:root:Tracking time elapsed (min): 9.711367654800434
+INFO:root:Moon is currently at alt, az: 20.749442389709117, 118.21850615251553
+INFO:root:Recording time elapsed (min): 9.7214145342509
+INFO:root:Recording time elapsed (min): 9.743854359785677
+INFO:root:Recording time elapsed (min): 9.764560886224043
+INFO:root:Recording time elapsed (min): 9.78537749846776
+INFO:root:Recording time elapsed (min): 9.806275574366259
+INFO:root:interf now pointing at: {'ant_w': (20.7458007812, 118.24433593799999), 'ant_e': (20.7368164062, 118.229492188)}
+INFO:root:
+INFO:root:Iteration: 78
+INFO:root:Tracking time elapsed (min): 9.825484951337184
+INFO:root:Moon is currently at alt, az: 20.768495445636063, 118.23996116164467
+INFO:root:Recording time elapsed (min): 9.826855981349905
+INFO:root:Recording time elapsed (min): 9.848250683148647
+INFO:root:Recording time elapsed (min): 9.868684347470591
+INFO:root:Recording time elapsed (min): 9.889147496223432
+INFO:root:Recording time elapsed (min): 9.909543557961769
+INFO:root:interf now pointing at: {'ant_w': (20.7458007812, 118.200390625), 'ant_e': (20.7587890625, 118.229492188)}
+INFO:root:
+INFO:root:Iteration: 79
+INFO:root:Tracking time elapsed (min): 9.9209121545156
+INFO:root:Moon is currently at alt, az: 20.784425031086357, 118.25790749364027
+INFO:root:Recording time elapsed (min): 9.929148674011241
+INFO:root:Recording time elapsed (min): 9.951656937599163
+INFO:root:Recording time elapsed (min): 9.972266185283596
+INFO:root:Recording time elapsed (min): 9.992958704630475
+INFO:root:Recording time elapsed (min): 10.013642553488387
+INFO:root:interf now pointing at: {'ant_w': (20.7458007812, 118.200390625), 'ant_e': (20.7807617188, 118.251464844)}
+INFO:root:
+INFO:root:Iteration: 80
+INFO:root:Tracking time elapsed (min): 10.017001875241558
+INFO:root:Moon is currently at alt, az: 20.80046247670698, 118.27598322598514
+INFO:root:Recording time elapsed (min): 10.035210744539853
+INFO:root:Recording time elapsed (min): 10.055492436885833
+INFO:root:Recording time elapsed (min): 10.076913853486387
+INFO:root:Recording time elapsed (min): 10.097463162740041
+INFO:root:interf now pointing at: {'ant_w': (20.7897460938, 118.266308594), 'ant_e': (20.7587890625, 118.2734375)}
+INFO:root:
+INFO:root:Iteration: 81
+INFO:root:Tracking time elapsed (min): 10.1122484842936
+INFO:root:Moon is currently at alt, az: 20.816356497409462, 118.29390512025758
+INFO:root:Recording time elapsed (min): 10.117421972751552
+INFO:root:Recording time elapsed (min): 10.137761934598277
+INFO:root:Recording time elapsed (min): 10.160179130236298
+INFO:root:Recording time elapsed (min): 10.180868657430011
+INFO:root:Recording time elapsed (min): 10.201910467942561
+INFO:root:Recording time elapsed (min): 10.22317564090093
+INFO:root:interf now pointing at: {'ant_w': (20.81171875, 118.354199219), 'ant_e': (20.7807617188, 118.295410156)}
+INFO:root:
+INFO:root:Iteration: 82
+INFO:root:Tracking time elapsed (min): 10.227071249485045
+INFO:root:Moon is currently at alt, az: 20.835513646382214, 118.31551683177123
+INFO:root:Recording time elapsed (min): 10.242556059360508
+INFO:root:Recording time elapsed (min): 10.263839062054885
+INFO:root:Recording time elapsed (min): 10.285403255621528
+INFO:root:Recording time elapsed (min): 10.306707334518368
+INFO:root:interf now pointing at: {'ant_w': (20.8336914062, 118.310253906), 'ant_e': (20.8247070312, 118.317382812)}
+INFO:root:
+INFO:root:Iteration: 83
+INFO:root:Tracking time elapsed (min): 10.323281049728372
+INFO:root:Moon is currently at alt, az: 20.8515623655937, 118.33363056232064
+INFO:root:Recording time elapsed (min): 10.326041038831075
+INFO:root:Recording time elapsed (min): 10.347064272562632
+INFO:root:Recording time elapsed (min): 10.368334579467708
+INFO:root:Recording time elapsed (min): 10.389610838890064
+INFO:root:Recording time elapsed (min): 10.41084021727241
+INFO:root:Recording time elapsed (min): 10.430334631601932
+INFO:root:interf now pointing at: {'ant_w': (20.899609375, 118.06855468799999), 'ant_e': (20.7807617188, 118.361328125)}
+INFO:root:
+INFO:root:Iteration: 84
+INFO:root:Tracking time elapsed (min): 10.437912408510854
+INFO:root:Moon is currently at alt, az: 20.870680372970295, 118.35521890955545
+INFO:root:Recording time elapsed (min): 10.450204288959464
+INFO:root:Recording time elapsed (min): 10.473138070106494
+INFO:root:Recording time elapsed (min): 10.494526557127584
+INFO:root:Recording time elapsed (min): 10.51490882635111
+INFO:root:Recording time elapsed (min): 10.534441777070311
+INFO:root:interf now pointing at: {'ant_w': (20.8776367188, 118.354199219), 'ant_e': (20.8686523438, 118.317382812)}
+INFO:root:
+INFO:root:Iteration: 85
+INFO:root:Tracking time elapsed (min): 10.552808034419998
+INFO:root:Moon is currently at alt, az: 20.889838519547418, 118.37686393986763
+INFO:root:Recording time elapsed (min): 10.555520109335523
+INFO:root:Recording time elapsed (min): 10.576583405335702
+INFO:root:Recording time elapsed (min): 10.597853946685722
+INFO:root:Recording time elapsed (min): 10.619072115421258
+INFO:root:Recording time elapsed (min): 10.638578001658123
+INFO:root:interf now pointing at: {'ant_w': (20.8776367188, 118.354199219), 'ant_e': (20.890625, 118.405273438)}
+INFO:root:
+INFO:root:Iteration: 86
+INFO:root:Tracking time elapsed (min): 10.649428955713889
+INFO:root:Moon is currently at alt, az: 20.905946416606366, 118.39507158548342
+INFO:root:Recording time elapsed (min): 10.658759442965193
+INFO:root:Recording time elapsed (min): 10.681798962751987
+INFO:root:Recording time elapsed (min): 10.70129981438316
+INFO:root:Recording time elapsed (min): 10.72253226439158
+INFO:root:Recording time elapsed (min): 10.743636484940788
+INFO:root:interf now pointing at: {'ant_w': (20.8776367188, 118.508007812), 'ant_e': (20.890625, 118.405273438)}
+INFO:root:
+INFO:root:Iteration: 87
+INFO:root:Tracking time elapsed (min): 10.763974241415628
+INFO:root:Moon is currently at alt, az: 20.92503890839707, 118.41666332405121
+INFO:root:Recording time elapsed (min): 10.76622087160743
+INFO:root:Recording time elapsed (min): 10.785578103860214
+INFO:root:Recording time elapsed (min): 10.806836032867384
+INFO:root:Recording time elapsed (min): 10.826381925741773
+INFO:root:Recording time elapsed (min): 10.847647070884712
+INFO:root:Recording time elapsed (min): 10.868888918558737
+INFO:root:interf now pointing at: {'ant_w': (20.9435546875, 113.608105469), 'ant_e': (20.5390625, 118.44921875)}
+INFO:root:
+INFO:root:Iteration: 88
+INFO:root:Tracking time elapsed (min): 10.878838952382406
+INFO:root:Moon is currently at alt, az: 20.944180698706578, 118.43832220024125
+INFO:root:Recording time elapsed (min): 10.887242348988817
+INFO:root:Recording time elapsed (min): 10.910094745953813
+INFO:root:Recording time elapsed (min): 10.931340507666212
+INFO:root:Recording time elapsed (min): 10.952593668301844
+INFO:root:Recording time elapsed (min): 10.972143073876683
+INFO:root:Recording time elapsed (min): 10.993432772159544
+INFO:root:Recording time elapsed (min): 11.014716271559397
+INFO:root:Recording time elapsed (min): 11.035941497484805
+INFO:root:Recording time elapsed (min): 11.055458243687957
+INFO:root:Recording time elapsed (min): 11.076795101165766
+INFO:root:Recording time elapsed (min): 11.098053304354334
+INFO:root:Recording time elapsed (min): 11.119279797871853
+INFO:root:Recording time elapsed (min): 11.138807022571555
+INFO:root:Recording time elapsed (min): 11.16005645195644
+INFO:root:Recording time elapsed (min): 11.181299006938916
+INFO:root:interf now pointing at: {'ant_w': (20.9875, 119.364941406), 'ant_e': (20.9565429688, 118.361328125)}
+INFO:root:
+INFO:root:Iteration: 89
+INFO:root:Tracking time elapsed (min): 11.196011229356131
+INFO:root:Moon is currently at alt, az: 20.997015769250794, 118.49816423189127
+INFO:root:Recording time elapsed (min): 11.200313218434621
+INFO:root:Recording time elapsed (min): 11.22313981056207
+INFO:root:Recording time elapsed (min): 11.244361579418127
+INFO:root:Recording time elapsed (min): 11.263889090220092
+INFO:root:Recording time elapsed (min): 11.285123638311978
+INFO:root:Recording time elapsed (min): 11.30635362466176
+INFO:root:Recording time elapsed (min): 11.32761433124542
+INFO:root:interf now pointing at: {'ant_w': (20.9875, 118.310253906), 'ant_e': (21.0004882812, 118.493164062)}
+INFO:root:
+INFO:root:Iteration: 90
+INFO:root:Tracking time elapsed (min): 11.329347324371302
+INFO:root:Moon is currently at alt, az: 21.019218088758418, 118.52333706387459
+INFO:root:Recording time elapsed (min): 11.346861712137795
+INFO:root:Recording time elapsed (min): 11.36781668663021
+INFO:root:Recording time elapsed (min): 11.388554735978378
+INFO:root:interf now pointing at: {'ant_w': (21.0534179688, 118.969433594), 'ant_e': (21.0224609375, 118.515136719)}
+INFO:root:
+INFO:root:Iteration: 91
+INFO:root:Tracking time elapsed (min): 11.407031289736391
+INFO:root:Moon is currently at alt, az: 21.03215108652289, 118.53800752736035
+INFO:root:Recording time elapsed (min): 11.409111074606555
+INFO:root:Recording time elapsed (min): 11.431891254583961
+INFO:root:Recording time elapsed (min): 11.451491606235438
+INFO:root:Recording time elapsed (min): 11.47280830542245
+INFO:root:Recording time elapsed (min): 11.494083054860429
+INFO:root:Recording time elapsed (min): 11.513691008090952
+INFO:root:interf now pointing at: {'ant_w': (21.0094726562, 119.782421875), 'ant_e': (21.0224609375, 118.581054688)}
+INFO:root:
+INFO:root:Iteration: 92
+INFO:root:Tracking time elapsed (min): 11.521246814727792
+INFO:root:Moon is currently at alt, az: 21.051162637297427, 118.55958269298792
+INFO:root:Recording time elapsed (min): 11.534050158659568
+INFO:root:Recording time elapsed (min): 11.555325222015318
+INFO:root:Recording time elapsed (min): 11.57653374671936
+INFO:root:Recording time elapsed (min): 11.597865478197704
+INFO:root:Recording time elapsed (min): 11.619207227230035
+INFO:root:interf now pointing at: {'ant_w': (21.0094726562, 118.617871094), 'ant_e': (21.1103515625, 118.625)}
+INFO:root:
+INFO:root:Iteration: 93
+INFO:root:Tracking time elapsed (min): 11.636115042368562
+INFO:root:Moon is currently at alt, az: 21.07027886673174, 118.58128811004397
+INFO:root:Recording time elapsed (min): 11.638533961772861
+INFO:root:Recording time elapsed (min): 11.659618314107236
+INFO:root:Recording time elapsed (min): 11.68093200922006
+INFO:root:Recording time elapsed (min): 11.702240053812671
+INFO:root:Recording time elapsed (min): 11.723549842834444
+INFO:root:Recording time elapsed (min): 11.7431997418403
+INFO:root:interf now pointing at: {'ant_w': (21.075390625, 118.881542969), 'ant_e': (20.9345703125, 118.559082031)}
+INFO:root:
+INFO:root:Iteration: 94
+INFO:root:Tracking time elapsed (min): 11.750668044885009
+INFO:root:Moon is currently at alt, az: 21.089338671044636, 118.60294091600603
+INFO:root:Recording time elapsed (min): 11.763457910219826
+INFO:root:Recording time elapsed (min): 11.784706672032632
+INFO:root:Recording time elapsed (min): 11.806035387516003
+INFO:root:Recording time elapsed (min): 11.828185029824532
+INFO:root:Recording time elapsed (min): 11.84774049917853
+INFO:root:interf now pointing at: {'ant_w': (21.2072265625, 118.903515625), 'ant_e': (21.154296875, 118.603027344)}
+INFO:root:
+INFO:root:Iteration: 95
+INFO:root:Tracking time elapsed (min): 11.865444771448743
+INFO:root:Moon is currently at alt, az: 21.108431723052163, 118.62464298066591
+INFO:root:Recording time elapsed (min): 11.868343206246674
+INFO:root:Recording time elapsed (min): 11.889334150155335
+INFO:root:Recording time elapsed (min): 11.910645977656014
+INFO:root:Recording time elapsed (min): 11.931924903392739
+INFO:root:Recording time elapsed (min): 11.951503801345797
+INFO:root:Recording time elapsed (min): 11.972769645849866
+INFO:root:interf now pointing at: {'ant_w': (21.1413085938, 118.573925781), 'ant_e': (21.1103515625, 118.646972656)}
+INFO:root:
+INFO:root:Iteration: 96
+INFO:root:Tracking time elapsed (min): 11.980043860276517
+INFO:root:Moon is currently at alt, az: 21.12749125026782, 118.64631842476196
+INFO:root:Recording time elapsed (min): 11.99111617803573
+INFO:root:Recording time elapsed (min): 12.013589052359253
+INFO:root:Recording time elapsed (min): 12.034490394592234
+INFO:root:Recording time elapsed (min): 12.055106250445
+INFO:root:Recording time elapsed (min): 12.07553453842797
+INFO:root:interf now pointing at: {'ant_w': (21.075390625, 118.683789062), 'ant_e': (21.0883789062, 118.646972656)}
+INFO:root:
+INFO:root:Iteration: 97
+INFO:root:Tracking time elapsed (min): 12.094664951165504
+INFO:root:Moon is currently at alt, az: 21.146550460217757, 118.66800500064461
+INFO:root:Recording time elapsed (min): 12.09770236015319
+INFO:root:Recording time elapsed (min): 12.118286748727094
+INFO:root:Recording time elapsed (min): 12.138695768515264
+INFO:root:Recording time elapsed (min): 12.159154625733697
+INFO:root:Recording time elapsed (min): 12.181300699710835
+INFO:root:Recording time elapsed (min): 12.201823786894455
+INFO:root:interf now pointing at: {'ant_w': (21.1193359375, 118.332226562), 'ant_e': (21.1103515625, 118.690917969)}
+INFO:root:
+INFO:root:Iteration: 98
+INFO:root:Tracking time elapsed (min): 12.210212051868439
+INFO:root:Moon is currently at alt, az: 21.16575961686497, 118.6898738411981
+INFO:root:Recording time elapsed (min): 12.221887421607924
+INFO:root:Recording time elapsed (min): 12.242562115192417
+INFO:root:Recording time elapsed (min): 12.264546593030285
+INFO:root:Recording time elapsed (min): 12.285302507877294
+INFO:root:Recording time elapsed (min): 12.306011811892148
+INFO:root:interf now pointing at: {'ant_w': (21.1852539062, 118.222363281), 'ant_e': (21.330078125, 118.603027344)}
+INFO:root:
+INFO:root:Iteration: 99
+INFO:root:Tracking time elapsed (min): 12.323930768171971
+INFO:root:Moon is currently at alt, az: 21.18466085902193, 118.71140356441616
+INFO:root:Recording time elapsed (min): 12.326274331410723
+INFO:root:Recording time elapsed (min): 12.346724418799093
+INFO:root:Recording time elapsed (min): 12.36914272705711
+INFO:root:Recording time elapsed (min): 12.389563719431562
+INFO:root:Recording time elapsed (min): 12.409921487172406
+INFO:root:Recording time elapsed (min): 12.430359522501586
+INFO:root:Recording time elapsed (min): 12.450827829043023
+INFO:root:interf now pointing at: {'ant_w': (21.1852539062, 118.815625), 'ant_e': (21.1982421875, 118.690917969)}
+INFO:root:
+INFO:root:Iteration: 100
+INFO:root:Tracking time elapsed (min): 12.456581389904047
+INFO:root:Moon is currently at alt, az: 21.206703818606528, 118.73652625132112
+INFO:root:Recording time elapsed (min): 12.473139389355916
+INFO:root:Recording time elapsed (min): 12.49365153710042
+INFO:root:Recording time elapsed (min): 12.514040342966695
+INFO:root:Recording time elapsed (min): 12.534492953618344
+INFO:root:Recording time elapsed (min): 12.555750854810084
+INFO:root:interf now pointing at: {'ant_w': (21.1852539062, 118.661816406), 'ant_e': (21.1323242188, 118.822753906)}
+INFO:root:
+INFO:root:Iteration: 101
+INFO:root:Tracking time elapsed (min): 12.570240775744077
+INFO:root:Moon is currently at alt, az: 21.22558669111441, 118.75805964403372
+INFO:root:Recording time elapsed (min): 12.575883988539376
+INFO:root:Recording time elapsed (min): 12.598351458708414
+INFO:root:Recording time elapsed (min): 12.619064021110509
+INFO:root:Recording time elapsed (min): 12.639896670977215
+INFO:root:Recording time elapsed (min): 12.661078711350768
+INFO:root:Recording time elapsed (min): 12.68061495224634
+INFO:root:interf now pointing at: {'ant_w': (21.2291992188, 118.508007812), 'ant_e': (21.1323242188, 118.80078125)}
+INFO:root:
+INFO:root:Iteration: 102
+INFO:root:Tracking time elapsed (min): 12.684482665856684
+INFO:root:Moon is currently at alt, az: 21.244562374939843, 118.77971033317444
+INFO:root:Recording time elapsed (min): 12.702174297968538
+INFO:root:Recording time elapsed (min): 12.723474256197571
+INFO:root:Recording time elapsed (min): 12.74299941857656
+INFO:root:Recording time elapsed (min): 12.764224088191929
+INFO:root:Recording time elapsed (min): 12.785440802574106
+INFO:root:Recording time elapsed (min): 12.806673228740637
+INFO:root:interf now pointing at: {'ant_w': (21.2731445312, 118.551953125), 'ant_e': (21.2641601562, 118.888671875)}
+INFO:root:
+INFO:root:Iteration: 103
+INFO:root:Tracking time elapsed (min): 12.817630255222285
+INFO:root:Moon is currently at alt, az: 21.26667329572445, 118.80495274526513
+INFO:root:Recording time elapsed (min): 12.825197148323033
+INFO:root:Recording time elapsed (min): 12.84806364774699
+INFO:root:Recording time elapsed (min): 12.869337916374217
+INFO:root:Recording time elapsed (min): 12.888892054557761
+INFO:root:Recording time elapsed (min): 12.910218020280153
+INFO:root:Recording time elapsed (min): 12.931439797083533
+INFO:root:interf now pointing at: {'ant_w': (21.251171875, 118.925488281), 'ant_e': (21.2641601562, 118.822753906)}
+INFO:root:
+INFO:root:Iteration: 104
+INFO:root:Tracking time elapsed (min): 12.93204269409177
+INFO:root:Moon is currently at alt, az: 21.28566867523306, 118.82665086772533
+INFO:root:Recording time elapsed (min): 12.952889692783325
+INFO:root:Recording time elapsed (min): 12.972442392508157
+INFO:root:Recording time elapsed (min): 12.993753667672419
+INFO:root:Recording time elapsed (min): 13.015004078547152
+INFO:root:Recording time elapsed (min): 13.03625065485634
+INFO:root:interf now pointing at: {'ant_w': (21.251171875, 118.266308594), 'ant_e': (21.2861328125, 118.910644531)}
+INFO:root:
+INFO:root:Iteration: 105
+INFO:root:Tracking time elapsed (min): 13.046858946482356
+INFO:root:Moon is currently at alt, az: 21.30472707941406, 118.8484326058959
+INFO:root:Recording time elapsed (min): 13.054706259568496
+INFO:root:Recording time elapsed (min): 13.077607162793461
+INFO:root:Recording time elapsed (min): 13.097122307618463
+INFO:root:Recording time elapsed (min): 13.118405699729898
+INFO:root:Recording time elapsed (min): 13.139729579289687
+INFO:root:Recording time elapsed (min): 13.16110023657477
+INFO:root:interf now pointing at: {'ant_w': (21.251171875, 118.881542969), 'ant_e': (21.41796875, 118.690917969)}
+INFO:root:
+INFO:root:Iteration: 106
+INFO:root:Tracking time elapsed (min): 13.161467580000528
+INFO:root:Moon is currently at alt, az: 21.32374700197471, 118.87018198945617
+INFO:root:Recording time elapsed (min): 13.180831301212281
+INFO:root:Recording time elapsed (min): 13.202126149336495
+INFO:root:Recording time elapsed (min): 13.223434976736685
+INFO:root:Recording time elapsed (min): 13.243030480543716
+INFO:root:Recording time elapsed (min): 13.264367091655718
+INFO:root:Recording time elapsed (min): 13.285708089669521
+INFO:root:interf now pointing at: {'ant_w': (21.3390625, 120.199902344), 'ant_e': (21.2202148438, 118.888671875)}
+INFO:root:
+INFO:root:Iteration: 107
+INFO:root:Tracking time elapsed (min): 13.29456680218379
+INFO:root:Moon is currently at alt, az: 21.345830492252574, 118.89544917459897
+INFO:root:Recording time elapsed (min): 13.304088834921526
+INFO:root:Recording time elapsed (min): 13.32791285514829
+INFO:root:Recording time elapsed (min): 13.347146411736803
+INFO:root:Recording time elapsed (min): 13.368287360668187
+INFO:root:Recording time elapsed (min): 13.389029117425215
+INFO:root:Recording time elapsed (min): 13.409773949782018
+INFO:root:Recording time elapsed (min): 13.43050951162974
+INFO:root:Recording time elapsed (min): 13.451243706544176
+INFO:root:Recording time elapsed (min): 13.471952792008652
+INFO:root:Recording time elapsed (min): 13.49267193476357
+INFO:root:Recording time elapsed (min): 13.514697702725718
+INFO:root:interf now pointing at: {'ant_w': (21.3390625, 125.824902344), 'ant_e': (21.2861328125, 118.756835938)}
+INFO:root:
+INFO:root:Iteration: 108
+INFO:root:Tracking time elapsed (min): 13.51943249702451
+INFO:root:Moon is currently at alt, az: 21.38312731145082, 118.93815862539606
+INFO:root:Recording time elapsed (min): 13.534352572759003
+INFO:root:Recording time elapsed (min): 13.556790407498651
+INFO:root:Recording time elapsed (min): 13.577484937508846
+INFO:root:Recording time elapsed (min): 13.598184863726281
+INFO:root:Recording time elapsed (min): 13.618908719221716
+INFO:root:Recording time elapsed (min): 13.639573343594824
+INFO:root:Recording time elapsed (min): 13.660287376244842
+INFO:root:Recording time elapsed (min): 13.68099531730011
+INFO:root:Recording time elapsed (min): 13.701703608035984
+INFO:root:Recording time elapsed (min): 13.722291398048378
+INFO:root:interf now pointing at: {'ant_w': (21.426953125, 119.34296875), 'ant_e': (21.330078125, 118.932617188)}
+INFO:root:
+INFO:root:Iteration: 109
+INFO:root:Tracking time elapsed (min): 13.725312284628544
+INFO:root:Moon is currently at alt, az: 21.41726146404022, 118.97728582535231
+INFO:root:Recording time elapsed (min): 13.742911215623215
+INFO:root:Recording time elapsed (min): 13.764069747924799
+INFO:root:Recording time elapsed (min): 13.784721148014079
+INFO:root:Recording time elapsed (min): 13.805297505855503
+INFO:root:Recording time elapsed (min): 13.826003257433532
+INFO:root:interf now pointing at: {'ant_w': (21.3830078125, 118.266308594), 'ant_e': (21.41796875, 119.042480469)}
+INFO:root:
+INFO:root:Iteration: 110
+INFO:root:Tracking time elapsed (min): 13.838946537176726
+INFO:root:Moon is currently at alt, az: 21.436096045422122, 118.99889163378333
+INFO:root:Recording time elapsed (min): 13.846220950285568
+INFO:root:Recording time elapsed (min): 13.868715655803623
+INFO:root:Recording time elapsed (min): 13.889400470256739
+INFO:root:Recording time elapsed (min): 13.910097662607761
+INFO:root:Recording time elapsed (min): 13.930783545970877
+INFO:root:Recording time elapsed (min): 13.951470804214443
+INFO:root:Recording time elapsed (min): 13.972180922826087
+INFO:root:Recording time elapsed (min): 13.9929192105929
+INFO:root:Recording time elapsed (min): 14.013615997632298
+INFO:root:interf now pointing at: {'ant_w': (21.3610351562, 119.013378906), 'ant_e': (21.4399414062, 119.020507812)}
+INFO:root:
+INFO:root:Iteration: 111
+INFO:root:Tracking time elapsed (min): 14.027377390861488
+INFO:root:Moon is currently at alt, az: 21.467319202894185, 119.03473418518917
+INFO:root:Recording time elapsed (min): 14.033547258377022
+INFO:root:Recording time elapsed (min): 14.055850410461401
+INFO:root:Recording time elapsed (min): 14.076325527826903
+INFO:root:Recording time elapsed (min): 14.09689594109853
+INFO:root:Recording time elapsed (min): 14.11902070045472
+INFO:root:Recording time elapsed (min): 14.139457035064655
+INFO:root:interf now pointing at: {'ant_w': (21.4708984375, 118.837597656), 'ant_e': (21.3740234375, 119.064453125)}
+INFO:root:
+INFO:root:Iteration: 112
+INFO:root:Tracking time elapsed (min): 14.14205568234122
+INFO:root:Moon is currently at alt, az: 21.486316135678848, 119.05655718793744
+INFO:root:Recording time elapsed (min): 14.160716509819036
+INFO:root:Recording time elapsed (min): 14.18173956871029
+INFO:root:Recording time elapsed (min): 14.202630949020385
+INFO:root:Recording time elapsed (min): 14.223373043537073
+INFO:root:Recording time elapsed (min): 14.244060301780639
+INFO:root:interf now pointing at: {'ant_w': (21.4708984375, 118.881542969), 'ant_e': (21.505859375, 118.998535156)}
+INFO:root:
+INFO:root:Iteration: 113
+INFO:root:Tracking time elapsed (min): 14.255744568506872
+INFO:root:Moon is currently at alt, az: 21.505145161713088, 119.07819891134292
+INFO:root:Recording time elapsed (min): 14.262424023946103
+INFO:root:Recording time elapsed (min): 14.284907857577007
+INFO:root:Recording time elapsed (min): 14.305624186992603
+INFO:root:Recording time elapsed (min): 14.326603591442115
+INFO:root:Recording time elapsed (min): 14.34782265822089
+INFO:root:Recording time elapsed (min): 14.369058167934359
+INFO:root:interf now pointing at: {'ant_w': (21.51484375, 118.749707031), 'ant_e': (21.3959960938, 119.196289062)}
+INFO:root:
+INFO:root:Iteration: 114
+INFO:root:Tracking time elapsed (min): 14.370810552438105
+INFO:root:Moon is currently at alt, az: 21.524198192327653, 119.10010988235973
+INFO:root:Recording time elapsed (min): 14.388757956027955
+INFO:root:Recording time elapsed (min): 14.410047944386779
+INFO:root:Recording time elapsed (min): 14.43132275740302
+INFO:root:Recording time elapsed (min): 14.452583758036264
+INFO:root:Recording time elapsed (min): 14.473846904436751
+INFO:root:Recording time elapsed (min): 14.492614233493804
+INFO:root:Recording time elapsed (min): 14.515071646372482
+INFO:root:Recording time elapsed (min): 14.535335902372974
+INFO:root:Recording time elapsed (min): 14.556072986125939
+INFO:root:Recording time elapsed (min): 14.576378905773124
+INFO:root:interf now pointing at: {'ant_w': (21.602734375, 124.242871094), 'ant_e': (21.505859375, 119.108398438)}
+INFO:root:
+INFO:root:Iteration: 115
+INFO:root:Tracking time elapsed (min): 14.576924542585976
+INFO:root:Moon is currently at alt, az: 21.558317028207405, 119.13937618720408
+INFO:root:Recording time elapsed (min): 14.597097953160567
+INFO:root:Recording time elapsed (min): 14.617806545893348
+INFO:root:Recording time elapsed (min): 14.640252037843062
+INFO:root:Recording time elapsed (min): 14.660944501558921
+INFO:root:Recording time elapsed (min): 14.681651286284119
+INFO:root:Recording time elapsed (min): 14.701956864198023
+INFO:root:Recording time elapsed (min): 14.722666180133821
+INFO:root:Recording time elapsed (min): 14.743371915817205
+INFO:root:Recording time elapsed (min): 14.764323608080492
+INFO:root:interf now pointing at: {'ant_w': (21.6247070312, 119.035351562), 'ant_e': (21.5278320312, 119.108398438)}
+INFO:root:
+INFO:root:Iteration: 116
+INFO:root:Tracking time elapsed (min): 14.782520230611187
+INFO:root:Moon is currently at alt, az: 21.592336947414463, 119.17856665422678
+INFO:root:Recording time elapsed (min): 14.784867775440196
+INFO:root:Recording time elapsed (min): 14.805959355831124
+INFO:root:Recording time elapsed (min): 14.827220777670478
+INFO:root:Recording time elapsed (min): 14.848739357789302
+INFO:root:Recording time elapsed (min): 14.868305142720493
+INFO:root:Recording time elapsed (min): 14.889617649714113
+INFO:root:Recording time elapsed (min): 14.910841071605638
+INFO:root:interf now pointing at: {'ant_w': (21.5368164062, 119.29902343799999), 'ant_e': (21.5278320312, 119.064453125)}
+INFO:root:
+INFO:root:Iteration: 117
+INFO:root:Tracking time elapsed (min): 14.915592702229805
+INFO:root:Moon is currently at alt, az: 21.614349451712883, 119.20394502046979
+INFO:root:Recording time elapsed (min): 14.929074597358651
+INFO:root:Recording time elapsed (min): 14.952099200089775
+INFO:root:Recording time elapsed (min): 14.973250552018422
+INFO:root:Recording time elapsed (min): 14.994532167911485
+INFO:root:Recording time elapsed (min): 15.014093732833853
+INFO:root:interf now pointing at: {'ant_w': (21.6686523438, 117.18964843799999), 'ant_e': (21.330078125, 119.240234375)}
+INFO:root:
+INFO:root:Iteration: 118
+INFO:root:Tracking time elapsed (min): 15.030413552125248
+INFO:root:Moon is currently at alt, az: 21.63333839489129, 119.22585032488493
+INFO:root:Recording time elapsed (min): 15.034514685471851
+INFO:root:Recording time elapsed (min): 15.055643169085178
+INFO:root:Recording time elapsed (min): 15.076926823457066
+INFO:root:Recording time elapsed (min): 15.098235305150354
+INFO:root:Recording time elapsed (min): 15.119466098149603
+INFO:root:Recording time elapsed (min): 15.138971785704278
+INFO:root:interf now pointing at: {'ant_w': (21.6247070312, 110.751660156), 'ant_e': (21.5717773438, 119.328125)}
+INFO:root:
+INFO:root:Iteration: 119
+INFO:root:Tracking time elapsed (min): 15.144892108440411
+INFO:root:Moon is currently at alt, az: 21.652266644172744, 119.24769745381455
+INFO:root:Recording time elapsed (min): 15.15935662587478
+INFO:root:Recording time elapsed (min): 15.180658348401321
+INFO:root:Recording time elapsed (min): 15.201933610439262
+INFO:root:Recording time elapsed (min): 15.223188447952252
+INFO:root:Recording time elapsed (min): 15.244421903292329
+INFO:root:Recording time elapsed (min): 15.264678307374266
+INFO:root:Recording time elapsed (min): 15.285963118076307
+INFO:root:Recording time elapsed (min): 15.30721838871635
+INFO:root:Recording time elapsed (min): 15.326791989803263
+INFO:root:Recording time elapsed (min): 15.34807648261383
+INFO:root:Recording time elapsed (min): 15.369324445724493
+INFO:root:Recording time elapsed (min): 15.390507841110228
+INFO:root:Recording time elapsed (min): 15.410071218013721
+INFO:root:Recording time elapsed (min): 15.431440885861711
+INFO:root:interf now pointing at: {'ant_w': (21.6686523438, 119.277050781), 'ant_e': (21.330078125, 119.262207031)}
+INFO:root:
+INFO:root:Iteration: 120
+INFO:root:Tracking time elapsed (min): 15.443733259042096
+INFO:root:Moon is currently at alt, az: 21.70165873712205, 119.30476198532686
+INFO:root:Recording time elapsed (min): 15.44977605342865
+INFO:root:Recording time elapsed (min): 15.472564971446987
+INFO:root:Recording time elapsed (min): 15.493794866402917
+INFO:root:Recording time elapsed (min): 15.51502555608745
+INFO:root:Recording time elapsed (min): 15.536261133352882
+INFO:root:Recording time elapsed (min): 15.555798002084078
+INFO:root:Recording time elapsed (min): 15.577049744129186
+INFO:root:interf now pointing at: {'ant_w': (21.7565429688, 120.661328125), 'ant_e': (21.857421875, 119.394042969)}
+INFO:root:
+INFO:root:Iteration: 121
+INFO:root:Tracking time elapsed (min): 15.595424346129123
+INFO:root:Moon is currently at alt, az: 21.726719378434648, 119.33374641654926
+INFO:root:Recording time elapsed (min): 15.59813999334966
+INFO:root:Recording time elapsed (min): 15.619283445676135
+INFO:root:Recording time elapsed (min): 15.640612097581164
+INFO:root:Recording time elapsed (min): 15.660165206591241
+INFO:root:Recording time elapsed (min): 15.68141305049254
+INFO:root:Recording time elapsed (min): 15.703266290823628
+INFO:root:Recording time elapsed (min): 15.722823282082867
+INFO:root:Recording time elapsed (min): 15.744094991683903
+INFO:root:Recording time elapsed (min): 15.765342104434943
+INFO:root:Recording time elapsed (min): 15.784866189956608
+INFO:root:interf now pointing at: {'ant_w': (21.7345703125, 119.035351562), 'ant_e': (21.6376953125, 119.218261719)}
+INFO:root:
+INFO:root:Iteration: 122
+INFO:root:Tracking time elapsed (min): 15.802150988578765
+INFO:root:Moon is currently at alt, az: 21.760860760534197, 119.37326699084952
+INFO:root:Recording time elapsed (min): 15.805723079045624
+INFO:root:Recording time elapsed (min): 15.826813149452175
+INFO:root:Recording time elapsed (min): 15.84799853960674
+INFO:root:Recording time elapsed (min): 15.86925837993621
+INFO:root:Recording time elapsed (min): 15.890489975611306
+INFO:root:Recording time elapsed (min): 15.910039631525654
+INFO:root:interf now pointing at: {'ant_w': (21.8004882812, 119.958203125), 'ant_e': (21.4619140625, 119.372070312)}
+INFO:root:
+INFO:root:Iteration: 123
+INFO:root:Tracking time elapsed (min): 15.91712557474768
+INFO:root:Moon is currently at alt, az: 21.779843283274776, 119.39525713751246
+INFO:root:Recording time elapsed (min): 15.93008036216097
+INFO:root:Recording time elapsed (min): 15.953690858681977
+INFO:root:Recording time elapsed (min): 15.973259858290332
+INFO:root:Recording time elapsed (min): 15.994579529762243
+INFO:root:Recording time elapsed (min): 16.014060715834233
+INFO:root:Recording time elapsed (min): 16.035345955689706
+INFO:root:interf now pointing at: {'ant_w': (21.7565429688, 119.255078125), 'ant_e': (21.8354492188, 119.50390625)}
+INFO:root:
+INFO:root:Iteration: 124
+INFO:root:Tracking time elapsed (min): 16.05028526782987
+INFO:root:Moon is currently at alt, az: 21.80182301656517, 119.42073441516669
+INFO:root:Recording time elapsed (min): 16.056025930245703
+INFO:root:Recording time elapsed (min): 16.07710694471993
+INFO:root:Recording time elapsed (min): 16.09921994209289
+INFO:root:Recording time elapsed (min): 16.118768596649122
+INFO:root:Recording time elapsed (min): 16.14085282484688
+INFO:root:Recording time elapsed (min): 16.160442439715055
+INFO:root:interf now pointing at: {'ant_w': (21.7565429688, 119.430859375), 'ant_e': (21.76953125, 119.394042969)}
+INFO:root:
+INFO:root:Iteration: 125
+INFO:root:Tracking time elapsed (min): 16.16516307989757
+INFO:root:Moon is currently at alt, az: 21.820780612688413, 119.44272163835691
+INFO:root:Recording time elapsed (min): 16.18201413154603
+INFO:root:Recording time elapsed (min): 16.20158932209015
+INFO:root:Recording time elapsed (min): 16.22368697722747
+INFO:root:Recording time elapsed (min): 16.24331402778619
+INFO:root:Recording time elapsed (min): 16.264648763338727
+INFO:root:interf now pointing at: {'ant_w': (21.778515625, 119.145214844), 'ant_e': (21.8134765625, 119.481933594)}
+INFO:root:
+INFO:root:Iteration: 126
+INFO:root:Tracking time elapsed (min): 16.279647397994985
+INFO:root:Moon is currently at alt, az: 21.839669144336973, 119.46464073826677
+INFO:root:Recording time elapsed (min): 16.284560982386267
+INFO:root:Recording time elapsed (min): 16.307349534829434
+INFO:root:Recording time elapsed (min): 16.326919444402055
+INFO:root:Recording time elapsed (min): 16.34821746746698
+INFO:root:Recording time elapsed (min): 16.36954509019846
+INFO:root:Recording time elapsed (min): 16.389423930644924
+INFO:root:interf now pointing at: {'ant_w': (21.86640625, 119.34296875), 'ant_e': (21.7915039062, 119.328125)}
+INFO:root:
+INFO:root:Iteration: 127
+INFO:root:Tracking time elapsed (min): 16.394745715459187
+INFO:root:Moon is currently at alt, az: 21.858654817250113, 119.48668463491741
+INFO:root:Recording time elapsed (min): 16.40987715721125
+INFO:root:Recording time elapsed (min): 16.431238949298795
+INFO:root:Recording time elapsed (min): 16.452578107515965
+INFO:root:Recording time elapsed (min): 16.473796141147574
+INFO:root:Recording time elapsed (min): 16.493280319372808
+INFO:root:interf now pointing at: {'ant_w': (21.86640625, 118.969433594), 'ant_e': (21.857421875, 119.481933594)}
+INFO:root:
+INFO:root:Iteration: 128
+INFO:root:Tracking time elapsed (min): 16.509459276994036
+INFO:root:Moon is currently at alt, az: 21.877572869950907, 119.5086620729975
+INFO:root:Recording time elapsed (min): 16.513632977008754
+INFO:root:Recording time elapsed (min): 16.536436561743415
+INFO:root:Recording time elapsed (min): 16.556021952629063
+INFO:root:Recording time elapsed (min): 16.577402269840206
+INFO:root:Recording time elapsed (min): 16.597893035411797
+INFO:root:Recording time elapsed (min): 16.618175474802605
+INFO:root:interf now pointing at: {'ant_w': (21.86640625, 119.540722656), 'ant_e': (21.857421875, 119.394042969)}
+INFO:root:
+INFO:root:Iteration: 129
+INFO:root:Tracking time elapsed (min): 16.623944032192206
+INFO:root:Moon is currently at alt, az: 21.896449049998058, 119.53060287840043
+INFO:root:Recording time elapsed (min): 16.63900203307464
+INFO:root:Recording time elapsed (min): 16.659632821877803
+INFO:root:Recording time elapsed (min): 16.682126065095257
+INFO:root:Recording time elapsed (min): 16.702822768688208
+INFO:root:Recording time elapsed (min): 16.723569281895905
+INFO:root:interf now pointing at: {'ant_w': (21.86640625, 119.606640625), 'ant_e': (21.8793945312, 119.525878906)}
+INFO:root:
+INFO:root:Iteration: 130
+INFO:root:Tracking time elapsed (min): 16.73757471640908
+INFO:root:Moon is currently at alt, az: 21.91518031772091, 119.55238712402779
+INFO:root:Recording time elapsed (min): 16.741597628593414
+INFO:root:Recording time elapsed (min): 16.763842578728934
+INFO:root:Recording time elapsed (min): 16.784335815906488
+INFO:root:Recording time elapsed (min): 16.806769069035845
+INFO:root:Recording time elapsed (min): 16.827346209685004
+INFO:root:Recording time elapsed (min): 16.847973910967447
+INFO:root:interf now pointing at: {'ant_w': (21.9103515625, 119.51875), 'ant_e': (21.9013671875, 119.569824219)}
+INFO:root:
+INFO:root:Iteration: 131
+INFO:root:Tracking time elapsed (min): 16.852231001853895
+INFO:root:Moon is currently at alt, az: 21.93407651064543, 119.57437518565851
+INFO:root:Recording time elapsed (min): 16.8687247832616
+INFO:root:Recording time elapsed (min): 16.889190224806477
+INFO:root:Recording time elapsed (min): 16.90966182152429
+INFO:root:Recording time elapsed (min): 16.930745879808995
+INFO:root:interf now pointing at: {'ant_w': (21.954296875, 119.672558594), 'ant_e': (21.9233398438, 119.569824219)}
+INFO:root:
+INFO:root:Iteration: 132
+INFO:root:Tracking time elapsed (min): 16.94758126735688
+INFO:root:Moon is currently at alt, az: 21.94978776300874, 119.5926663711946
+INFO:root:Recording time elapsed (min): 16.951232238610523
+INFO:root:Recording time elapsed (min): 16.973691896597536
+INFO:root:Recording time elapsed (min): 16.993978798389435
+INFO:root:Recording time elapsed (min): 17.01541322867076
+INFO:root:Recording time elapsed (min): 17.035865521430935
+INFO:root:Recording time elapsed (min): 17.056339967250818
+INFO:root:interf now pointing at: {'ant_w': (21.954296875, 119.430859375), 'ant_e': (21.9453125, 119.525878906)}
+INFO:root:
+INFO:root:Iteration: 133
+INFO:root:Tracking time elapsed (min): 17.06222678422926
+INFO:root:Moon is currently at alt, az: 21.968674558667768, 119.61466562428323
+INFO:root:Recording time elapsed (min): 17.07701597611104
+INFO:root:Recording time elapsed (min): 17.097685952981312
+INFO:root:Recording time elapsed (min): 17.118320087591783
+INFO:root:Recording time elapsed (min): 17.138601843516028
+INFO:root:Recording time elapsed (min): 17.16103482246399
+INFO:root:interf now pointing at: {'ant_w': (22.0202148438, 119.584667969), 'ant_e': (21.9672851562, 119.547851562)}
+INFO:root:
+INFO:root:Iteration: 134
+INFO:root:Tracking time elapsed (min): 17.176006237665796
+INFO:root:Moon is currently at alt, az: 21.987414558063186, 119.63650585300526
+INFO:root:Recording time elapsed (min): 17.180865732828785
+INFO:root:Recording time elapsed (min): 17.20200100739791
+INFO:root:Recording time elapsed (min): 17.22331233819319
+INFO:root:Recording time elapsed (min): 17.244570259253116
+INFO:root:Recording time elapsed (min): 17.2641838828722
+INFO:root:Recording time elapsed (min): 17.285501742362985
+INFO:root:Recording time elapsed (min): 17.306807756423936
+INFO:root:interf now pointing at: {'ant_w': (21.8444335938, 122.089550781), 'ant_e': (21.9453125, 119.657714844)}
+INFO:root:
+INFO:root:Iteration: 135
+INFO:root:Tracking time elapsed (min): 17.32783109347021
+INFO:root:Moon is currently at alt, az: 22.01241440949655, 119.66566011011811
+INFO:root:Recording time elapsed (min): 17.329688704013833
+INFO:root:Recording time elapsed (min): 17.349066551526356
+INFO:root:Recording time elapsed (min): 17.36867031653719
+INFO:root:Recording time elapsed (min): 17.389985477924313
+INFO:root:Recording time elapsed (min): 17.411297420660652
+INFO:root:Recording time elapsed (min): 17.430910762151015
+INFO:root:Recording time elapsed (min): 17.452265365918464
+INFO:root:Recording time elapsed (min): 17.473620601495075
+INFO:root:Recording time elapsed (min): 17.494929770628545
+INFO:root:interf now pointing at: {'ant_w': (21.9982421875, 119.69453125), 'ant_e': (22.0551757812, 119.701660156)}
+INFO:root:
+INFO:root:Iteration: 136
+INFO:root:Tracking time elapsed (min): 17.497378575801825
+INFO:root:Moon is currently at alt, az: 22.04032385129712, 119.69823261387774
+INFO:root:Recording time elapsed (min): 17.51490948994954
+INFO:root:Recording time elapsed (min): 17.536158442497218
+INFO:root:Recording time elapsed (min): 17.55744585196174
+INFO:root:Recording time elapsed (min): 17.577009030183124
+INFO:root:Recording time elapsed (min): 17.598359235127745
+INFO:root:interf now pointing at: {'ant_w': (22.0421875, 119.386914062), 'ant_e': (22.2529296875, 119.745605469)}
+INFO:root:
+INFO:root:Iteration: 137
+INFO:root:Tracking time elapsed (min): 17.61208373705548
+INFO:root:Moon is currently at alt, az: 22.059200435065346, 119.72027813597127
+INFO:root:Recording time elapsed (min): 17.616758322715718
+INFO:root:Recording time elapsed (min): 17.639558712641403
+INFO:root:Recording time elapsed (min): 17.660812636216427
+INFO:root:Recording time elapsed (min): 17.682091343402853
+INFO:root:Recording time elapsed (min): 17.701647102832734
+INFO:root:Recording time elapsed (min): 17.72289898395539
+INFO:root:interf now pointing at: {'ant_w': (22.0861328125, 119.47480468799999), 'ant_e': (22.0112304688, 119.723632812)}
+INFO:root:
+INFO:root:Iteration: 138
+INFO:root:Tracking time elapsed (min): 17.727118762334193
+INFO:root:Moon is currently at alt, az: 22.078127092867017, 119.74239437015349
+INFO:root:Recording time elapsed (min): 17.74479596217467
+INFO:root:Recording time elapsed (min): 17.76256362597147
+INFO:root:Recording time elapsed (min): 17.78471326828
+INFO:root:Recording time elapsed (min): 17.80599692662551
+INFO:root:Recording time elapsed (min): 17.82743946711222
+INFO:root:interf now pointing at: {'ant_w': (22.0861328125, 119.738476562), 'ant_e': (22.033203125, 119.723632812)}
+INFO:root:
+INFO:root:Iteration: 139
+INFO:root:Tracking time elapsed (min): 17.841903324921915
+INFO:root:Moon is currently at alt, az: 22.097008334880233, 119.76446975848432
+INFO:root:Recording time elapsed (min): 17.846091294288577
+INFO:root:Recording time elapsed (min): 17.86890681187306
+INFO:root:Recording time elapsed (min): 17.890441823005638
+INFO:root:Recording time elapsed (min): 17.909993596871637
+INFO:root:Recording time elapsed (min): 17.931263001759852
+INFO:root:Recording time elapsed (min): 17.95250993172327
+INFO:root:interf now pointing at: {'ant_w': (22.0641601562, 116.13496093799999), 'ant_e': (21.9892578125, 119.833496094)}
+INFO:root:
+INFO:root:Iteration: 140
+INFO:root:Tracking time elapsed (min): 17.95642253557841
+INFO:root:Moon is currently at alt, az: 22.115841734598366, 119.78650139379859
+INFO:root:Recording time elapsed (min): 17.973892541726364
+INFO:root:Recording time elapsed (min): 17.99357886711757
+INFO:root:Recording time elapsed (min): 18.014841075738204
+INFO:root:Recording time elapsed (min): 18.036118531227086
+INFO:root:Recording time elapsed (min): 18.058182450135554
+INFO:root:Recording time elapsed (min): 18.077891659736565
+INFO:root:Recording time elapsed (min): 18.099173931280763
+INFO:root:Recording time elapsed (min): 18.118738623460146
+INFO:root:Recording time elapsed (min): 18.140032200018545
+INFO:root:Recording time elapsed (min): 18.161386843522365
+INFO:root:Recording time elapsed (min): 18.18095128933586
+INFO:root:interf now pointing at: {'ant_w': (22.0641601562, 118.99140625), 'ant_e': (22.1430664062, 119.657714844)}
+INFO:root:
+INFO:root:Iteration: 141
+INFO:root:Tracking time elapsed (min): 18.19966936508812
+INFO:root:Moon is currently at alt, az: 22.15583128067235, 119.8333222854175
+INFO:root:Recording time elapsed (min): 18.201908854643438
+INFO:root:Recording time elapsed (min): 18.22295474608734
+INFO:root:Recording time elapsed (min): 18.24420140186944
+INFO:root:Recording time elapsed (min): 18.265526346365604
+INFO:root:Recording time elapsed (min): 18.28505048354467
+INFO:root:Recording time elapsed (min): 18.306282667318932
+INFO:root:interf now pointing at: {'ant_w': (22.130078125, 119.584667969), 'ant_e': (22.1430664062, 119.833496094)}
+INFO:root:
+INFO:root:Iteration: 142
+INFO:root:Tracking time elapsed (min): 18.314225514729845
+INFO:root:Moon is currently at alt, az: 22.174657639732988, 119.85538379252803
+INFO:root:Recording time elapsed (min): 18.32605032126107
+INFO:root:Recording time elapsed (min): 18.34866921504336
+INFO:root:Recording time elapsed (min): 18.36934322516121
+INFO:root:Recording time elapsed (min): 18.390057321389488
+INFO:root:Recording time elapsed (min): 18.410774167378747
+INFO:root:interf now pointing at: {'ant_w': (22.1740234375, 119.51875), 'ant_e': (22.1430664062, 119.811523438)}
+INFO:root:
+INFO:root:Iteration: 143
+INFO:root:Tracking time elapsed (min): 18.429023734728453
+INFO:root:Moon is currently at alt, az: 22.193519557149674, 119.87749924195865
+INFO:root:Recording time elapsed (min): 18.431349619229607
+INFO:root:Recording time elapsed (min): 18.452073570092516
+INFO:root:Recording time elapsed (min): 18.472765600681242
+INFO:root:Recording time elapsed (min): 18.493470541636103
+INFO:root:Recording time elapsed (min): 18.514149606227832
+INFO:root:Recording time elapsed (min): 18.534871308008782
+INFO:root:interf now pointing at: {'ant_w': (22.1959960938, 120.00214843799999), 'ant_e': (22.0991210938, 119.789550781)}
+INFO:root:
+INFO:root:Iteration: 144
+INFO:root:Tracking time elapsed (min): 18.543297974268597
+INFO:root:Moon is currently at alt, az: 22.21229118193431, 119.89952103785474
+INFO:root:Recording time elapsed (min): 18.556819991270707
+INFO:root:Recording time elapsed (min): 18.57780557473496
+INFO:root:Recording time elapsed (min): 18.59855750799179
+INFO:root:Recording time elapsed (min): 18.619279511769562
+INFO:root:Recording time elapsed (min): 18.639992491404147
+INFO:root:Recording time elapsed (min): 18.66068496306733
+INFO:root:Recording time elapsed (min): 18.681406132380125
+INFO:root:interf now pointing at: {'ant_w': (22.2399414062, 118.749707031), 'ant_e': (22.208984375, 120.03125)}
+INFO:root:
+INFO:root:Iteration: 145
+INFO:root:Tracking time elapsed (min): 18.693775848547645
+INFO:root:Moon is currently at alt, az: 22.237003509687803, 119.92853074071603
+INFO:root:Recording time elapsed (min): 18.70108700990677
+INFO:root:Recording time elapsed (min): 18.723465418815604
+INFO:root:Recording time elapsed (min): 18.74399791161215
+INFO:root:Recording time elapsed (min): 18.764506097634587
+INFO:root:Recording time elapsed (min): 18.785008100668577
+INFO:root:Recording time elapsed (min): 18.805503177642766
+INFO:root:Recording time elapsed (min): 18.82768497467034
+INFO:root:Recording time elapsed (min): 18.84816313982011
+INFO:root:Recording time elapsed (min): 18.868650845686574
+INFO:root:Recording time elapsed (min): 18.889912458260795
+INFO:root:Recording time elapsed (min): 18.910654671986844
+INFO:root:Recording time elapsed (min): 18.93207931915913
+INFO:root:Recording time elapsed (min): 18.952560993035643
+INFO:root:interf now pointing at: {'ant_w': (22.305859375, 128.461621094), 'ant_e': (22.2749023438, 119.899414062)}
+INFO:root:
+INFO:root:Iteration: 146
+INFO:root:Tracking time elapsed (min): 18.95521633227669
+INFO:root:Moon is currently at alt, az: 22.27992141173304, 119.97896229321759
+INFO:root:Recording time elapsed (min): 18.973357601960437
+INFO:root:Recording time elapsed (min): 18.99382628599799
+INFO:root:Recording time elapsed (min): 19.014212365945173
+INFO:root:Recording time elapsed (min): 19.034689509868556
+INFO:root:Recording time elapsed (min): 19.05703221956884
+INFO:root:Recording time elapsed (min): 19.07764420906701
+INFO:root:Recording time elapsed (min): 19.098324084281906
+INFO:root:Recording time elapsed (min): 19.118665822347005
+INFO:root:Recording time elapsed (min): 19.13940232594804
+INFO:root:Recording time elapsed (min): 19.15971241792043
+INFO:root:interf now pointing at: {'ant_w': (22.305859375, 119.584667969), 'ant_e': (22.296875, 120.163085938)}
+INFO:root:
+INFO:root:Iteration: 147
+INFO:root:Tracking time elapsed (min): 19.179297757148763
+INFO:root:Moon is currently at alt, az: 22.316688929798744, 120.02221773503484
+INFO:root:Recording time elapsed (min): 19.18177672227218
+INFO:root:Recording time elapsed (min): 19.20208273331322
+INFO:root:Recording time elapsed (min): 19.222393361727377
+INFO:root:Recording time elapsed (min): 19.242703068256333
+INFO:root:Recording time elapsed (min): 19.265202097098005
+INFO:root:Recording time elapsed (min): 19.285502008597053
+INFO:root:Recording time elapsed (min): 19.30581473112106
+INFO:root:interf now pointing at: {'ant_w': (22.305859375, 104.423535156), 'ant_e': (22.1870117188, 120.03125)}
+INFO:root:
+INFO:root:Iteration: 148
+INFO:root:Tracking time elapsed (min): 19.312373308340696
+INFO:root:Moon is currently at alt, az: 22.338516428660792, 120.04791920862388
+INFO:root:Recording time elapsed (min): 19.32722529570257
+INFO:root:Recording time elapsed (min): 19.347696936130532
+INFO:root:Recording time elapsed (min): 19.368182873725868
+INFO:root:Recording time elapsed (min): 19.389119172096194
+INFO:root:Recording time elapsed (min): 19.409974249204005
+INFO:root:Recording time elapsed (min): 19.430684240659044
+INFO:root:Recording time elapsed (min): 19.453137636184632
+INFO:root:Recording time elapsed (min): 19.473612423737798
+INFO:root:Recording time elapsed (min): 19.495083494981067
+INFO:root:Recording time elapsed (min): 19.514403947194356
+INFO:root:Recording time elapsed (min): 19.535631533463764
+INFO:root:interf now pointing at: {'ant_w': (22.305859375, 122.529003906), 'ant_e': (22.3627929688, 120.053222656)}
+INFO:root:
+INFO:root:Iteration: 149
+INFO:root:Tracking time elapsed (min): 19.536408456166576
+INFO:root:Moon is currently at alt, az: 22.375250476715635, 120.09121053900668
+INFO:root:Recording time elapsed (min): 19.557897802193935
+INFO:root:Recording time elapsed (min): 19.57743377288181
+INFO:root:Recording time elapsed (min): 19.59866824150079
+INFO:root:Recording time elapsed (min): 19.619932063420595
+INFO:root:Recording time elapsed (min): 19.639420926570843
+INFO:root:Recording time elapsed (min): 19.66014920075729
+INFO:root:Recording time elapsed (min): 19.6813939253489
+INFO:root:Recording time elapsed (min): 19.70259697039917
+INFO:root:Recording time elapsed (min): 19.723868179321265
+INFO:root:Recording time elapsed (min): 19.74521850744879
+INFO:root:Recording time elapsed (min): 19.764730652173306
+INFO:root:Recording time elapsed (min): 19.785947203636127
+INFO:root:Recording time elapsed (min): 19.807170160611463
+INFO:root:Recording time elapsed (min): 19.82838546832398
+INFO:root:Recording time elapsed (min): 19.84789824088412
+INFO:root:Recording time elapsed (min): 19.86911695798237
+INFO:root:Recording time elapsed (min): 19.890357017517076
+INFO:root:Recording time elapsed (min): 19.91159462134039
+INFO:root:interf now pointing at: {'ant_w': (22.3498046875, 117.321484375), 'ant_e': (22.3408203125, 120.163085938)}
+INFO:root:
+INFO:root:Iteration: 150
+INFO:root:Tracking time elapsed (min): 19.927124504248283
+INFO:root:Moon is currently at alt, az: 22.43927548961278, 120.16677782581195
+INFO:root:Recording time elapsed (min): 19.930629173914596
+INFO:root:Recording time elapsed (min): 19.953424123922964
+INFO:root:Recording time elapsed (min): 19.972971510887085
+INFO:root:Recording time elapsed (min): 19.99418899218235
+INFO:root:Recording time elapsed (min): 20.015421529610926
+INFO:root:Recording time elapsed (min): 20.036667903264302
+INFO:root:Recording time elapsed (min): 20.05623413721719
+INFO:root:Recording time elapsed (min): 20.07746456066765
+INFO:root:Recording time elapsed (min): 20.098694161573995
+INFO:root:interf now pointing at: {'ant_w': (22.5036132812, 120.331738281), 'ant_e': (22.4506835938, 120.119140625)}
+INFO:root:
+INFO:root:Iteration: 151
+INFO:root:Tracking time elapsed (min): 20.115583896636924
+INFO:root:Moon is currently at alt, az: 22.47013979862576, 120.20325793504392
+INFO:root:Recording time elapsed (min): 20.119202669461522
+INFO:root:Recording time elapsed (min): 20.14024378061294
+INFO:root:Recording time elapsed (min): 20.16149387359612
+INFO:root:Recording time elapsed (min): 20.18099824587499
+INFO:root:Recording time elapsed (min): 20.202230660120655
+INFO:root:Recording time elapsed (min): 20.223470385869327
+INFO:root:Recording time elapsed (min): 20.244712976614636
+INFO:root:interf now pointing at: {'ant_w': (22.4157226562, 121.2765625), 'ant_e': (22.4287109375, 120.294921875)}
+INFO:root:
+INFO:root:Iteration: 152
+INFO:root:Tracking time elapsed (min): 20.248810056845315
+INFO:root:Moon is currently at alt, az: 22.491951485361593, 120.22905861908524
+INFO:root:Recording time elapsed (min): 20.263828873634342
+INFO:root:Recording time elapsed (min): 20.286754806836438
+INFO:root:Recording time elapsed (min): 20.30623801946639
+INFO:root:Recording time elapsed (min): 20.327497593561787
+INFO:root:Recording time elapsed (min): 20.348726614316284
+INFO:root:Recording time elapsed (min): 20.3700036048889
+INFO:root:interf now pointing at: {'ant_w': (22.4596679688, 120.859082031), 'ant_e': (22.6044921875, 120.119140625)}
+INFO:root:
+INFO:root:Iteration: 153
+INFO:root:Tracking time elapsed (min): 20.381918966770147
+INFO:root:Moon is currently at alt, az: 22.513738191178724, 120.25484659904701
+INFO:root:Recording time elapsed (min): 20.388145887851714
+INFO:root:Recording time elapsed (min): 20.41100862820941
+INFO:root:Recording time elapsed (min): 20.432306532065052
+INFO:root:Recording time elapsed (min): 20.45190537373223
+INFO:root:Recording time elapsed (min): 20.473160819212577
+INFO:root:Recording time elapsed (min): 20.494416244824734
+INFO:root:interf now pointing at: {'ant_w': (22.6134765625, 120.090039062), 'ant_e': (22.3188476562, 120.470703125)}
+INFO:root:
+INFO:root:Iteration: 154
+INFO:root:Tracking time elapsed (min): 20.49674956003826
+INFO:root:Moon is currently at alt, az: 22.532528527555673, 120.27710145243162
+INFO:root:Recording time elapsed (min): 20.514171095689075
+INFO:root:Recording time elapsed (min): 20.535448861122106
+INFO:root:Recording time elapsed (min): 20.556715603669495
+INFO:root:Recording time elapsed (min): 20.57608815034225
+INFO:root:Recording time elapsed (min): 20.59699813127515
+INFO:root:interf now pointing at: {'ant_w': (22.5036132812, 120.00214843799999), 'ant_e': (22.4946289062, 120.20703125)}
+INFO:root:
+INFO:root:Iteration: 155
+INFO:root:Tracking time elapsed (min): 20.611530558268214
+INFO:root:Moon is currently at alt, az: 22.551306438864394, 120.29935414372277
+INFO:root:Recording time elapsed (min): 20.617353820800794
+INFO:root:Recording time elapsed (min): 20.63956961631775
+INFO:root:Recording time elapsed (min): 20.660212802886928
+INFO:root:Recording time elapsed (min): 20.68069637616472
+INFO:root:Recording time elapsed (min): 20.70288142363229
+INFO:root:Recording time elapsed (min): 20.723385028044355
+INFO:root:interf now pointing at: {'ant_w': (22.56953125, 120.199902344), 'ant_e': (22.5166015625, 120.294921875)}
+INFO:root:
+INFO:root:Iteration: 156
+INFO:root:Tracking time elapsed (min): 20.73698749939597
+INFO:root:Moon is currently at alt, az: 22.57182597595075, 120.3236851157549
+INFO:root:Recording time elapsed (min): 20.743494335810286
+INFO:root:Recording time elapsed (min): 20.76424371798833
+INFO:root:Recording time elapsed (min): 20.78497078418731
+INFO:root:Recording time elapsed (min): 20.804418901602368
+INFO:root:Recording time elapsed (min): 20.827411222457837
+INFO:root:interf now pointing at: {'ant_w': (22.56953125, 120.331738281), 'ant_e': (22.5385742188, 120.338867188)}
+INFO:root:
+INFO:root:Iteration: 157
+INFO:root:Tracking time elapsed (min): 20.83316199779513
+INFO:root:Moon is currently at alt, az: 22.58755263031572, 120.34234312019173
+INFO:root:Recording time elapsed (min): 20.848715182145394
+INFO:root:Recording time elapsed (min): 20.86994032065073
+INFO:root:Recording time elapsed (min): 20.88968485991158
+INFO:root:Recording time elapsed (min): 20.910900704065945
+INFO:root:Recording time elapsed (min): 20.9321468989054
+INFO:root:interf now pointing at: {'ant_w': (22.56953125, 120.331738281), 'ant_e': (22.560546875, 120.360839844)}
+INFO:root:
+INFO:root:Iteration: 158
+INFO:root:Tracking time elapsed (min): 20.94763889312742
+INFO:root:Moon is currently at alt, az: 22.606268174516764, 120.36455865146134
+INFO:root:Recording time elapsed (min): 20.95214773019153
+INFO:root:Recording time elapsed (min): 20.973393420378343
+INFO:root:Recording time elapsed (min): 20.994688208897916
+INFO:root:Recording time elapsed (min): 21.015993436177503
+INFO:root:Recording time elapsed (min): 21.035570963223734
+INFO:root:Recording time elapsed (min): 21.057086368401848
+INFO:root:interf now pointing at: {'ant_w': (22.6354492188, 120.52949218799999), 'ant_e': (22.6264648438, 120.360839844)}
+INFO:root:
+INFO:root:Iteration: 159
+INFO:root:Tracking time elapsed (min): 21.06249127785361
+INFO:root:Moon is currently at alt, az: 22.625040782702698, 120.38685452048452
+INFO:root:Recording time elapsed (min): 21.07536313931144
+INFO:root:Recording time elapsed (min): 21.098379663626304
+INFO:root:Recording time elapsed (min): 21.119710648059822
+INFO:root:interf now pointing at: {'ant_w': (22.657421875, 120.331738281), 'ant_e': (22.6264648438, 120.3828125)}
+INFO:root:
+INFO:root:Iteration: 160
+INFO:root:Tracking time elapsed (min): 21.140664406617447
+INFO:root:Recording time elapsed (min): 21.142231686909952
+INFO:root:Moon is currently at alt, az: 22.637815691022592, 120.40203426335898
+INFO:root:Recording time elapsed (min): 21.161559426784518
+INFO:root:Recording time elapsed (min): 21.181867484251626
+INFO:root:Recording time elapsed (min): 21.202619055906908
+INFO:root:Recording time elapsed (min): 21.223351999123878
+INFO:root:Recording time elapsed (min): 21.243664475281996
+INFO:root:interf now pointing at: {'ant_w': (22.6134765625, 120.265820312), 'ant_e': (22.6264648438, 120.404785156)}
+INFO:root:
+INFO:root:Iteration: 161
+INFO:root:Tracking time elapsed (min): 21.25495297114055
+INFO:root:Moon is currently at alt, az: 22.6564888975646, 120.42423318711174
+INFO:root:Recording time elapsed (min): 21.263790265719074
+INFO:root:Recording time elapsed (min): 21.286043981711032
+INFO:root:Recording time elapsed (min): 21.30651515324911
+INFO:root:Recording time elapsed (min): 21.325780308246554
+INFO:root:Recording time elapsed (min): 21.347898419698037
+INFO:root:Recording time elapsed (min): 21.3682000716527
+INFO:root:interf now pointing at: {'ant_w': (22.6354492188, 117.255566406), 'ant_e': (22.6264648438, 120.448730469)}
+INFO:root:
+INFO:root:Iteration: 162
+INFO:root:Tracking time elapsed (min): 21.36954462925596
+INFO:root:Moon is currently at alt, az: 22.67520730798907, 120.4464984372182
+INFO:root:Recording time elapsed (min): 21.389298657576184
+INFO:root:Recording time elapsed (min): 21.410751644770237
+INFO:root:Recording time elapsed (min): 21.43120375871657
+INFO:root:Recording time elapsed (min): 21.451702662308982
+INFO:root:Recording time elapsed (min): 21.47220673958455
+INFO:root:Recording time elapsed (min): 21.494391810894015
+INFO:root:Recording time elapsed (min): 21.51488082011534
+INFO:root:interf now pointing at: {'ant_w': (22.6354492188, 120.507519531), 'ant_e': (22.6264648438, 120.448730469)}
+INFO:root:
+INFO:root:Iteration: 163
+INFO:root:Tracking time elapsed (min): 21.519955515861522
+INFO:root:Moon is currently at alt, az: 22.699770175434555, 120.47573473032676
+INFO:root:Recording time elapsed (min): 21.53503548701604
+INFO:root:Recording time elapsed (min): 21.555777577559105
+INFO:root:Recording time elapsed (min): 21.577772080898285
+INFO:root:Recording time elapsed (min): 21.598056046167954
+INFO:root:interf now pointing at: {'ant_w': (22.7453125, 120.639355469), 'ant_e': (22.4946289062, 120.514648438)}
+INFO:root:
+INFO:root:Iteration: 164
+INFO:root:Tracking time elapsed (min): 21.615216008822145
+INFO:root:Moon is currently at alt, az: 22.715322839631245, 120.49425776401132
+INFO:root:Recording time elapsed (min): 21.618621842066457
+INFO:root:Recording time elapsed (min): 21.639702637990304
+INFO:root:Recording time elapsed (min): 21.66098982493083
+INFO:root:Recording time elapsed (min): 21.682270181179028
+INFO:root:Recording time elapsed (min): 21.70359611908591
+INFO:root:Recording time elapsed (min): 21.723196629683123
+INFO:root:interf now pointing at: {'ant_w': (22.7453125, 120.309765625), 'ant_e': (22.6704101562, 120.448730469)}
+INFO:root:
+INFO:root:Iteration: 165
+INFO:root:Tracking time elapsed (min): 21.730411899089788
+INFO:root:Moon is currently at alt, az: 22.734126241996957, 120.51666406650486
+INFO:root:Recording time elapsed (min): 21.743223869800534
+INFO:root:Recording time elapsed (min): 21.76412802934646
+INFO:root:Recording time elapsed (min): 21.785211280981702
+INFO:root:Recording time elapsed (min): 21.805530985196377
+INFO:root:interf now pointing at: {'ant_w': (22.7672851562, 120.617382812), 'ant_e': (22.7583007812, 120.514648438)}
+INFO:root:
+INFO:root:Iteration: 166
+INFO:root:Tracking time elapsed (min): 21.82680573066073
+INFO:root:Moon is currently at alt, az: 22.74985721718829, 120.53541907118088
+INFO:root:Recording time elapsed (min): 21.828248739242557
+INFO:root:Recording time elapsed (min): 21.849352268377878
+INFO:root:Recording time elapsed (min): 21.869045813878316
+INFO:root:Recording time elapsed (min): 21.89031192859008
+INFO:root:interf now pointing at: {'ant_w': (22.7672851562, 120.52949218799999), 'ant_e': (22.736328125, 120.536621094)}
+INFO:root:
+INFO:root:Iteration: 167
+INFO:root:Tracking time elapsed (min): 21.903939863046034
+INFO:root:Moon is currently at alt, az: 22.76244289232947, 120.55043060364345
+INFO:root:Recording time elapsed (min): 21.90885539452229
+INFO:root:Recording time elapsed (min): 21.93168565829593
+INFO:root:Recording time elapsed (min): 21.95310760339101
+INFO:root:Recording time elapsed (min): 21.97438499530155
+INFO:root:Recording time elapsed (min): 21.99388574361801
+INFO:root:interf now pointing at: {'ant_w': (22.7672851562, 120.52949218799999), 'ant_e': (22.6484375, 120.55859375)}
+INFO:root:
+INFO:root:Iteration: 168
+INFO:root:Tracking time elapsed (min): 22.00049666961032
+INFO:root:Moon is currently at alt, az: 22.778194913625164, 120.56922688830801
+INFO:root:Recording time elapsed (min): 22.013784372806555
+INFO:root:Recording time elapsed (min): 22.036996467908185
+INFO:root:Recording time elapsed (min): 22.056611518065115
+INFO:root:Recording time elapsed (min): 22.080754828453067
+INFO:root:Recording time elapsed (min): 22.098694471518137
+INFO:root:interf now pointing at: {'ant_w': (22.7672851562, 120.837109375), 'ant_e': (22.6044921875, 120.602539062)}
+INFO:root:
+INFO:root:Iteration: 169
+INFO:root:Tracking time elapsed (min): 22.115306142965974
+INFO:root:Moon is currently at alt, az: 22.796920602260272, 120.59158327204467
+INFO:root:Recording time elapsed (min): 22.11937104860942
+INFO:root:Recording time elapsed (min): 22.140568709373476
+INFO:root:Recording time elapsed (min): 22.159954003492928
+INFO:root:Recording time elapsed (min): 22.182805367310834
+INFO:root:Recording time elapsed (min): 22.20236220359796
+INFO:root:interf now pointing at: {'ant_w': (22.7453125, 120.441601562), 'ant_e': (22.7802734375, 120.580566406)}
+INFO:root:
+INFO:root:Iteration: 170
+INFO:root:Tracking time elapsed (min): 22.211777126789105
+INFO:root:Moon is currently at alt, az: 22.812651860100907, 120.61037450499116
+INFO:root:Recording time elapsed (min): 22.22131488720576
+INFO:root:Recording time elapsed (min): 22.244227504730176
+INFO:root:Recording time elapsed (min): 22.26552954117457
+INFO:root:Recording time elapsed (min): 22.286799240112288
+INFO:root:Recording time elapsed (min): 22.30634823242818
+INFO:root:interf now pointing at: {'ant_w': (22.7892578125, 120.617382812), 'ant_e': (22.7802734375, 120.580566406)}
+INFO:root:
+INFO:root:Iteration: 171
+INFO:root:Tracking time elapsed (min): 22.326650909582774
+INFO:root:Moon is currently at alt, az: 22.831379979039816, 120.63275730010668
+INFO:root:Recording time elapsed (min): 22.328796315193138
+INFO:root:Recording time elapsed (min): 22.348124595483092
+INFO:root:Recording time elapsed (min): 22.369541442394222
+INFO:root:Recording time elapsed (min): 22.390865087509148
+INFO:root:Recording time elapsed (min): 22.410405834515885
+INFO:root:interf now pointing at: {'ant_w': (22.8551757812, 120.617382812), 'ant_e': (22.82421875, 120.668457031)}
+INFO:root:
+INFO:root:Iteration: 172
+INFO:root:Tracking time elapsed (min): 22.42291421492893
+INFO:root:Moon is currently at alt, az: 22.847070613113676, 120.65151972307883
+INFO:root:Recording time elapsed (min): 22.43061794439951
+INFO:root:Recording time elapsed (min): 22.453497389952275
+INFO:root:Recording time elapsed (min): 22.471387648582404
+INFO:root:Recording time elapsed (min): 22.494129312038396
+INFO:root:Recording time elapsed (min): 22.51618019739783
+INFO:root:interf now pointing at: {'ant_w': (22.8551757812, 120.595410156), 'ant_e': (22.8461914062, 120.646484375)}
+INFO:root:
+INFO:root:Iteration: 173
+INFO:root:Tracking time elapsed (min): 22.519093485673245
+INFO:root:Moon is currently at alt, az: 22.86274447012187, 120.67027107185298
+INFO:root:Recording time elapsed (min): 22.53642316261926
+INFO:root:Recording time elapsed (min): 22.557637695471442
+INFO:root:Recording time elapsed (min): 22.57717945973078
+INFO:root:Recording time elapsed (min): 22.59842451810835
+INFO:root:interf now pointing at: {'ant_w': (22.8551757812, 120.551464844), 'ant_e': (22.7802734375, 120.646484375)}
+INFO:root:
+INFO:root:Iteration: 174
+INFO:root:Tracking time elapsed (min): 22.615160159269962
+INFO:root:Moon is currently at alt, az: 22.8783969025784, 120.68900576539338
+INFO:root:Recording time elapsed (min): 22.619308205445545
+INFO:root:Recording time elapsed (min): 22.64040871461227
+INFO:root:Recording time elapsed (min): 22.661688025792436
+INFO:root:Recording time elapsed (min): 22.681165401140852
+INFO:root:Recording time elapsed (min): 22.702412255605058
+INFO:root:Recording time elapsed (min): 22.723315803209925
+INFO:root:interf now pointing at: {'ant_w': (22.8991210938, 120.5734375), 'ant_e': (23.0219726562, 120.756347656)}
+INFO:root:
+INFO:root:Iteration: 175
+INFO:root:Tracking time elapsed (min): 22.730712457497944
+INFO:root:Moon is currently at alt, az: 22.897220110328824, 120.71154751715501
+INFO:root:Recording time elapsed (min): 22.743592969576476
+INFO:root:Recording time elapsed (min): 22.764104537169132
+INFO:root:Recording time elapsed (min): 22.78690101703006
+INFO:root:Recording time elapsed (min): 22.806440353393516
+INFO:root:Recording time elapsed (min): 22.827718949317905
+INFO:root:Recording time elapsed (min): 22.848961627483362
+INFO:root:interf now pointing at: {'ant_w': (21.7565429688, 121.364453125), 'ant_e': (23.0659179688, 121.217773438)}
+INFO:root:
+INFO:root:Iteration: 176
+INFO:root:Tracking time elapsed (min): 22.863056977589906
+INFO:root:Moon is currently at alt, az: 22.91877325854684, 120.73737449165988
+INFO:root:Recording time elapsed (min): 22.867233268419866
+INFO:root:Recording time elapsed (min): 22.890041323502857
+INFO:root:Recording time elapsed (min): 22.91129633585607
+INFO:root:Recording time elapsed (min): 22.93253385225931
+INFO:root:Recording time elapsed (min): 22.952100817362464
+INFO:root:Recording time elapsed (min): 22.973347934087123
+INFO:root:Recording time elapsed (min): 22.994591009616805
+INFO:root:Recording time elapsed (min): 23.014101322491925
+INFO:root:interf now pointing at: {'ant_w': (22.8991210938, 120.309765625), 'ant_e': (22.82421875, 120.712402344)}
+INFO:root:
+INFO:root:Iteration: 177
+INFO:root:Tracking time elapsed (min): 23.014475750923147
+INFO:root:Moon is currently at alt, az: 22.943425592334904, 120.76693615200541
+INFO:root:Recording time elapsed (min): 23.035188186168636
+INFO:root:Recording time elapsed (min): 23.054536084333996
+INFO:root:Recording time elapsed (min): 23.077318120002683
+INFO:root:Recording time elapsed (min): 23.09851019779841
+INFO:root:Recording time elapsed (min): 23.11981798410411
+INFO:root:interf now pointing at: {'ant_w': (22.8991210938, 120.375683594), 'ant_e': (22.8461914062, 120.822265625)}
+INFO:root:
+INFO:root:Iteration: 178
+INFO:root:Tracking time elapsed (min): 23.128670978546122
+INFO:root:Moon is currently at alt, az: 22.962012527572345, 120.78923934692278
+INFO:root:Recording time elapsed (min): 23.138223620255776
+INFO:root:Recording time elapsed (min): 23.161135772864007
+INFO:root:Recording time elapsed (min): 23.182543218135827
+INFO:root:Recording time elapsed (min): 23.202093358834546
+INFO:root:Recording time elapsed (min): 23.223362163702646
+INFO:root:Recording time elapsed (min): 23.244629327456146
+INFO:root:Recording time elapsed (min): 23.26610157887138
+INFO:root:Recording time elapsed (min): 23.285625263055117
+INFO:root:Recording time elapsed (min): 23.305193928877515
+INFO:root:Recording time elapsed (min): 23.327906604607847
+INFO:root:interf now pointing at: {'ant_w': (22.8991210938, 120.683300781), 'ant_e': (22.9560546875, 120.778320312)}
+INFO:root:
+INFO:root:Iteration: 179
+INFO:root:Tracking time elapsed (min): 23.335321784019463
+INFO:root:Moon is currently at alt, az: 22.995636845219586, 120.82961891929618
+INFO:root:Recording time elapsed (min): 23.348994414011575
+INFO:root:Recording time elapsed (min): 23.370286587874098
+INFO:root:Recording time elapsed (min): 23.389079713821374
+INFO:root:Recording time elapsed (min): 23.41154164870578
+INFO:root:interf now pointing at: {'ant_w': (22.9650390625, 120.925), 'ant_e': (23.0, 120.778320312)}
+INFO:root:
+INFO:root:Iteration: 180
+INFO:root:Tracking time elapsed (min): 23.430621703465768
+INFO:root:Moon is currently at alt, az: 23.011138346752723, 120.84824882532965
+INFO:root:Recording time elapsed (min): 23.43262124061578
+INFO:root:Recording time elapsed (min): 23.453600088755255
+INFO:root:Recording time elapsed (min): 23.47338843743004
+INFO:root:Recording time elapsed (min): 23.494650816917357
+INFO:root:interf now pointing at: {'ant_w': (23.008984375, 120.727246094), 'ant_e': (22.9780273438, 120.844238281)}
+INFO:root:
+INFO:root:Iteration: 181
+INFO:root:Tracking time elapsed (min): 23.508336202303568
+INFO:root:Moon is currently at alt, az: 23.023777142055664, 120.86344488884974
+INFO:root:Recording time elapsed (min): 23.513081630070943
+INFO:root:Recording time elapsed (min): 23.5358777999878
+INFO:root:Recording time elapsed (min): 23.557165817419687
+INFO:root:Recording time elapsed (min): 23.578420233726483
+INFO:root:Recording time elapsed (min): 23.597821577390032
+INFO:root:Recording time elapsed (min): 23.619097689787516
+INFO:root:interf now pointing at: {'ant_w': (23.008984375, 120.771191406), 'ant_e': (22.8461914062, 120.756347656)}
+INFO:root:
+INFO:root:Iteration: 182
+INFO:root:Tracking time elapsed (min): 23.62318958441417
+INFO:root:Moon is currently at alt, az: 23.04245216094383, 120.885909369536
+INFO:root:Recording time elapsed (min): 23.640778867403647
+INFO:root:Recording time elapsed (min): 23.660034294923147
+INFO:root:Recording time elapsed (min): 23.682724479834192
+INFO:root:Recording time elapsed (min): 23.702260692914336
+INFO:root:Recording time elapsed (min): 23.72369530995683
+INFO:root:interf now pointing at: {'ant_w': (22.9870117188, 117.71699218799999), 'ant_e': (23.0, 120.888183594)}
+INFO:root:
+INFO:root:Iteration: 183
+INFO:root:Tracking time elapsed (min): 23.73795907497403
+INFO:root:Moon is currently at alt, az: 23.061109105875932, 120.90836505906576
+INFO:root:Recording time elapsed (min): 23.742373541990922
+INFO:root:Recording time elapsed (min): 23.76518477201462
+INFO:root:Recording time elapsed (min): 23.78635006348287
+INFO:root:Recording time elapsed (min): 23.807823713620444
+INFO:root:Recording time elapsed (min): 23.827344898382794
+INFO:root:Recording time elapsed (min): 23.84858963489527
+INFO:root:interf now pointing at: {'ant_w': (23.0749023438, 120.793164062), 'ant_e': (23.0439453125, 120.888183594)}
+INFO:root:
+INFO:root:Iteration: 184
+INFO:root:Tracking time elapsed (min): 23.85273425181709
+INFO:root:Moon is currently at alt, az: 23.079762539621534, 120.93082948307412
+INFO:root:Recording time elapsed (min): 23.870408324400554
+INFO:root:Recording time elapsed (min): 23.889959724744145
+INFO:root:Recording time elapsed (min): 23.911234398682915
+INFO:root:Recording time elapsed (min): 23.932512688636773
+INFO:root:Recording time elapsed (min): 23.953647736708277
+INFO:root:interf now pointing at: {'ant_w': (23.096875, 121.10078125), 'ant_e': (22.7583007812, 120.976074219)}
+INFO:root:
+INFO:root:Iteration: 185
+INFO:root:Tracking time elapsed (min): 23.967448723316203
+INFO:root:Moon is currently at alt, az: 23.098401671716267, 120.95328964820695
+INFO:root:Recording time elapsed (min): 23.97124934593834
+INFO:root:Recording time elapsed (min): 23.994146529833422
+INFO:root:Recording time elapsed (min): 24.015335655212358
+INFO:root:Recording time elapsed (min): 24.036250094572644
+INFO:root:Recording time elapsed (min): 24.056948717435134
+INFO:root:Recording time elapsed (min): 24.077692174911487
+INFO:root:Recording time elapsed (min): 24.098344767093593
+INFO:root:interf now pointing at: {'ant_w': (23.096875, 121.05683593799999), 'ant_e': (23.087890625, 120.932128906)}
+INFO:root:
+INFO:root:Iteration: 186
+INFO:root:Tracking time elapsed (min): 24.0994063337644
+INFO:root:Moon is currently at alt, az: 23.119837024939905, 120.97913531223404
+INFO:root:Recording time elapsed (min): 24.119397513071632
+INFO:root:Recording time elapsed (min): 24.140317666530553
+INFO:root:Recording time elapsed (min): 24.161628584066968
+INFO:root:Recording time elapsed (min): 24.182959763208977
+INFO:root:Recording time elapsed (min): 24.20246542294814
+INFO:root:interf now pointing at: {'ant_w': (23.096875, 120.661328125), 'ant_e': (23.087890625, 120.954101562)}
+INFO:root:
+INFO:root:Iteration: 187
+INFO:root:Tracking time elapsed (min): 24.213371713956207
+INFO:root:Moon is currently at alt, az: 23.138344965099297, 121.00146508571353
+INFO:root:Recording time elapsed (min): 24.222613096237147
+INFO:root:Recording time elapsed (min): 24.2438413103421
+INFO:root:Recording time elapsed (min): 24.265170093377435
+INFO:root:Recording time elapsed (min): 24.28644247055047
+INFO:root:Recording time elapsed (min): 24.30787758827206
+INFO:root:Recording time elapsed (min): 24.327456223964667
+INFO:root:Recording time elapsed (min): 24.34875888427098
+INFO:root:Recording time elapsed (min): 24.37012944618859
+INFO:root:Recording time elapsed (min): 24.389698763688337
+INFO:root:Recording time elapsed (min): 24.410953084627742
+INFO:root:interf now pointing at: {'ant_w': (23.1408203125, 117.870800781), 'ant_e': (23.087890625, 120.91015625)}
+INFO:root:
+INFO:root:Iteration: 188
+INFO:root:Tracking time elapsed (min): 24.419924414157883
+INFO:root:Moon is currently at alt, az: 23.171877859293893, 121.04195515027976
+INFO:root:Recording time elapsed (min): 24.43094084660208
+INFO:root:Recording time elapsed (min): 24.453862313429468
+INFO:root:Recording time elapsed (min): 24.473404983679448
+INFO:root:Recording time elapsed (min): 24.49471114873881
+INFO:root:Recording time elapsed (min): 24.51599157651259
+INFO:root:Recording time elapsed (min): 24.535532212257365
+INFO:root:Recording time elapsed (min): 24.55641369819638
+INFO:root:Recording time elapsed (min): 24.57769269148507
+INFO:root:Recording time elapsed (min): 24.598951852321598
+INFO:root:Recording time elapsed (min): 24.620243930816645
+INFO:root:Recording time elapsed (min): 24.639797874291702
+INFO:root:interf now pointing at: {'ant_w': (23.184765625, 121.210644531), 'ant_e': (23.0439453125, 121.041992188)}
+INFO:root:
+INFO:root:Iteration: 189
+INFO:root:Tracking time elapsed (min): 24.644831756750733
+INFO:root:Moon is currently at alt, az: 23.208374109708657, 121.08607144506169
+INFO:root:Recording time elapsed (min): 24.66075872977573
+INFO:root:Recording time elapsed (min): 24.681999572118094
+INFO:root:Recording time elapsed (min): 24.703249212106037
+INFO:root:Recording time elapsed (min): 24.724521164099336
+INFO:root:Recording time elapsed (min): 24.744071471691118
+INFO:root:interf now pointing at: {'ant_w': (23.3166015625, 120.925), 'ant_e': (23.087890625, 120.998046875)}
+INFO:root:
+INFO:root:Iteration: 190
+INFO:root:Tracking time elapsed (min): 24.759765978654194
+INFO:root:Moon is currently at alt, az: 23.227018132599852, 121.10862752998052
+INFO:root:Recording time elapsed (min): 24.764249197642005
+INFO:root:Recording time elapsed (min): 24.787014019489284
+INFO:root:Recording time elapsed (min): 24.80661482016246
+INFO:root:Recording time elapsed (min): 24.8279102404912
+INFO:root:Recording time elapsed (min): 24.849248246351834
+INFO:root:Recording time elapsed (min): 24.870496459801927
+INFO:root:Recording time elapsed (min): 24.890074531237254
+INFO:root:Recording time elapsed (min): 24.911374580860137
+INFO:root:Recording time elapsed (min): 24.93278807799017
+INFO:root:Recording time elapsed (min): 24.952361027399654
+INFO:root:Recording time elapsed (min): 24.97365481853481
+INFO:root:interf now pointing at: {'ant_w': (23.1408203125, 109.543164062), 'ant_e': (23.1318359375, 121.217773438)}
+INFO:root:
+INFO:root:Iteration: 191
+INFO:root:Tracking time elapsed (min): 24.984854590892816
+INFO:root:Moon is currently at alt, az: 23.263517810337667, 121.15282395477176
+INFO:root:Recording time elapsed (min): 24.993522290388725
+INFO:root:Recording time elapsed (min): 25.014726678530312
+INFO:root:Recording time elapsed (min): 25.036029136180815
+INFO:root:Recording time elapsed (min): 25.05733559131622
+INFO:root:Recording time elapsed (min): 25.078638275464343
+INFO:root:Recording time elapsed (min): 25.098204421997004
+INFO:root:Recording time elapsed (min): 25.11963216066355
+INFO:root:Recording time elapsed (min): 25.140928041934927
+INFO:root:Recording time elapsed (min): 25.163019557793884
+INFO:root:Recording time elapsed (min): 25.180818426609015
+INFO:root:Recording time elapsed (min): 25.20375235478084
+INFO:root:Recording time elapsed (min): 25.223297937711074
+INFO:root:Recording time elapsed (min): 25.244558421770734
+INFO:root:Recording time elapsed (min): 25.26582204500827
+INFO:root:Recording time elapsed (min): 25.28562385241191
+INFO:root:Recording time elapsed (min): 25.305205595493263
+INFO:root:Recording time elapsed (min): 25.326309589544927
+INFO:root:Recording time elapsed (min): 25.34741135040912
+INFO:root:Recording time elapsed (min): 25.368555549780503
+INFO:root:Recording time elapsed (min): 25.38973784844081
+INFO:root:interf now pointing at: {'ant_w': (23.3825195312, 130.483105469), 'ant_e': (22.912109375, 121.195800781)}
+INFO:root:
+INFO:root:Iteration: 192
+INFO:root:Tracking time elapsed (min): 25.393697082996376
+INFO:root:Moon is currently at alt, az: 23.329770308060453, 121.2331763554047
+INFO:root:Recording time elapsed (min): 25.40953571399048
+INFO:root:Recording time elapsed (min): 25.43065764109287
+INFO:root:Recording time elapsed (min): 25.45187902053195
+INFO:root:Recording time elapsed (min): 25.471497293313288
+INFO:root:Recording time elapsed (min): 25.493428432941386
+INFO:root:Recording time elapsed (min): 25.514578970273327
+INFO:root:Recording time elapsed (min): 25.533932069937357
+INFO:root:Recording time elapsed (min): 25.554941598574253
+INFO:root:Recording time elapsed (min): 25.57597691615421
+INFO:root:Recording time elapsed (min): 25.598485394318892
+INFO:root:Recording time elapsed (min): 25.617822603384646
+INFO:root:Recording time elapsed (min): 25.63885144790012
+INFO:root:interf now pointing at: {'ant_w': (23.3166015625, 121.364453125), 'ant_e': (23.17578125, 121.283691406)}
+INFO:root:
+INFO:root:Iteration: 193
+INFO:root:Tracking time elapsed (min): 25.65485463937123
+INFO:root:Moon is currently at alt, az: 23.372060732345947, 121.28455449804741
+INFO:root:Recording time elapsed (min): 25.660211221377025
+INFO:root:Recording time elapsed (min): 25.681227302551235
+INFO:root:Recording time elapsed (min): 25.700602519512145
+INFO:root:Recording time elapsed (min): 25.721650870641064
+INFO:root:Recording time elapsed (min): 25.742776366074843
+INFO:root:Recording time elapsed (min): 25.76376735369358
+INFO:root:interf now pointing at: {'ant_w': (23.3166015625, 120.661328125), 'ant_e': (23.087890625, 121.283691406)}
+INFO:root:
+INFO:root:Iteration: 194
+INFO:root:Tracking time elapsed (min): 25.768685372670443
+INFO:root:Moon is currently at alt, az: 23.390486551574373, 121.30696119965518
+INFO:root:Recording time elapsed (min): 25.785129817326826
+INFO:root:Recording time elapsed (min): 25.8061375339826
+INFO:root:Recording time elapsed (min): 25.827069091796815
+INFO:root:Recording time elapsed (min): 25.847668858369197
+INFO:root:Recording time elapsed (min): 25.869834407170565
+INFO:root:Recording time elapsed (min): 25.890312349796254
+INFO:root:interf now pointing at: {'ant_w': (23.4484375, 121.474316406), 'ant_e': (23.1098632812, 121.151855469)}
+INFO:root:
+INFO:root:Iteration: 195
+INFO:root:Tracking time elapsed (min): 25.900876200199086
+INFO:root:Moon is currently at alt, az: 23.4118787493395, 121.33299148828743
+INFO:root:Recording time elapsed (min): 25.91013707319891
+INFO:root:Recording time elapsed (min): 25.932241443792982
+INFO:root:Recording time elapsed (min): 25.95294264157607
+INFO:root:Recording time elapsed (min): 25.97322034438447
+INFO:root:Recording time elapsed (min): 25.99377239545186
+INFO:root:Recording time elapsed (min): 26.014181903998022
+INFO:root:Recording time elapsed (min): 26.036324870586334
+INFO:root:Recording time elapsed (min): 26.057342747847187
+INFO:root:interf now pointing at: {'ant_w': (23.360546875, 122.309277344), 'ant_e': (23.4174804688, 121.283691406)}
+INFO:root:
+INFO:root:Iteration: 196
+INFO:root:Tracking time elapsed (min): 26.071006035804707
+INFO:root:Moon is currently at alt, az: 23.439401717874897, 121.36650762630616
+INFO:root:Recording time elapsed (min): 26.075758695602424
+INFO:root:Recording time elapsed (min): 26.098556109269424
+INFO:root:Recording time elapsed (min): 26.119830477237667
+INFO:root:Recording time elapsed (min): 26.141087377071372
+INFO:root:Recording time elapsed (min): 26.16233850717542
+INFO:root:Recording time elapsed (min): 26.181900564829483
+INFO:root:Recording time elapsed (min): 26.20317696730293
+INFO:root:Recording time elapsed (min): 26.22444428205484
+INFO:root:Recording time elapsed (min): 26.244001364707934
+INFO:root:interf now pointing at: {'ant_w': (23.4264648438, 125.868847656), 'ant_e': (23.3955078125, 121.415527344)}
+INFO:root:
+INFO:root:Iteration: 197
+INFO:root:Tracking time elapsed (min): 26.259312303860938
+INFO:root:Moon is currently at alt, az: 23.469853598924445, 121.40362443167392
+INFO:root:Recording time elapsed (min): 26.26418803930281
+INFO:root:Recording time elapsed (min): 26.286985858281433
+INFO:root:Recording time elapsed (min): 26.306557234128274
+INFO:root:Recording time elapsed (min): 26.327854231993353
+INFO:root:Recording time elapsed (min): 26.349130026499363
+INFO:root:Recording time elapsed (min): 26.37043340206145
+INFO:root:Recording time elapsed (min): 26.39005223115283
+INFO:root:Recording time elapsed (min): 26.411340598265312
+INFO:root:Recording time elapsed (min): 26.4326325615247
+INFO:root:interf now pointing at: {'ant_w': (23.4923828125, 121.430371094), 'ant_e': (23.4833984375, 121.349609375)}
+INFO:root:
+INFO:root:Iteration: 198
+INFO:root:Tracking time elapsed (min): 26.4476757486661
+INFO:root:Moon is currently at alt, az: 23.500302510907574, 121.44077340053265
+INFO:root:Recording time elapsed (min): 26.4518737753232
+INFO:root:Recording time elapsed (min): 26.474687520662936
+INFO:root:Recording time elapsed (min): 26.49424477020893
+INFO:root:Recording time elapsed (min): 26.515545550982154
+INFO:root:Recording time elapsed (min): 26.536800730228425
+INFO:root:Recording time elapsed (min): 26.558080788453413
+INFO:root:Recording time elapsed (min): 26.57765988111496
+INFO:root:interf now pointing at: {'ant_w': (23.7340820312, 119.320996094), 'ant_e': (23.263671875, 121.481445312)}
+INFO:root:
+INFO:root:Iteration: 199
+INFO:root:Tracking time elapsed (min): 26.581364925702413
+INFO:root:Moon is currently at alt, az: 23.521905913554704, 121.46715222361875
+INFO:root:Recording time elapsed (min): 26.598975125948535
+INFO:root:Recording time elapsed (min): 26.62030536333715
+INFO:root:Recording time elapsed (min): 26.639905373255345
+INFO:root:Recording time elapsed (min): 26.66119314829504
+INFO:root:Recording time elapsed (min): 26.682439045111288
+INFO:root:Recording time elapsed (min): 26.70368262926731
+INFO:root:Recording time elapsed (min): 26.724250562985734
+INFO:root:Recording time elapsed (min): 26.744946885108945
+INFO:root:Recording time elapsed (min): 26.76625608205793
+INFO:root:Recording time elapsed (min): 26.785795362790363
+INFO:root:interf now pointing at: {'ant_w': (22.8112304688, 121.847851562), 'ant_e': (23.52734375, 121.525390625)}
+INFO:root:
+INFO:root:Iteration: 200
+INFO:root:Tracking time elapsed (min): 26.787906491756406
+INFO:root:Moon is currently at alt, az: 23.55526970642574, 121.50792662758096
+INFO:root:Recording time elapsed (min): 26.807459211349425
+INFO:root:Recording time elapsed (min): 26.828786496321328
+INFO:root:Recording time elapsed (min): 26.848303218682588
+INFO:root:Recording time elapsed (min): 26.869553883870374
+INFO:root:Recording time elapsed (min): 26.89081031084057
+INFO:root:Recording time elapsed (min): 26.91226067145663
+INFO:root:interf now pointing at: {'ant_w': (23.712109375, 117.01386718799999), 'ant_e': (23.0659179688, 121.547363281)}
+INFO:root:
+INFO:root:Iteration: 201
+INFO:root:Tracking time elapsed (min): 26.920841872692137
+INFO:root:Moon is currently at alt, az: 23.576735683604316, 121.53418340223071
+INFO:root:Recording time elapsed (min): 26.930787154038754
+INFO:root:Recording time elapsed (min): 26.953723287582385
+INFO:root:Recording time elapsed (min): 26.973319884141223
+INFO:root:Recording time elapsed (min): 26.994629446665456
+INFO:root:Recording time elapsed (min): 27.015950274467436
+INFO:root:Recording time elapsed (min): 27.035418999195073
+INFO:root:Recording time elapsed (min): 27.056710255146008
+INFO:root:Recording time elapsed (min): 27.078042781352956
+INFO:root:Recording time elapsed (min): 27.099285368124644
+INFO:root:Recording time elapsed (min): 27.12051462729771
+INFO:root:Recording time elapsed (min): 27.141126724084216
+INFO:root:Recording time elapsed (min): 27.16184415022532
+INFO:root:Recording time elapsed (min): 27.182173963387754
+INFO:root:interf now pointing at: {'ant_w': (23.5802734375, 121.75996093799999), 'ant_e': (23.4614257812, 121.503417969)}
+INFO:root:
+INFO:root:Iteration: 202
+INFO:root:Tracking time elapsed (min): 27.18329499165213
+INFO:root:Moon is currently at alt, az: 23.619097789208332, 121.58605262261791
+INFO:root:Recording time elapsed (min): 27.203981566429132
+INFO:root:Recording time elapsed (min): 27.223498706022884
+INFO:root:Recording time elapsed (min): 27.244751469294215
+INFO:root:Recording time elapsed (min): 27.26608438889184
+INFO:root:Recording time elapsed (min): 27.287424071629836
+INFO:root:interf now pointing at: {'ant_w': (23.5583007812, 121.628125), 'ant_e': (23.5712890625, 121.635253906)}
+INFO:root:
+INFO:root:Iteration: 203
+INFO:root:Tracking time elapsed (min): 27.29712322552995
+INFO:root:Moon is currently at alt, az: 23.637463175524875, 121.60856145044764
+INFO:root:Recording time elapsed (min): 27.30601791938141
+INFO:root:Recording time elapsed (min): 27.328946300347656
+INFO:root:Recording time elapsed (min): 27.348498682181017
+INFO:root:Recording time elapsed (min): 27.369819549719452
+INFO:root:Recording time elapsed (min): 27.391137496630307
+INFO:root:Recording time elapsed (min): 27.410689306259144
+INFO:root:interf now pointing at: {'ant_w': (23.5802734375, 121.847851562), 'ant_e': (23.6372070312, 121.61328125)}
+INFO:root:
+INFO:root:Iteration: 204
+INFO:root:Tracking time elapsed (min): 27.411929492155682
+INFO:root:Moon is currently at alt, az: 23.655981798936242, 121.63127146343486
+INFO:root:Recording time elapsed (min): 27.432632895310654
+INFO:root:Recording time elapsed (min): 27.453917280832883
+INFO:root:Recording time elapsed (min): 27.473446265856396
+INFO:root:Recording time elapsed (min): 27.49550977547962
+INFO:root:Recording time elapsed (min): 27.515039996306108
+INFO:root:interf now pointing at: {'ant_w': (23.6681640625, 121.606152344), 'ant_e': (23.6372070312, 121.61328125)}
+INFO:root:
+INFO:root:Iteration: 205
+INFO:root:Tracking time elapsed (min): 27.526495909690823
+INFO:root:Moon is currently at alt, az: 23.67445716316073, 121.65394183205707
+INFO:root:Recording time elapsed (min): 27.53487614790595
+INFO:root:Recording time elapsed (min): 27.557789893945007
+INFO:root:Recording time elapsed (min): 27.579844431082357
+INFO:root:Recording time elapsed (min): 27.59953324794763
+INFO:root:Recording time elapsed (min): 27.620800904432905
+INFO:root:interf now pointing at: {'ant_w': (23.6681640625, 121.606152344), 'ant_e': (23.615234375, 121.657226562)}
+INFO:root:
+INFO:root:Iteration: 206
+INFO:root:Tracking time elapsed (min): 27.622988458474495
+INFO:root:Moon is currently at alt, az: 23.690014328808548, 121.67304179871863
+INFO:root:Recording time elapsed (min): 27.64076333045958
+INFO:root:Recording time elapsed (min): 27.661999591191577
+INFO:root:Recording time elapsed (min): 27.683367311954434
+INFO:root:Recording time elapsed (min): 27.702864332993762
+INFO:root:interf now pointing at: {'ant_w': (23.6681640625, 121.694042969), 'ant_e': (23.703125, 121.635253906)}
+INFO:root:
+INFO:root:Iteration: 207
+INFO:root:Tracking time elapsed (min): 27.719215778509756
+INFO:root:Moon is currently at alt, az: 23.705525500957467, 121.69209477836547
+INFO:root:Recording time elapsed (min): 27.723237327734587
+INFO:root:Recording time elapsed (min): 27.744300611813824
+INFO:root:Recording time elapsed (min): 27.76555097103116
+INFO:root:Recording time elapsed (min): 27.786811411380743
+INFO:root:Recording time elapsed (min): 27.808058893680574
+INFO:root:interf now pointing at: {'ant_w': (23.6901367188, 121.628125), 'ant_e': (23.703125, 121.657226562)}
+INFO:root:
+INFO:root:Iteration: 208
+INFO:root:Tracking time elapsed (min): 27.815789675712548
+INFO:root:Moon is currently at alt, az: 23.721089290354918, 121.71122191845868
+INFO:root:Recording time elapsed (min): 27.82654897371924
+INFO:root:Recording time elapsed (min): 27.848658676942133
+INFO:root:Recording time elapsed (min): 27.869697153568236
+INFO:root:Recording time elapsed (min): 27.890936291217734
+INFO:root:interf now pointing at: {'ant_w': (23.712109375, 121.737988281), 'ant_e': (23.703125, 121.811035156)}
+INFO:root:
+INFO:root:Iteration: 209
+INFO:root:Tracking time elapsed (min): 27.89368063608805
+INFO:root:Moon is currently at alt, az: 23.73363977734069, 121.72665281641686
+INFO:root:Recording time elapsed (min): 27.91075495084123
+INFO:root:Recording time elapsed (min): 27.932000422477667
+INFO:root:Recording time elapsed (min): 27.95324950615565
+INFO:root:Recording time elapsed (min): 27.97274728218713
+INFO:root:Recording time elapsed (min): 27.995544167359682
+INFO:root:interf now pointing at: {'ant_w': (23.7560546875, 121.606152344), 'ant_e': (23.7250976562, 121.635253906)}
+INFO:root:
+INFO:root:Iteration: 210
+INFO:root:Tracking time elapsed (min): 28.008434212207824
+INFO:root:Moon is currently at alt, az: 23.752126035810115, 121.7493931136998
+INFO:root:Recording time elapsed (min): 28.01391512155532
+INFO:root:Recording time elapsed (min): 28.036742468674916
+INFO:root:Recording time elapsed (min): 28.058192439874
+INFO:root:Recording time elapsed (min): 28.077773563067126
+INFO:root:Recording time elapsed (min): 28.09897573788959
+INFO:root:Recording time elapsed (min): 28.12024030685422
+INFO:root:interf now pointing at: {'ant_w': (23.7560546875, 121.58417968799999), 'ant_e': (23.703125, 121.811035156)}
+INFO:root:
+INFO:root:Iteration: 211
+INFO:root:Tracking time elapsed (min): 28.122799865404772
+INFO:root:Moon is currently at alt, az: 23.770545218882926, 121.77206434755807
+INFO:root:Recording time elapsed (min): 28.140221595764157
+INFO:root:Recording time elapsed (min): 28.161481197675062
+INFO:root:Recording time elapsed (min): 28.182742063204458
+INFO:root:Recording time elapsed (min): 28.2040178894996
+INFO:root:Recording time elapsed (min): 28.224348990122408
+INFO:root:interf now pointing at: {'ant_w': (23.7560546875, 121.781933594), 'ant_e': (23.7690429688, 121.7890625)}
+INFO:root:
+INFO:root:Iteration: 212
+INFO:root:Tracking time elapsed (min): 28.237695753574368
+INFO:root:Moon is currently at alt, az: 23.789045189604085, 121.79484855059582
+INFO:root:Recording time elapsed (min): 28.24271245002742
+INFO:root:Recording time elapsed (min): 28.265667871634115
+INFO:root:Recording time elapsed (min): 28.286933664480785
+INFO:root:Recording time elapsed (min): 28.308192237218222
+INFO:root:interf now pointing at: {'ant_w': (23.7560546875, 121.781933594), 'ant_e': (23.7690429688, 121.745117188)}
+INFO:root:
+INFO:root:Iteration: 213
+INFO:root:Tracking time elapsed (min): 28.315499480565354
+INFO:root:Moon is currently at alt, az: 23.80157013493065, 121.81028174038033
+INFO:root:Recording time elapsed (min): 28.326594750086418
+INFO:root:Recording time elapsed (min): 28.349608631928724
+INFO:root:Recording time elapsed (min): 28.369129316012057
+INFO:root:Recording time elapsed (min): 28.390422709782914
+INFO:root:interf now pointing at: {'ant_w': (23.8439453125, 121.75996093799999), 'ant_e': (23.8129882812, 121.854980469)}
+INFO:root:
+INFO:root:Iteration: 214
+INFO:root:Tracking time elapsed (min): 28.411780881881672
+INFO:root:Recording time elapsed (min): 28.41242305437717
+INFO:root:Moon is currently at alt, az: 23.817066700763824, 121.82938517813797
+INFO:root:Recording time elapsed (min): 28.432829618453948
+INFO:root:Recording time elapsed (min): 28.45417636235552
+INFO:root:Recording time elapsed (min): 28.473755002021743
+INFO:root:Recording time elapsed (min): 28.495040686925215
+INFO:root:interf now pointing at: {'ant_w': (23.8439453125, 121.672070312), 'ant_e': (23.791015625, 121.854980469)}
+INFO:root:
+INFO:root:Iteration: 215
+INFO:root:Tracking time elapsed (min): 28.50752297639845
+INFO:root:Moon is currently at alt, az: 23.832473240611698, 121.84838710679742
+INFO:root:Recording time elapsed (min): 28.51342652241385
+INFO:root:Recording time elapsed (min): 28.536304779847413
+INFO:root:Recording time elapsed (min): 28.557616615295416
+INFO:root:Recording time elapsed (min): 28.57890002727504
+INFO:root:Recording time elapsed (min): 28.598539662361098
+INFO:root:Recording time elapsed (min): 28.619817606608056
+INFO:root:interf now pointing at: {'ant_w': (23.8439453125, 121.957714844), 'ant_e': (23.8349609375, 121.876953125)}
+INFO:root:
+INFO:root:Iteration: 216
+INFO:root:Tracking time elapsed (min): 28.622235012054436
+INFO:root:Moon is currently at alt, az: 23.850928125572647, 121.8711612183139
+INFO:root:Recording time elapsed (min): 28.641398016611692
+INFO:root:Recording time elapsed (min): 28.66097863117848
+INFO:root:Recording time elapsed (min): 28.683009668191268
+INFO:root:interf now pointing at: {'ant_w': (23.8439453125, 121.869824219), 'ant_e': (23.8349609375, 121.898925781)}
+INFO:root:
+INFO:root:Iteration: 217
+INFO:root:Tracking time elapsed (min): 28.700106171766908
+INFO:root:Moon is currently at alt, az: 23.863453410140266, 121.88662569296126
+INFO:root:Recording time elapsed (min): 28.702110477288542
+INFO:root:Recording time elapsed (min): 28.724817701180775
+INFO:root:Recording time elapsed (min): 28.744301215807553
+INFO:root:Recording time elapsed (min): 28.765757195154773
+INFO:root:Recording time elapsed (min): 28.786503295103685
+INFO:root:Recording time elapsed (min): 28.807093648115732
+INFO:root:interf now pointing at: {'ant_w': (23.8439453125, 121.93574218799999), 'ant_e': (23.9008789062, 121.854980469)}
+INFO:root:
+INFO:root:Iteration: 218
+INFO:root:Tracking time elapsed (min): 28.814554035663626
+INFO:root:Moon is currently at alt, az: 23.88185804758458, 121.90936054677995
+INFO:root:Recording time elapsed (min): 28.82768394947046
+INFO:root:Recording time elapsed (min): 28.84824229081471
+INFO:root:Recording time elapsed (min): 28.868523311614993
+INFO:root:Recording time elapsed (min): 28.890516702334097
+INFO:root:interf now pointing at: {'ant_w': (23.8439453125, 121.869824219), 'ant_e': (23.9008789062, 121.920898438)}
+INFO:root:
+INFO:root:Iteration: 219
+INFO:root:Tracking time elapsed (min): 28.909737352530172
+INFO:root:Moon is currently at alt, az: 23.897161193349238, 121.92827451481409
+INFO:root:Recording time elapsed (min): 28.911091423034616
+INFO:root:Recording time elapsed (min): 28.93139034509657
+INFO:root:Recording time elapsed (min): 28.953813111782054
+INFO:root:Recording time elapsed (min): 28.974582632382706
+INFO:root:Recording time elapsed (min): 28.995174419879923
+INFO:root:interf now pointing at: {'ant_w': (23.9098632812, 121.957714844), 'ant_e': (23.8569335938, 121.854980469)}
+INFO:root:
+INFO:root:Iteration: 220
+INFO:root:Tracking time elapsed (min): 29.005163145065307
+INFO:root:Moon is currently at alt, az: 23.91250011615574, 121.9472421200129
+INFO:root:Recording time elapsed (min): 29.014881416161806
+INFO:root:Recording time elapsed (min): 29.035373512903853
+INFO:root:Recording time elapsed (min): 29.05754298766454
+INFO:root:Recording time elapsed (min): 29.078026509284935
+INFO:root:Recording time elapsed (min): 29.098701449235236
+INFO:root:interf now pointing at: {'ant_w': (23.9318359375, 122.045605469), 'ant_e': (23.9228515625, 121.942871094)}
+INFO:root:
+INFO:root:Iteration: 221
+INFO:root:Tracking time elapsed (min): 29.100436985492664
+INFO:root:Moon is currently at alt, az: 23.927811408981672, 121.9661849746895
+INFO:root:Recording time elapsed (min): 29.120172178745225
+INFO:root:Recording time elapsed (min): 29.14043525457376
+INFO:root:Recording time elapsed (min): 29.161138657728813
+INFO:root:Recording time elapsed (min): 29.181445586681356
+INFO:root:Recording time elapsed (min): 29.20346255302423
+INFO:root:interf now pointing at: {'ant_w': (23.9318359375, 121.781933594), 'ant_e': (23.9008789062, 121.942871094)}
+INFO:root:
+INFO:root:Iteration: 222
+INFO:root:Tracking time elapsed (min): 29.21416186094283
+INFO:root:Moon is currently at alt, az: 23.946083737526937, 121.98880350029535
+INFO:root:Recording time elapsed (min): 29.22167511781052
+INFO:root:Recording time elapsed (min): 29.244263358910814
+INFO:root:Recording time elapsed (min): 29.264917290210697
+INFO:root:Recording time elapsed (min): 29.285225876172333
+INFO:root:Recording time elapsed (min): 29.307695833841898
+INFO:root:interf now pointing at: {'ant_w': (23.9318359375, 121.913769531), 'ant_e': (23.87890625, 121.986816406)}
+INFO:root:
+INFO:root:Iteration: 223
+INFO:root:Tracking time elapsed (min): 29.328577931721966
+INFO:root:Recording time elapsed (min): 29.328591851393384
+INFO:root:Moon is currently at alt, az: 23.96446250931051, 122.01156734206582
+INFO:root:Recording time elapsed (min): 29.348308312892915
+INFO:root:Recording time elapsed (min): 29.369415569305364
+INFO:root:Recording time elapsed (min): 29.390194276968646
+INFO:root:Recording time elapsed (min): 29.410487361748984
+INFO:root:Recording time elapsed (min): 29.43250273863473
+INFO:root:interf now pointing at: {'ant_w': (23.9318359375, 121.957714844), 'ant_e': (23.9228515625, 122.008789062)}
+INFO:root:
+INFO:root:Iteration: 224
+INFO:root:Tracking time elapsed (min): 29.442279382546772
+INFO:root:Moon is currently at alt, az: 23.982721900342582, 122.03419680565605
+INFO:root:Recording time elapsed (min): 29.45244845946626
+INFO:root:Recording time elapsed (min): 29.47303578456239
+INFO:root:Recording time elapsed (min): 29.49531528552371
+INFO:root:Recording time elapsed (min): 29.514529792467723
+INFO:root:Recording time elapsed (min): 29.53705077171321
+INFO:root:Recording time elapsed (min): 29.55730600357051
+INFO:root:interf now pointing at: {'ant_w': (24.0197265625, 123.034375), 'ant_e': (23.9887695312, 122.096679688)}
+INFO:root:
+INFO:root:Iteration: 225
+INFO:root:Tracking time elapsed (min): 29.575306848684928
+INFO:root:Moon is currently at alt, az: 24.004079057108278, 122.06068251542628
+INFO:root:Recording time elapsed (min): 29.57785313924149
+INFO:root:Recording time elapsed (min): 29.599153999487548
+INFO:root:Recording time elapsed (min): 29.620451358954092
+INFO:root:Recording time elapsed (min): 29.64176971912382
+INFO:root:Recording time elapsed (min): 29.661362032095575
+INFO:root:Recording time elapsed (min): 29.680898221333827
+INFO:root:Recording time elapsed (min): 29.702214411894417
+INFO:root:interf now pointing at: {'ant_w': (24.0197265625, 122.089550781), 'ant_e': (23.9008789062, 122.162597656)}
+INFO:root:
+INFO:root:Iteration: 226
+INFO:root:Tracking time elapsed (min): 29.70814482371012
+INFO:root:Moon is currently at alt, az: 24.025399529009366, 122.08714113740463
+INFO:root:Recording time elapsed (min): 29.72351313432055
+INFO:root:Recording time elapsed (min): 29.744848986466703
+INFO:root:Recording time elapsed (min): 29.766028253237387
+INFO:root:Recording time elapsed (min): 29.787292746702818
+INFO:root:Recording time elapsed (min): 29.80696596304569
+INFO:root:interf now pointing at: {'ant_w': (24.0197265625, 122.177441406), 'ant_e': (24.0107421875, 122.008789062)}
+INFO:root:
+INFO:root:Iteration: 227
+INFO:root:Tracking time elapsed (min): 29.823038450876894
+INFO:root:Moon is currently at alt, az: 24.043834884317278, 122.1100341931402
+INFO:root:Recording time elapsed (min): 29.827267885208137
+INFO:root:Recording time elapsed (min): 29.850046137968675
+INFO:root:Recording time elapsed (min): 29.8695793191592
+INFO:root:Recording time elapsed (min): 29.890873289108278
+INFO:root:Recording time elapsed (min): 29.91043036381397
+INFO:root:Recording time elapsed (min): 29.931714141368843
+INFO:root:interf now pointing at: {'ant_w': (24.0197265625, 122.177441406), 'ant_e': (23.9448242188, 122.184570312)}
+INFO:root:
+INFO:root:Iteration: 228
+INFO:root:Tracking time elapsed (min): 29.937625320752417
+INFO:root:Moon is currently at alt, az: 24.06221634494576, 122.13287406111952
+INFO:root:Recording time elapsed (min): 29.95174965858454
+INFO:root:Recording time elapsed (min): 29.972772777080515
+INFO:root:Recording time elapsed (min): 29.993859974543263
+INFO:root:Recording time elapsed (min): 30.014884340763082
+INFO:root:Recording time elapsed (min): 30.03588667710618
+INFO:root:interf now pointing at: {'ant_w': (24.063671875, 122.133496094), 'ant_e': (24.0546875, 122.118652344)}
+INFO:root:
+INFO:root:Iteration: 229
+INFO:root:Tracking time elapsed (min): 30.051699141661352
+INFO:root:Moon is currently at alt, az: 24.08051086533912, 122.15561954437042
+INFO:root:Recording time elapsed (min): 30.055423374970694
+INFO:root:Recording time elapsed (min): 30.076511136690726
+INFO:root:Recording time elapsed (min): 30.097624822457583
+INFO:root:Recording time elapsed (min): 30.118721067905412
+INFO:root:Recording time elapsed (min): 30.139885167280838
+INFO:root:interf now pointing at: {'ant_w': (24.0856445312, 122.177441406), 'ant_e': (24.0986328125, 122.162597656)}
+INFO:root:
+INFO:root:Iteration: 230
+INFO:root:Tracking time elapsed (min): 30.1471573273341
+INFO:root:Moon is currently at alt, az: 24.09581635452521, 122.17465925239306
+INFO:root:Recording time elapsed (min): 30.159433305263484
+INFO:root:Recording time elapsed (min): 30.180608574549346
+INFO:root:Recording time elapsed (min): 30.20167668263114
+INFO:root:Recording time elapsed (min): 30.22280295292534
+INFO:root:Recording time elapsed (min): 30.244595416386886
+INFO:root:Recording time elapsed (min): 30.264006217320762
+INFO:root:Recording time elapsed (min): 30.285053718090058
+INFO:root:Recording time elapsed (min): 30.30603870948152
+INFO:root:Recording time elapsed (min): 30.328927894433335
+INFO:root:interf now pointing at: {'ant_w': (24.1515625, 126.637890625), 'ant_e': (24.142578125, 122.206542969)}
+INFO:root:
+INFO:root:Iteration: 231
+INFO:root:Tracking time elapsed (min): 30.33453649282457
+INFO:root:Moon is currently at alt, az: 24.125850737338922, 122.21204918227275
+INFO:root:Recording time elapsed (min): 30.34722603559489
+INFO:root:Recording time elapsed (min): 30.37017875115076
+INFO:root:Recording time elapsed (min): 30.391656009356176
+INFO:root:Recording time elapsed (min): 30.412047704060818
+INFO:root:Recording time elapsed (min): 30.4333683649699
+INFO:root:Recording time elapsed (min): 30.45295018752416
+INFO:root:Recording time elapsed (min): 30.474189396699245
+INFO:root:Recording time elapsed (min): 30.495212384064992
+INFO:root:interf now pointing at: {'ant_w': (24.1735351562, 122.28730468799999), 'ant_e': (24.142578125, 122.228515625)}
+INFO:root:
+INFO:root:Iteration: 232
+INFO:root:Tracking time elapsed (min): 30.50413713057833
+INFO:root:Moon is currently at alt, az: 24.153024653417514, 122.24590989144836
+INFO:root:Recording time elapsed (min): 30.51592916250229
+INFO:root:Recording time elapsed (min): 30.53659966786701
+INFO:root:Recording time elapsed (min): 30.55733095010119
+INFO:root:Recording time elapsed (min): 30.579098284244512
+INFO:root:Recording time elapsed (min): 30.59956061442694
+INFO:root:interf now pointing at: {'ant_w': (24.1735351562, 122.243359375), 'ant_e': (24.1206054688, 122.250488281)}
+INFO:root:
+INFO:root:Iteration: 233
+INFO:root:Tracking time elapsed (min): 30.617778627077712
+INFO:root:Moon is currently at alt, az: 24.171226877000205, 122.2686081347529
+INFO:root:Recording time elapsed (min): 30.620046873887368
+INFO:root:Recording time elapsed (min): 30.640517063935597
+INFO:root:Recording time elapsed (min): 30.661125465234107
+INFO:root:Recording time elapsed (min): 30.681714216868087
+INFO:root:Recording time elapsed (min): 30.702438386281294
+INFO:root:Recording time elapsed (min): 30.72487962643305
+INFO:root:interf now pointing at: {'ant_w': (24.1735351562, 122.419140625), 'ant_e': (24.1645507812, 122.294433594)}
+INFO:root:
+INFO:root:Iteration: 234
+INFO:root:Tracking time elapsed (min): 30.732090874513005
+INFO:root:Moon is currently at alt, az: 24.189531872904695, 122.2914482569142
+INFO:root:Recording time elapsed (min): 30.745184826850842
+INFO:root:Recording time elapsed (min): 30.766110046704583
+INFO:root:Recording time elapsed (min): 30.786789170900953
+INFO:root:Recording time elapsed (min): 30.807458186149567
+INFO:root:Recording time elapsed (min): 30.828755319118493
+INFO:root:interf now pointing at: {'ant_w': (24.1515625, 122.177441406), 'ant_e': (24.1865234375, 122.206542969)}
+INFO:root:
+INFO:root:Iteration: 235
+INFO:root:Tracking time elapsed (min): 30.845837104320495
+INFO:root:Moon is currently at alt, az: 24.207741585695626, 122.31418316336642
+INFO:root:Recording time elapsed (min): 30.849632982412984
+INFO:root:Recording time elapsed (min): 30.870392529169727
+INFO:root:Recording time elapsed (min): 30.891020592053717
+INFO:root:Recording time elapsed (min): 30.91026781797406
+INFO:root:Recording time elapsed (min): 30.9325521111488
+INFO:root:Recording time elapsed (min): 30.953003843625318
+INFO:root:interf now pointing at: {'ant_w': (24.1735351562, 122.243359375), 'ant_e': (24.2084960938, 122.338378906)}
+INFO:root:
+INFO:root:Iteration: 236
+INFO:root:Tracking time elapsed (min): 30.960457305113486
+INFO:root:Moon is currently at alt, az: 24.226086518853887, 122.3371007076052
+INFO:root:Recording time elapsed (min): 30.973567092418655
+INFO:root:Recording time elapsed (min): 30.994083424409233
+INFO:root:Recording time elapsed (min): 31.016534392038935
+INFO:root:Recording time elapsed (min): 31.03683716456092
+INFO:root:Recording time elapsed (min): 31.05712461868915
+INFO:root:interf now pointing at: {'ant_w': (24.32734375, 122.375195312), 'ant_e': (23.9228515625, 122.470214844)}
+INFO:root:
+INFO:root:Iteration: 237
+INFO:root:Tracking time elapsed (min): 31.0742017587026
+INFO:root:Moon is currently at alt, az: 24.24428662695293, 122.3598510515949
+INFO:root:Recording time elapsed (min): 31.077806548277522
+INFO:root:Recording time elapsed (min): 31.09815168778095
+INFO:root:Recording time elapsed (min): 31.120178612073246
+INFO:root:Recording time elapsed (min): 31.14048046668365
+INFO:root:Recording time elapsed (min): 31.160792791843352
+INFO:root:Recording time elapsed (min): 31.18227510849635
+INFO:root:Recording time elapsed (min): 31.203238014380148
+INFO:root:Recording time elapsed (min): 31.223541323343902
+INFO:root:interf now pointing at: {'ant_w': (24.239453125, 121.80390625), 'ant_e': (24.2744140625, 122.382324219)}
+INFO:root:
+INFO:root:Iteration: 238
+INFO:root:Tracking time elapsed (min): 31.225854607423152
+INFO:root:Moon is currently at alt, az: 24.26854517756771, 122.39019580926586
+INFO:root:Recording time elapsed (min): 31.244284490744214
+INFO:root:Recording time elapsed (min): 31.265013190110473
+INFO:root:Recording time elapsed (min): 31.285654652118673
+INFO:root:Recording time elapsed (min): 31.308123954137102
+INFO:root:interf now pointing at: {'ant_w': (24.239453125, 122.46308593799999), 'ant_e': (24.2524414062, 122.382324219)}
+INFO:root:
+INFO:root:Iteration: 239
+INFO:root:Tracking time elapsed (min): 31.32098611593242
+INFO:root:Moon is currently at alt, az: 24.283758291851658, 122.40923816268202
+INFO:root:Recording time elapsed (min): 31.326633568604727
+INFO:root:Recording time elapsed (min): 31.349501609802193
+INFO:root:Recording time elapsed (min): 31.371436496575605
+INFO:root:Recording time elapsed (min): 31.390963629881536
+INFO:root:interf now pointing at: {'ant_w': (24.239453125, 122.616894531), 'ant_e': (24.2963867188, 122.382324219)}
+INFO:root:
+INFO:root:Iteration: 240
+INFO:root:Tracking time elapsed (min): 31.398940245310428
+INFO:root:Moon is currently at alt, az: 24.29622202722953, 122.42484625493506
+INFO:root:Recording time elapsed (min): 31.409738310178128
+INFO:root:Recording time elapsed (min): 31.432417627175646
+INFO:root:Recording time elapsed (min): 31.453747546672783
+INFO:root:Recording time elapsed (min): 31.47322208086645
+INFO:root:interf now pointing at: {'ant_w': (24.2833984375, 122.397167969), 'ant_e': (24.2963867188, 122.404296875)}
+INFO:root:
+INFO:root:Iteration: 241
+INFO:root:Tracking time elapsed (min): 31.476828638712576
+INFO:root:Moon is currently at alt, az: 24.3086730652778, 122.44044488777762
+INFO:root:Recording time elapsed (min): 31.495924178759218
+INFO:root:Recording time elapsed (min): 31.515485135714147
+INFO:root:Recording time elapsed (min): 31.536751151084896
+INFO:root:interf now pointing at: {'ant_w': (24.32734375, 122.397167969), 'ant_e': (24.2963867188, 122.448242188)}
+INFO:root:
+INFO:root:Iteration: 242
+INFO:root:Tracking time elapsed (min): 31.553670346736915
+INFO:root:Moon is currently at alt, az: 24.32095463937927, 122.45583753050352
+INFO:root:Recording time elapsed (min): 31.557418926556906
+INFO:root:Recording time elapsed (min): 31.578196700413955
+INFO:root:Recording time elapsed (min): 31.5989045143127
+INFO:root:Recording time elapsed (min): 31.61961902777355
+INFO:root:Recording time elapsed (min): 31.640281347433678
+INFO:root:Recording time elapsed (min): 31.661005548636094
+INFO:root:interf now pointing at: {'ant_w': (24.32734375, 122.485058594), 'ant_e': (24.2084960938, 122.448242188)}
+INFO:root:
+INFO:root:Iteration: 243
+INFO:root:Tracking time elapsed (min): 31.66836196184157
+INFO:root:Moon is currently at alt, az: 24.339281783011437, 122.47881883279028
+INFO:root:Recording time elapsed (min): 31.681697988510066
+INFO:root:Recording time elapsed (min): 31.70235482056934
+INFO:root:Recording time elapsed (min): 31.72477375268936
+INFO:root:Recording time elapsed (min): 31.74515244166055
+INFO:root:Recording time elapsed (min): 31.765883616606388
+INFO:root:interf now pointing at: {'ant_w': (24.32734375, 122.50703125), 'ant_e': (24.2963867188, 122.470214844)}
+INFO:root:
+INFO:root:Iteration: 244
+INFO:root:Tracking time elapsed (min): 31.782085351149245
+INFO:root:Moon is currently at alt, az: 24.35744951636024, 122.50161406387669
+INFO:root:Recording time elapsed (min): 31.786238014698036
+INFO:root:Recording time elapsed (min): 31.806939971446972
+INFO:root:Recording time elapsed (min): 31.827625338236423
+INFO:root:Recording time elapsed (min): 31.848335111141168
+INFO:root:interf now pointing at: {'ant_w': (24.3712890625, 122.660839844), 'ant_e': (24.2963867188, 122.514160156)}
+INFO:root:
+INFO:root:Iteration: 245
+INFO:root:Tracking time elapsed (min): 31.859971980253885
+INFO:root:Moon is currently at alt, az: 24.36988949713654, 122.51723057612891
+INFO:root:Recording time elapsed (min): 31.868328781922628
+INFO:root:Recording time elapsed (min): 31.89158750375106
+INFO:root:Recording time elapsed (min): 31.91202932596201
+INFO:root:Recording time elapsed (min): 31.933320057392116
+INFO:root:Recording time elapsed (min): 31.953803730010925
+INFO:root:Recording time elapsed (min): 31.974224158128095
+INFO:root:interf now pointing at: {'ant_w': (24.5250976562, 119.47480468799999), 'ant_e': (24.4721679688, 122.4921875)}
+INFO:root:
+INFO:root:Iteration: 246
+INFO:root:Tracking time elapsed (min): 31.974885702133193
+INFO:root:Moon is currently at alt, az: 24.388239401325766, 122.54027791464851
+INFO:root:Recording time elapsed (min): 31.994806170463512
+INFO:root:Recording time elapsed (min): 32.01521263122557
+INFO:root:Recording time elapsed (min): 32.03633499542872
+INFO:root:Recording time elapsed (min): 32.05763941208522
+INFO:root:Recording time elapsed (min): 32.078896872202506
+INFO:root:Recording time elapsed (min): 32.100120282173165
+INFO:root:Recording time elapsed (min): 32.11930881738657
+INFO:root:Recording time elapsed (min): 32.14000258445737
+INFO:root:Recording time elapsed (min): 32.162461940447486
+INFO:root:Recording time elapsed (min): 32.1831973751386
+INFO:root:Recording time elapsed (min): 32.203500473499304
+INFO:root:Recording time elapsed (min): 32.22417002121606
+INFO:root:interf now pointing at: {'ant_w': (22.6793945312, 132.724316406), 'ant_e': (24.318359375, 122.470214844)}
+INFO:root:
+INFO:root:Iteration: 247
+INFO:root:Tracking time elapsed (min): 32.23555266857146
+INFO:root:Moon is currently at alt, az: 24.42984605889556, 122.59258781914097
+INFO:root:Recording time elapsed (min): 32.24424587090808
+INFO:root:Recording time elapsed (min): 32.26504078706103
+INFO:root:Recording time elapsed (min): 32.28747185866031
+INFO:root:Recording time elapsed (min): 32.308173429965976
+INFO:root:Recording time elapsed (min): 32.3289005319277
+INFO:root:Recording time elapsed (min): 32.3496164679527
+INFO:root:Recording time elapsed (min): 32.370378728707585
+INFO:root:Recording time elapsed (min): 32.39107600053152
+INFO:root:Recording time elapsed (min): 32.411780337492566
+INFO:root:Recording time elapsed (min): 32.4325262705485
+INFO:root:Recording time elapsed (min): 32.4532156944275
+INFO:root:interf now pointing at: {'ant_w': (24.4811523438, 123.078320312), 'ant_e': (24.40625, 122.645996094)}
+INFO:root:
+INFO:root:Iteration: 248
+INFO:root:Tracking time elapsed (min): 32.46054407358165
+INFO:root:Moon is currently at alt, az: 24.46573848818228, 122.63777196615725
+INFO:root:Recording time elapsed (min): 32.47391672134398
+INFO:root:Recording time elapsed (min): 32.49461848735805
+INFO:root:Recording time elapsed (min): 32.51531735261281
+INFO:root:Recording time elapsed (min): 32.53603930870689

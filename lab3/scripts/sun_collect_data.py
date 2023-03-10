@@ -60,10 +60,11 @@ def record():
             data = spec.read_data(prev_cnt=prev_cnt)
             prev_cnt = data['acc_cnt']
             np.save(f'{save_dir}sun_{i}', data)
+            i+=1
         except(AssertionError):
             logging.warning('Assertion Error in recording: trying again')
             prev_cnt = None
-    i+=1
+    
            
     
 if __name__=="__main__":
@@ -79,8 +80,8 @@ if __name__=="__main__":
     obs = astropy.coordinates.EarthLocation(lon=ugradio.nch.lon, lat=ugradio.nch.lat, height=ugradio.nch.alt)
 
     # point to sun
-    logging.info(f'First tracking start time (JD): {t0}')
     t = astropy.time.Time(time.time(), format='unix')
+    logging.info(f'First tracking start time (JD): {t}')
     sun = astropy.coordinates.get_sun(t)
     # convert coordinates to alt az (Earth coordinates)
     altaz = astropy.coordinates.AltAz(obstime=t, location=obs) # defines a time and a location on earth

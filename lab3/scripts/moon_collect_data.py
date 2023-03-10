@@ -57,10 +57,11 @@ def record():
             data = spec.read_data(prev_cnt=prev_cnt)
             prev_cnt = data['acc_cnt']
             np.save(f'{save_dir}moon_{i}', data)
+            i+=1
         except(AssertionError):
             logging.warning('Assertion Error in recording: trying again')
             prev_cnt = None
-    i+=1
+    
            
     
 if __name__=="__main__":
@@ -76,8 +77,8 @@ if __name__=="__main__":
     obs = astropy.coordinates.EarthLocation(lon=ugradio.nch.lon, lat=ugradio.nch.lat, height=ugradio.nch.alt)
 
     # point to moon
-    logging.info(f'First tracking start time (JD): {t0}')
     t = astropy.time.Time(time.time(), format='unix')
+    logging.info(f'First tracking start time (JD): {t}')
     
     
     moon = ugradio.coord.moonpos(jd=t, lat=ugradio.nch.lat, lon=ugradio.nch.lon, alt=ugradio.nch.alt)
