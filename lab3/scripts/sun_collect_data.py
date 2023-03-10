@@ -59,7 +59,7 @@ def record():
         try:
             data = spec.read_data(prev_cnt=prev_cnt)
             prev_cnt = data['acc_cnt']
-            np.save(f'{save_dir}{i}', data)
+            np.save(f'{save_dir}sun_{i}', data)
         except(AssertionError):
             logging.warning('Assertion Error in recording: trying again')
             prev_cnt = None
@@ -68,8 +68,8 @@ def record():
     
 if __name__=="__main__":
     
-    logging.basicConfig(filename='/home/pi/Blueberry Pi/astro121lab/lab3/data/sun/full_day_sun_log.log', level=logging.INFO)
     save_dir = '/home/pi/Blueberry Pi/astro121lab/lab3/data/sun/full_day_sun/'
+    logging.basicConfig(filename=f'{save_dir}full_day_sun_log.log', level=logging.INFO)
     total_time = 8*60 # duration of observation in minutes
 
     # create interferometer object
