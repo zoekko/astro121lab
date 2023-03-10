@@ -32,14 +32,7 @@ def track():
         altaz = astropy.coordinates.AltAz(obstime=t, location=obs) # defines a time and a location on earth
         pointing = sun.transform_to(altaz)
         logging.info(f'Sun is currently at alt, az: {pointing.alt.deg}, {pointing.az.deg}')
-        
-        # check bounds on observation
-        if not (pointing.alt.deg > ugradio.interf.ALT_MIN and
-            pointing.alt.deg < ugradio.interf.ALT_MAX and
-            pointing.az.deg > ugradio.interf.AZ_MIN and
-            pointing.az.deg < ugradio.interf.AZ_MAX):
-            time.sleep(10)
-            continue
+      
 
         # 3/6/23 EDIT: point interf twice: not necessary 
         try:
@@ -87,24 +80,33 @@ if __name__=="__main__":
     spec.initialize(mode='corr')
     obs = astropy.coordinates.EarthLocation(lon=ugradio.nch.lon, lat=ugradio.nch.lat, height=ugradio.nch.alt)
 
-    # point to sun - keep trying to point until the object has risen 
+    # point to sun - first check bounds on observation
     risen = False:
-        while risen == False:
-            try:
-                t = astropy.time.Time(time.time(), format='unix')
-                logging.info(f'First tracking start time (JD): {t}')
-                sun = astropy.coordinates.get_sun(t)
-                # convert coordinates to alt az (Earth coordinates)
-                altaz = astropy.coordinates.AltAz(obstime=t, location=obs) # defines a time and a location on earth
-                pointing = sun.transform_to(altaz)
-                logging.info(f'Sun is currently at alt, az: {pointing.alt.deg}, {pointing.az.deg}')
-                # 3/6/23 EDIT: point interf twice: not necessary 
-                interf.point(pointing.alt.deg, pointing.az.deg)
-                interf.point(pointing.alt.deg, pointing.az.deg)
-                logging.info(f'interf now pointing at: {interf.get_pointing()}')
-                risen = True
-            except(AssertionError):
-                logging.warning('Assertion Error in FIRST pointing, trying again.')
+    while risen == False:
+        t = astropy.time.Time(time.time(), format='unix')
+        logging.info(f'First tracking start time (JD): {t}')
+        sun = astropy.coordinates.get_sun(t)
+        # convert coordinates to alt az (Earth coordinates)
+        altaz = astropy.coordinates.AltAz(obstime=t, location=obs) # defines a time and a location on earth
+        pointing = sun.transform_to(altaz)
+        logging.info(f'Sun is currently at alt, az: {pointing.alt.deg}, {pointing.az.deg}')
+
+        if not (pointing.alt.deg > ugradio.interf.ALT_MIN and
+            pointing.alt.deg < ugradio.interf.ALT_MAX and
+            pointing.az.deg > ugradio.interf.AZ_MIN and
+            pointing.az.deg < ugradio.interf.AZ_MAX):
+            time.sleep(30)
+            continue
+        else:
+            risen == True
+
+    # 3/6/23 EDIT: point interf twice: not necessary 
+    interf.point(pointing.alt.deg, pointing.az.deg)
+    interf.point(pointing.alt.deg, pointing.az.deg)
+    logging.info(f'interf now pointing at: {interf.get_pointing()}')
+    
+    
+    
     
     # start threading
     thrd = threading.Thread(target=track)
