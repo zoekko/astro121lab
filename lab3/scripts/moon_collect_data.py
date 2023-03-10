@@ -76,22 +76,23 @@ if __name__=="__main__":
     spec.initialize(mode='corr')
     obs = astropy.coordinates.EarthLocation(lon=ugradio.nch.lon, lat=ugradio.nch.lat, height=ugradio.nch.alt)
 
-    # point to moon
-    t = astropy.time.Time(time.time(), format='unix')
-    logging.info(f'First tracking start time (JD): {t}')
+    # point to moon - keep trying to point until the object has risen 
     
-    
-    moon = ugradio.coord.moonpos(jd=t, lat=ugradio.nch.lat, lon=ugradio.nch.lon, alt=ugradio.nch.alt)
-    pointing = ugradio.coord.get_altaz(moon[0], moon[1], t, lat=ugradio.nch.lat, lon=ugradio.nch.lon, alt=ugradio.nch.alt)
-    logging.info(f'Moon is currently at alt, az: {pointing[0]}, {pointing[1]}')
-        
-    # 3/6/23 EDIT: point interf twice: not necessary 
-    try:
-        interf.point(pointing[0], pointing[1]) # could set wait=False to do other stuff while the telescope is moving
-        interf.point(pointing[0], pointing[1])
-        logging.info(f'interf now pointing at: {interf.get_pointing()}')
-    except(AssertionError):
-        logging.warning('Assertion Error in FIRST pointing!')
+    risen = False:
+        while risen == False:
+            try:
+                t = astropy.time.Time(time.time(), format='unix')
+                logging.info(f'First tracking start time (JD): {t}')
+                moon = ugradio.coord.moonpos(jd=t, lat=ugradio.nch.lat, lon=ugradio.nch.lon, alt=ugradio.nch.alt)
+                pointing = ugradio.coord.get_altaz(moon[0], moon[1], t, lat=ugradio.nch.lat, lon=ugradio.nch.lon, alt=ugradio.nch.alt)
+                logging.info(f'Moon is currently at alt, az: {pointing[0]}, {pointing[1]}')
+                # 3/6/23 EDIT: point interf twice: not necessary 
+                interf.point(pointing[0], pointing[1])
+                interf.point(pointing[0], pointing[1])
+                logging.info(f'interf now pointing at: {interf.get_pointing()}')
+                risen = True
+            except(AssertionError):
+                logging.warning('Assertion Error in FIRST pointing, trying again.')
    
     # start threading
     thrd = threading.Thread(target=track)

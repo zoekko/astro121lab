@@ -69,9 +69,9 @@ def record():
     
 if __name__=="__main__":
     
-    save_dir = '/home/pi/Blueberry Pi/astro121lab/lab3/data/sun/full_day_sun/'
+    save_dir = '/home/pi/Blueberry Pi/astro121lab/lab3/data/sun/full_day_sun_740am/'
     logging.basicConfig(filename=f'{save_dir}full_day_sun_log.log', level=logging.INFO)
-    total_time = 8*60 # duration of observation in minutes
+    total_time = 11*60 # duration of observation in minutes
 
     # create interferometer object
     interf = ugradio.interf.Interferometer()
@@ -79,24 +79,25 @@ if __name__=="__main__":
     spec.initialize(mode='corr')
     obs = astropy.coordinates.EarthLocation(lon=ugradio.nch.lon, lat=ugradio.nch.lat, height=ugradio.nch.alt)
 
-    # point to sun
-    t = astropy.time.Time(time.time(), format='unix')
-    logging.info(f'First tracking start time (JD): {t}')
-    sun = astropy.coordinates.get_sun(t)
-    # convert coordinates to alt az (Earth coordinates)
-    altaz = astropy.coordinates.AltAz(obstime=t, location=obs) # defines a time and a location on earth
-    pointing = sun.transform_to(altaz)
-    logging.info(f'Sun is currently at alt, az: {pointing.alt.deg}, {pointing.az.deg}')
-
-    # 3/6/23 EDIT: point interf twice: not necessary 
-    try:
-        interf.point(pointing.alt.deg, pointing.az.deg) # could set wait=False to do other stuff while the telescope is moving
-        interf.point(pointing.alt.deg, pointing.az.deg)
-        logging.info(f'interf now pointing at: {interf.get_pointing()}')
-    except(AssertionError):
-        logging.warning('Assertion Error in FIRST pointing!')
+    # point to sun - keep trying to point until the object has risen 
+    risen = False:
+        while risen == False:
+            try:
+                t = astropy.time.Time(time.time(), format='unix')
+                logging.info(f'First tracking start time (JD): {t}')
+                sun = astropy.coordinates.get_sun(t)
+                # convert coordinates to alt az (Earth coordinates)
+                altaz = astropy.coordinates.AltAz(obstime=t, location=obs) # defines a time and a location on earth
+                pointing = sun.transform_to(altaz)
+                logging.info(f'Sun is currently at alt, az: {pointing.alt.deg}, {pointing.az.deg}')
+                # 3/6/23 EDIT: point interf twice: not necessary 
+                interf.point(pointing.alt.deg, pointing.az.deg)
+                interf.point(pointing.alt.deg, pointing.az.deg)
+                logging.info(f'interf now pointing at: {interf.get_pointing()}')
+                risen = True
+            except(AssertionError):
+                logging.warning('Assertion Error in FIRST pointing, trying again.')
     
-   
     # start threading
     thrd = threading.Thread(target=track)
     thrd.start()
