@@ -92,7 +92,7 @@ if __name__=="__main__":
             time.sleep(60)
             continue
         else:
-            risen == True
+            risen = True
     interf.point(pointing[0], pointing[1])
     
     # start threading

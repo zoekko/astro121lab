@@ -1,6 +1,1 @@
 INFO:katcp.client:Client connect loop for ('localhost', 7147) finished.
-INFO:root:Initializing the spectrometer...
-INFO:root:Spectrometer initialized.
-INFO:root:First tracking start time (JD): 1678514329.3697197
-INFO:root:Moon is currently at alt, az: 3.0172296945884494, 109.08653959453075
-INFO:root:Moon has not risen yet

@@ -99,7 +99,7 @@ if __name__=="__main__":
             time.sleep(60)
             continue
         else:
-            risen == True
+            risen = True
     interf.point(pointing.alt.deg, pointing.az.deg)
 
     # 3/6/23 EDIT: point interf twice: not necessary 
