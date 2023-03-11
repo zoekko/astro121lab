@@ -68,7 +68,7 @@ if __name__=="__main__":
     
     save_dir = '/home/pi/Blueberry Pi/astro121lab/lab3/data/moon/full_night_moon/'
     logging.basicConfig(filename=f'{save_dir}full_night_moon_log.log', level=logging.INFO)
-    total_time = 8*60 # duration of observation in minutes
+    total_time = 9*60 # duration of observation in minutes
 
     # create interferometer object
     interf = ugradio.interf.Interferometer()
