@@ -81,7 +81,7 @@ if __name__=="__main__":
     obs = astropy.coordinates.EarthLocation(lon=ugradio.nch.lon, lat=ugradio.nch.lat, height=ugradio.nch.alt)
 
     # point to sun - first check bounds on observation
-    risen = False:
+    risen = False
     while risen == False:
         t = astropy.time.Time(time.time(), format='unix')
         logging.info(f'First tracking start time (JD): {t}')
@@ -95,10 +95,12 @@ if __name__=="__main__":
             pointing.alt.deg < ugradio.interf.ALT_MAX and
             pointing.az.deg > ugradio.interf.AZ_MIN and
             pointing.az.deg < ugradio.interf.AZ_MAX):
-            time.sleep(30)
+            logging.info(f'Sun has not risen yet')
+            time.sleep(60)
             continue
         else:
             risen == True
+    interf.point(pointing.alt.deg, pointing.az.deg)
 
     # 3/6/23 EDIT: point interf twice: not necessary 
     interf.point(pointing.alt.deg, pointing.az.deg)

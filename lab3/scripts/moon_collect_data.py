@@ -77,7 +77,7 @@ if __name__=="__main__":
     obs = astropy.coordinates.EarthLocation(lon=ugradio.nch.lon, lat=ugradio.nch.lat, height=ugradio.nch.alt)
    
     # point to moon - first check bounds on observation
-    risen = False:
+    risen = False
     while risen == False:
         t = astropy.time.Time(time.time(), format='unix')
         logging.info(f'First tracking start time (JD): {t}')
@@ -88,11 +88,13 @@ if __name__=="__main__":
             pointing[0] < ugradio.interf.ALT_MAX and
             pointing[1] > ugradio.interf.AZ_MIN and
             pointing[1] < ugradio.interf.AZ_MAX):
-            time.sleep(30)
+            logging.info(f'Moon has not risen yet')
+            time.sleep(60)
             continue
         else:
             risen == True
-   
+    interf.point(pointing[0], pointing[1])
+    
     # start threading
     thrd = threading.Thread(target=track)
     thrd.start()
