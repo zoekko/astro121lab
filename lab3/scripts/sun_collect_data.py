@@ -80,7 +80,7 @@ if __name__=="__main__":
     spec.initialize(mode='corr')
     obs = astropy.coordinates.EarthLocation(lon=ugradio.nch.lon, lat=ugradio.nch.lat, height=ugradio.nch.alt)
 
-    # point to sun - first check bounds on observation
+    # try to point to the sun if the current az alt are within bounds
     risen = False
     while risen == False:
         t = astropy.time.Time(time.time(), format='unix')
@@ -100,7 +100,18 @@ if __name__=="__main__":
             continue
         else:
             risen = True
-    interf.point(pointing.alt.deg, pointing.az.deg)
+            
+    # only begin runs when the interfermeters are able to successfully point to the sun        
+    successful_pointing=False
+    while successful_pointing == False:
+        try:
+            interf.point(pointing.alt.deg, pointing.az.deg)
+            successful_pointing=True
+        except(AssertionError):
+            logging.info(f'Unsuccessful pointing, trying again in a minute')
+            time.sleep(60)
+            
+    
 
     # 3/6/23 EDIT: point interf twice: not necessary 
     interf.point(pointing.alt.deg, pointing.az.deg)
