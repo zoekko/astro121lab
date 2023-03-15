@@ -70,7 +70,7 @@ def record():
     
 if __name__=="__main__":
     
-    save_dir = '/home/pi/Blueberry Pi/astro121lab/lab3/data/sun/full_day_sun_740am/'
+    save_dir = '/home/pi/Blueberry Pi/astro121lab/lab3/data/sun/full_day_sun/'
     logging.basicConfig(filename=f'{save_dir}full_day_sun_log.log', level=logging.INFO)
     total_time = 11*60 # duration of observation in minutes
 
