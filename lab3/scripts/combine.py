@@ -3,6 +3,13 @@ import numpy as np
 import os
 import regex as re
 
+'''
+instructions
+1. pip install regex
+2. cd to scripts folder
+3. run this file
+'''
+
 def get_folders(dir, path=True):
     result = []
     for subdir_name in os.listdir(dir):
@@ -12,7 +19,7 @@ def get_folders(dir, path=True):
                 result = np.append(result, subdir_path)
             else:
                 result = np.append(result, subdir_name)
-    return result
+    return result   
 
 def run():
     data_folder = '../data'
@@ -39,7 +46,12 @@ def run():
             for f in fnames:
                 data = np.load(f, allow_pickle=True).tolist()
                 result = np.append(result, data)
-            np.save(f'{save_subdir}/{name}', result)
+                
+            # sort data by time
+            sorted_result = sorted(result, key=lambda d: d.get('time'))
+            
+            # save sorted data
+            np.save(f'{save_subdir}/{name}', sorted_result)
             print(f'{name}: {int(len(result))}')
             
 run()
