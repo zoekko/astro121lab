@@ -1,0 +1,2346 @@
+INFO:katcp.client:Client connect loop for ('localhost', 7147) finished.
+INFO:root:Initializing the spectrometer...
+INFO:root:Spectrometer initialized.
+INFO:root:First tracking start time (JD): 1679203936.9001477
+INFO:root:Sun is currently at alt, az: -36.96526274103203, 304.5478624990403
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679203999.409612
+INFO:root:Sun is currently at alt, az: -37.134161842863655, 304.7963324239246
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679204059.5550869
+INFO:root:Sun is currently at alt, az: -37.296191652898585, 305.0364430102769
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679204119.6491594
+INFO:root:Sun is currently at alt, az: -37.4576061057504, 305.27737193190126
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679204179.789894
+INFO:root:Sun is currently at alt, az: -37.618663753408505, 305.51951964999347
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679204239.9323857
+INFO:root:Sun is currently at alt, az: -37.779238803457865, 305.76271403000305
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679204300.0361798
+INFO:root:Sun is currently at alt, az: -37.93921870300629, 306.0067979441029
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679204360.1774154
+INFO:root:Sun is currently at alt, az: -38.09880108992389, 306.25208797432816
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679204420.3167353
+INFO:root:Sun is currently at alt, az: -38.25787600727572, 306.4984319396219
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679204480.4755452
+INFO:root:Sun is currently at alt, az: -38.41649472366049, 306.7459253902387
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679204540.5677924
+INFO:root:Sun is currently at alt, az: -38.57442577620489, 306.99422042859663
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679204600.7044706
+INFO:root:Sun is currently at alt, az: -38.73195594148961, 307.24378244429556
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679204660.8435898
+INFO:root:Sun is currently at alt, az: -38.88896936011654, 307.4944458061304
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679204720.9811885
+INFO:root:Sun is currently at alt, az: -39.045450372137914, 307.7462013701768
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679204781.0897467
+INFO:root:Sun is currently at alt, az: -39.201322425813615, 307.9989404075311
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679204841.2403755
+INFO:root:Sun is currently at alt, az: -39.356764356274155, 308.25296958189216
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679204901.3369505
+INFO:root:Sun is currently at alt, az: -39.51152248514313, 308.5078898768827
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679204961.4277942
+INFO:root:Sun is currently at alt, az: -39.665716587004376, 308.76391183907083
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679205021.5090084
+INFO:root:Sun is currently at alt, az: -39.81933135309726, 309.0210256366117
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679205081.661582
+INFO:root:Sun is currently at alt, az: -39.972567426327, 309.2795867960201
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679205141.8947256
+INFO:root:Sun is currently at alt, az: -40.12544050509797, 309.53964642294477
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679205201.9887824
+INFO:root:Sun is currently at alt, az: -40.277388255156325, 309.8002615917091
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679205262.099233
+INFO:root:Sun is currently at alt, az: -40.42879985235152, 310.06211013561017
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679205322.2220147
+INFO:root:Sun is currently at alt, az: -40.579658896660895, 310.32518223803595
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679205382.3711379
+INFO:root:Sun is currently at alt, az: -40.72999417385447, 310.58954734247374
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679205442.5093145
+INFO:root:Sun is currently at alt, az: -40.87970640922366, 310.8550489821703
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679205502.5917106
+INFO:root:Sun is currently at alt, az: -41.028679093076676, 311.1214941578585
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679205562.732676
+INFO:root:Sun is currently at alt, az: -41.17718977254049, 311.38939692075735
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679205622.8696778
+INFO:root:Sun is currently at alt, az: -41.32507721547871, 311.65848715715236
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679205683.0275373
+INFO:root:Sun is currently at alt, az: -41.472396165351334, 311.92888320512844
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679205743.1073434
+INFO:root:Sun is currently at alt, az: -41.61889921306625, 312.2001454419544
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679205803.2343574
+INFO:root:Sun is currently at alt, az: -41.76488616612857, 312.4728451196416
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679205863.343711
+INFO:root:Sun is currently at alt, az: -41.910192896995234, 312.7466955006687
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679205923.4553764
+INFO:root:Sun is currently at alt, az: -42.054861720497684, 313.02179359961286
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679205983.587577
+INFO:root:Sun is currently at alt, az: -42.198929868377746, 313.2982299460397
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679206043.6799953
+INFO:root:Sun is currently at alt, az: -42.34224684174633, 313.5757329981359
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679206103.7898602
+INFO:root:Sun is currently at alt, az: -42.48494315087369, 313.8545726070533
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679206163.9166083
+INFO:root:Sun is currently at alt, az: -42.627010498049295, 314.13475342187894
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679206224.0157497
+INFO:root:Sun is currently at alt, az: -42.76833750797354, 314.4160738876916
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679206284.0995007
+INFO:root:Sun is currently at alt, az: -42.90894715922041, 314.6985958317343
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679206344.222081
+INFO:root:Sun is currently at alt, az: -43.04895941680255, 314.9825808636089
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679206404.3500338
+INFO:root:Sun is currently at alt, az: -43.18828903722029, 315.2678781868627
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679206464.4549775
+INFO:root:Sun is currently at alt, az: -43.32686394811675, 315.554358288154
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679206524.5396233
+INFO:root:Sun is currently at alt, az: -43.464684508739815, 315.8420383019571
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679206584.6819308
+INFO:root:Sun is currently at alt, az: -43.60192217980391, 316.1312982099656
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679206644.7726133
+INFO:root:Sun is currently at alt, az: -43.73832073619129, 316.4216179731604
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679206704.9100392
+INFO:root:Sun is currently at alt, az: -43.874096763052734, 316.7134779631357
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679206765.0602684
+INFO:root:Sun is currently at alt, az: -44.00916571522506, 317.00672057411344
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679206825.2079701
+INFO:root:Sun is currently at alt, az: -44.143486100366495, 317.3012764403727
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679206885.346773
+INFO:root:Sun is currently at alt, az: -44.277036984083345, 317.59711888632995
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679206945.4977062
+INFO:root:Sun is currently at alt, az: -44.4098580468264, 317.89435624118624
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679207005.6383402
+INFO:root:Sun is currently at alt, az: -44.541892728259064, 318.19288236001347
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679207065.7604501
+INFO:root:Sun is currently at alt, az: -44.67311648699938, 318.49265993729074
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679207125.9074526
+INFO:root:Sun is currently at alt, az: -44.803616888087284, 318.7939100068967
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679207186.0536163
+INFO:root:Sun is currently at alt, az: -44.93333052146656, 319.09650868703847
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679207246.140438
+INFO:root:Sun is currently at alt, az: -45.0621252546661, 319.4001636372605
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679207306.272477
+INFO:root:Sun is currently at alt, az: -45.19021830572966, 319.70540664106477
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679207366.4093084
+INFO:root:Sun is currently at alt, az: -45.31751534666904, 320.01203788861613
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679207426.5404348
+INFO:root:Sun is currently at alt, az: -45.443986918124416, 320.3200073466521
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679207486.6812203
+INFO:root:Sun is currently at alt, az: -45.56965796248684, 320.6293971884615
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679207546.781432
+INFO:root:Sun is currently at alt, az: -45.69441682761823, 320.93995110104714
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679207606.924654
+INFO:root:Sun is currently at alt, az: -45.818429615273544, 321.25210404927765
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679207667.0623496
+INFO:root:Sun is currently at alt, az: -45.941588073648376, 321.5656081928894
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679207727.2013476
+INFO:root:Sun is currently at alt, az: -46.063898855092916, 321.88050157763837
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679207787.3386545
+INFO:root:Sun is currently at alt, az: -46.185348428165284, 322.19677090363484
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679207847.460431
+INFO:root:Sun is currently at alt, az: -46.305901735852544, 322.51434497341444
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679207907.6105902
+INFO:root:Sun is currently at alt, az: -46.4256390436228, 322.8334581555512
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679207967.7656658
+INFO:root:Sun is currently at alt, az: -46.54450537459749, 323.1539888604675
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679208027.9014204
+INFO:root:Sun is currently at alt, az: -46.66244558982325, 323.475808968635
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679208088.0509589
+INFO:root:Sun is currently at alt, az: -46.779517150341576, 323.79909674906946
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679208148.188874
+INFO:root:Sun is currently at alt, az: -46.89566294741175, 324.1237167834626
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679208208.3396099
+INFO:root:Sun is currently at alt, az: -47.01092253011166, 324.4498018860744
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679208268.4660907
+INFO:root:Sun is currently at alt, az: -47.125217465092476, 324.7771512464251
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679208328.627913
+INFO:root:Sun is currently at alt, az: -47.23865311114077, 325.10609004526685
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679208388.7640421
+INFO:root:Sun is currently at alt, az: -47.3511064745368, 325.43628498248245
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679208448.8604293
+INFO:root:Sun is currently at alt, az: -47.4625451126878, 325.76765645482624
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679208508.9982233
+INFO:root:Sun is currently at alt, az: -47.57311174870469, 326.10065152399267
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679208569.200878
+INFO:root:Sun is currently at alt, az: -47.68283924125583, 326.4354030341625
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679208629.2943866
+INFO:root:Sun is currently at alt, az: -47.791403755891395, 326.77094089817354
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679208689.4204504
+INFO:root:Sun is currently at alt, az: -47.89905538120599, 327.108052373785
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679208749.5592237
+INFO:root:Sun is currently at alt, az: -48.005749726568254, 327.44662619590343
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679208809.6950061
+INFO:root:Sun is currently at alt, az: -48.11145093047366, 327.78657245248365
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679208869.8004367
+INFO:root:Sun is currently at alt, az: -48.216103953256756, 328.1277331613614
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679208929.9472423
+INFO:root:Sun is currently at alt, az: -48.31982563079299, 328.4705133688543
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679208990.082548
+INFO:root:Sun is currently at alt, az: -48.42251625398532, 328.8146100034411
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679209050.2312398
+INFO:root:Sun is currently at alt, az: -48.52421048851876, 329.16016244913044
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679209110.389898
+INFO:root:Sun is currently at alt, az: -48.624894173692475, 329.5071484626665
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679209170.5272627
+INFO:root:Sun is currently at alt, az: -48.72450750413495, 329.8553836320049
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679209230.6855621
+INFO:root:Sun is currently at alt, az: -48.82311266282689, 330.20510842647127
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679209290.8333833
+INFO:root:Sun is currently at alt, az: -48.92065012323847, 330.55613620528163
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679209350.9812162
+INFO:root:Sun is currently at alt, az: -49.01712941503432, 330.90852311574326
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679209411.1245844
+INFO:root:Sun is currently at alt, az: -49.11253573391393, 331.26223772478266
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679209471.2642894
+INFO:root:Sun is currently at alt, az: -49.20686284108779, 331.6172790694632
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679209531.3562946
+INFO:root:Sun is currently at alt, az: -49.300035344003476, 331.97337970750044
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679209591.4970617
+INFO:root:Sun is currently at alt, az: -49.39219509219523, 332.3311051984091
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679209651.5910242
+INFO:root:Sun is currently at alt, az: -49.483187929912496, 332.6898807143917
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679209711.6773703
+INFO:root:Sun is currently at alt, az: -49.57306705415786, 333.04993160861113
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679209771.7524898
+INFO:root:Sun is currently at alt, az: -49.66181998521137, 333.41122845989855
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679209831.8650534
+INFO:root:Sun is currently at alt, az: -49.749510324352286, 333.7740572980599
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679209891.9500468
+INFO:root:Sun is currently at alt, az: -49.83603541154604, 334.1380181217376
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679209952.050538
+INFO:root:Sun is currently at alt, az: -49.921450092775466, 334.50336313756725
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679210012.1357114
+INFO:root:Sun is currently at alt, az: -50.00570309259977, 334.86989636650395
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679210072.223351
+INFO:root:Sun is currently at alt, az: -50.08881227721177, 335.23771684686363
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679210132.3606462
+INFO:root:Sun is currently at alt, az: -50.17083401522941, 335.60710566591257
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679210192.4641488
+INFO:root:Sun is currently at alt, az: -50.25164667103063, 335.97754093172546
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679210252.6030045
+INFO:root:Sun is currently at alt, az: -50.331335846717764, 336.34943864598466
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679210312.6835976
+INFO:root:Sun is currently at alt, az: -50.40977089776377, 336.72220859125395
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679210372.7709107
+INFO:root:Sun is currently at alt, az: -50.487030962175936, 337.09624139152527
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679210432.8554304
+INFO:root:Sun is currently at alt, az: -50.56309653586867, 337.4714665818895
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679210492.9655385
+INFO:root:Sun is currently at alt, az: -50.63799576693004, 337.8480503285004
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679210553.1023006
+INFO:root:Sun is currently at alt, az: -50.7117213653001, 338.22598869317943
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679210613.2569554
+INFO:root:Sun is currently at alt, az: -50.78425424804591, 338.6052153468166
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679210673.4132638
+INFO:root:Sun is currently at alt, az: -50.85556730325171, 338.98561549886864
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679210733.5027926
+INFO:root:Sun is currently at alt, az: -50.925574530016476, 339.36674115836803
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679210793.6145236
+INFO:root:Sun is currently at alt, az: -50.994374173528314, 339.74914166984144
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679210853.7238927
+INFO:root:Sun is currently at alt, az: -51.06193079392602, 340.1326471765934
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679210913.8329275
+INFO:root:Sun is currently at alt, az: -51.12824011359989, 340.517255990162
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679210973.9185479
+INFO:root:Sun is currently at alt, az: -51.19327085325822, 340.9028048417357
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679211034.0331478
+INFO:root:Sun is currently at alt, az: -51.25707306452103, 341.28961473837427
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679211094.1238768
+INFO:root:Sun is currently at alt, az: -51.319584100349324, 341.6773300243132
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679211154.2304306
+INFO:root:Sun is currently at alt, az: -51.380839199830966, 342.0661904898456
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679211214.3415298
+INFO:root:Sun is currently at alt, az: -51.44081999904229, 342.456107179706
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679211274.4529426
+INFO:root:Sun is currently at alt, az: -51.49951598876297, 342.84703586407437
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679211334.5469985
+INFO:root:Sun is currently at alt, az: -51.55690442733113, 343.23884391632885
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679211394.6946592
+INFO:root:Sun is currently at alt, az: -51.613045968647064, 343.63197721307876
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679211454.7939124
+INFO:root:Sun is currently at alt, az: -51.66783938664003, 344.025751064493
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679211514.931596
+INFO:root:Sun is currently at alt, az: -51.721358435546904, 344.42071576106883
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679211575.0329359
+INFO:root:Sun is currently at alt, az: -51.773530870939226, 344.8163614644019
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679211635.1704252
+INFO:root:Sun is currently at alt, az: -51.82441410086646, 345.21314621537397
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679211695.2751517
+INFO:root:Sun is currently at alt, az: -51.87394429277232, 345.61059588459915
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679211755.4204452
+INFO:root:Sun is currently at alt, az: -51.922176311759756, 346.00917564317217
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679211815.5088887
+INFO:root:Sun is currently at alt, az: -51.96902739535699, 346.40821933790426
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679211875.6557279
+INFO:root:Sun is currently at alt, az: -52.01458227944829, 346.8084717421923
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679211935.7490292
+INFO:root:Sun is currently at alt, az: -52.05875108065797, 347.20916716964484
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679211995.8495605
+INFO:root:Sun is currently at alt, az: -52.101575200058626, 347.6106886453976
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679212055.9311762
+INFO:root:Sun is currently at alt, az: -52.14303171221816, 348.0128397123903
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679212116.074273
+INFO:root:Sun is currently at alt, az: -52.183170083147715, 348.4161373921255
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679212176.2204216
+INFO:root:Sun is currently at alt, az: -52.22194468603189, 348.8201688155467
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679212236.3342645
+INFO:root:Sun is currently at alt, az: -52.25932941742999, 349.22467341504404
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679212296.4705298
+INFO:root:Sun is currently at alt, az: -52.29535447834848, 349.629996441298
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679212356.5561957
+INFO:root:Sun is currently at alt, az: -52.32997306123908, 350.0356221548959
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679212416.6676066
+INFO:root:Sun is currently at alt, az: -52.36322611597639, 350.44204215524394
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679212476.806572
+INFO:root:Sun is currently at alt, az: -52.395109055328085, 350.8492458229332
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679212536.8973157
+INFO:root:Sun is currently at alt, az: -52.425578815292766, 351.25669584548797
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679212597.0017629
+INFO:root:Sun is currently at alt, az: -52.45466453205193, 351.664787442855
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679212657.0895307
+INFO:root:Sun is currently at alt, az: -52.482348296148025, 352.0732898810372
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679212717.1953523
+INFO:root:Sun is currently at alt, az: -52.5086428997254, 352.4824146594385
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679212777.3404198
+INFO:root:Sun is currently at alt, az: -52.53355259920357, 352.8922818340035
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679212837.4398894
+INFO:root:Sun is currently at alt, az: -52.557039616916555, 353.3022880463556
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679212897.5400336
+INFO:root:Sun is currently at alt, az: -52.579120904233854, 353.7127231691738
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679212957.6535947
+INFO:root:Sun is currently at alt, az: -52.59979809772051, 354.12364887651125
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679213017.7396533
+INFO:root:Sun is currently at alt, az: -52.61905522537694, 354.5347596472214
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679213077.8801336
+INFO:root:Sun is currently at alt, az: -52.63691535816923, 354.9465903916251
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679213137.958831
+INFO:root:Sun is currently at alt, az: -52.65334217142591, 355.35831930396944
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679213198.0608764
+INFO:root:Sun is currently at alt, az: -52.66835838513446, 355.7705033423695
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679213258.1500406
+INFO:root:Sun is currently at alt, az: -52.681952825598984, 356.18286784985156
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679213318.2553768
+INFO:root:Sun is currently at alt, az: -52.694130359130654, 356.59558581546645
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679213378.3704896
+INFO:root:Sun is currently at alt, az: -52.70488734292602, 357.00858694698553
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679213438.4656215
+INFO:root:Sun is currently at alt, az: -52.714217552250155, 357.4216401245399
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679213498.5688162
+INFO:root:Sun is currently at alt, az: -52.72212466747928, 357.83491133063154
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679213558.6703885
+INFO:root:Sun is currently at alt, az: -52.7286062543077, 358.24830720539984
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679213618.7657628
+INFO:root:Sun is currently at alt, az: -52.733661332706276, 358.6617694017962
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679213678.8511822
+INFO:root:Sun is currently at alt, az: -52.73728956362281, 359.07524513787763
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679213738.9409873
+INFO:root:Sun is currently at alt, az: -52.739491580379116, 359.48880615975816
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679213799.0264041
+INFO:root:Sun is currently at alt, az: -52.74026679785579, 359.9023651314841
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679213859.1458595
+INFO:root:Sun is currently at alt, az: -52.73961455918421, 0.31615957028165736
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679213919.2794073
+INFO:root:Sun is currently at alt, az: -52.73753343689994, 0.7300251766458106
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679213979.420445
+INFO:root:Sun is currently at alt, az: -52.734023129305534, 1.1438894760521618
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679214039.5178478
+INFO:root:Sun is currently at alt, az: -52.72908831460071, 1.557373734033846
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679214099.618426
+INFO:root:Sun is currently at alt, az: -52.72272716320662, 1.9707731838639762
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679214159.7341957
+INFO:root:Sun is currently at alt, az: -52.71493848982457, 2.384143555857649
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679214219.8490927
+INFO:root:Sun is currently at alt, az: -52.70572477311864, 2.7973475286705356
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679214279.9258332
+INFO:root:Sun is currently at alt, az: -52.69509418676763, 3.210102274703236
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679214340.0041666
+INFO:root:Sun is currently at alt, az: -52.68304223196253, 3.6226544507617082
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679214400.1499617
+INFO:root:Sun is currently at alt, az: -52.669554647222036, 4.035429443066599
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679214460.2904427
+INFO:root:Sun is currently at alt, az: -52.654647116126746, 4.447900955302587
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679214520.4249692
+INFO:root:Sun is currently at alt, az: -52.638321928404125, 4.860038321285003
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679214580.579027
+INFO:root:Sun is currently at alt, az: -52.62057357933741, 5.271989884489076
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679214640.7168412
+INFO:root:Sun is currently at alt, az: -52.60141456341832, 5.683484551834886
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679214700.8530898
+INFO:root:Sun is currently at alt, az: -52.58084304839869, 6.094597001437588
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679214761.0118778
+INFO:root:Sun is currently at alt, az: -52.558852424368716, 6.505466076903795
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679214821.1695187
+INFO:root:Sun is currently at alt, az: -52.535453130386784, 6.915904216390166
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679214881.3133724
+INFO:root:Sun is currently at alt, az: -52.51065329663927, 7.32579995987388
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679214941.4547675
+INFO:root:Sun is currently at alt, az: -52.48445166419786, 7.735205530637554
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679215001.5999355
+INFO:root:Sun is currently at alt, az: -52.4568484679948, 8.144138381498372
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679215061.7434547
+INFO:root:Sun is currently at alt, az: -52.42784926934068, 8.552536894854908
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679215121.8852682
+INFO:root:Sun is currently at alt, az: -52.39745750905375, 8.96037623783778
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679215182.0212717
+INFO:root:Sun is currently at alt, az: -52.365678966116015, 9.367604438423173
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679215242.158843
+INFO:root:Sun is currently at alt, az: -52.332513478290785, 9.774247531777105
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679215302.2970402
+INFO:root:Sun is currently at alt, az: -52.29796522276775, 10.18027539221864
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679215362.4548464
+INFO:root:Sun is currently at alt, az: -52.26202647422524, 10.585792407692978
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679215422.5604653
+INFO:root:Sun is currently at alt, az: -52.224745257027614, 10.990291976981782
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679215482.7183907
+INFO:root:Sun is currently at alt, az: -52.18606090813345, 11.394454433954516
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679215542.8565533
+INFO:root:Sun is currently at alt, az: -52.146022948480955, 11.797772448006228
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679215602.9929588
+INFO:root:Sun is currently at alt, az: -52.104624546516675, 12.200344877702207
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679215663.1345909
+INFO:root:Sun is currently at alt, az: -52.06186533060384, 12.60219644532256
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679215723.2809782
+INFO:root:Sun is currently at alt, az: -52.01774998159052, 13.003302163491446
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679215783.4209723
+INFO:root:Sun is currently at alt, az: -51.972291541323386, 13.403566396809218
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679215843.5637808
+INFO:root:Sun is currently at alt, az: -51.92548810405571, 13.803029510906402
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679215903.6997285
+INFO:root:Sun is currently at alt, az: -51.877352388598716, 14.201606685973173
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679215963.8220067
+INFO:root:Sun is currently at alt, az: -51.827895700462086, 14.599232938714941
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679216023.927713
+INFO:root:Sun is currently at alt, az: -51.77712671503591, 14.995869802659241
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679216084.0747957
+INFO:root:Sun is currently at alt, az: -51.72500106625064, 15.391879553718425
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679216144.2325113
+INFO:root:Sun is currently at alt, az: -51.67154920062871, 15.787039371080198
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679216204.3902206
+INFO:root:Sun is currently at alt, az: -51.61678585039145, 16.18126025148334
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679216264.5274494
+INFO:root:Sun is currently at alt, az: -51.56073605484417, 16.574390009852415
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679216324.6629024
+INFO:root:Sun is currently at alt, az: -51.503388937128086, 16.966533343416817
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679216384.7983983
+INFO:root:Sun is currently at alt, az: -51.44474875097341, 17.357684423121615
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679216444.9452884
+INFO:root:Sun is currently at alt, az: -51.38481009008799, 17.747899446065848
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679216505.0559719
+INFO:root:Sun is currently at alt, az: -51.3236273080725, 18.136853262874833
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679216565.1899102
+INFO:root:Sun is currently at alt, az: -51.26114651137146, 18.524914388557562
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679216625.3474946
+INFO:root:Sun is currently at alt, az: -51.19737211184663, 18.91206793304571
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679216685.5052614
+INFO:root:Sun is currently at alt, az: -51.132334629112336, 19.298146452645625
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679216745.6422436
+INFO:root:Sun is currently at alt, az: -51.06606385960908, 19.68300053151207
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679216805.793723
+INFO:root:Sun is currently at alt, az: -50.99852768195164, 20.066841117554347
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679216865.928704
+INFO:root:Sun is currently at alt, az: -50.9297675975039, 20.449455862988515
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679216926.0632403
+INFO:root:Sun is currently at alt, az: -50.859772487173835, 20.830933174343016
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679216986.2002928
+INFO:root:Sun is currently at alt, az: -50.78854562569255, 21.211277962728047
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679217046.3352442
+INFO:root:Sun is currently at alt, az: -50.716099324112484, 21.590447597472814
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679217106.4933333
+INFO:root:Sun is currently at alt, az: -50.642409461900925, 21.968587582543197
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679217166.6289837
+INFO:root:Sun is currently at alt, az: -50.56753883510735, 22.345398790296674
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679217226.7859607
+INFO:root:Sun is currently at alt, az: -50.491440042095796, 22.721143256416273
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679217286.9213417
+INFO:root:Sun is currently at alt, az: -50.4141744976197, 23.095541063110872
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679217347.067876
+INFO:root:Sun is currently at alt, az: -50.335707601376804, 23.46878498565512
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679217407.2026227
+INFO:root:Sun is currently at alt, az: -50.256076519770886, 23.84072164141963
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679217467.3572109
+INFO:root:Sun is currently at alt, az: -50.17524640472524, 24.211535762495743
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679217527.502585
+INFO:root:Sun is currently at alt, az: -50.093263308963195, 24.581037649592847
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679217587.6050947
+INFO:root:Sun is currently at alt, az: -50.01018197062954, 24.94901234678866
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679217647.7456274
+INFO:root:Sun is currently at alt, az: -49.92589812068853, 25.315945759700686
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679217707.8981607
+INFO:root:Sun is currently at alt, az: -49.8404542426351, 25.68166843071272
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679217768.04528
+INFO:root:Sun is currently at alt, az: -49.7538823743394, 26.04606555139867
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679217828.1474504
+INFO:root:Sun is currently at alt, az: -49.66624835992189, 26.40889089784705
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679217888.2837033
+INFO:root:Sun is currently at alt, az: -49.5774448210398, 26.77061396286026
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679217948.3904102
+INFO:root:Sun is currently at alt, az: -49.487573167140894, 27.130844290722866
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679218008.502462
+INFO:root:Sun is currently at alt, az: -49.39658950413795, 27.489784572772145
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679218068.648622
+INFO:root:Sun is currently at alt, az: -49.304456845848236, 27.847598407672226
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679218128.7842872
+INFO:root:Sun is currently at alt, az: -49.2112505313684, 28.204013171955033
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679218188.9004214
+INFO:root:Sun is currently at alt, az: -49.11699306039669, 28.558970180692494
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679218249.0582526
+INFO:root:Sun is currently at alt, az: -49.02159553839117, 28.91282443144271
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679218309.2055857
+INFO:root:Sun is currently at alt, az: -48.92514762196778, 29.265262424883925
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679218369.3647432
+INFO:root:Sun is currently at alt, az: -48.82762122160084, 29.616409826198034
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679218429.480622
+INFO:root:Sun is currently at alt, az: -48.72911424120508, 29.965941323845076
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679218489.6386526
+INFO:root:Sun is currently at alt, az: -48.62949448198908, 30.314349264188124
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679218549.7829933
+INFO:root:Sun is currently at alt, az: -48.528861441935106, 30.661305190699256
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679218609.918175
+INFO:root:Sun is currently at alt, az: -48.427215902065534, 31.00683227316284
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679218670.0502543
+INFO:root:Sun is currently at alt, az: -48.32455571231776, 31.350962308874774
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679218730.1841881
+INFO:root:Sun is currently at alt, az: -48.22088021732801, 31.69372060059726
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679218790.2862203
+INFO:root:Sun is currently at alt, az: -48.11625614159373, 32.03491298623268
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679218850.387615
+INFO:root:Sun is currently at alt, az: -48.01063763939476, 32.37471558920487
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679218910.5010626
+INFO:root:Sun is currently at alt, az: -47.90400988661419, 32.71319758343055
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679218970.6078227
+INFO:root:Sun is currently at alt, az: -47.79641374837403, 33.05025137564442
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679219030.712239
+INFO:root:Sun is currently at alt, az: -47.68784941760668, 33.385900046720394
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679219090.8175747
+INFO:root:Sun is currently at alt, az: -47.57831877432564, 33.72016056315897
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679219150.9200857
+INFO:root:Sun is currently at alt, az: -47.4678364158164, 34.05301114594356
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679219211.0607054
+INFO:root:Sun is currently at alt, az: -47.356333979237355, 34.38467651157759
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679219271.1790645
+INFO:root:Sun is currently at alt, az: -47.243930726647186, 34.714822704282305
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679219331.2605066
+INFO:root:Sun is currently at alt, az: -47.130663138140896, 35.04337108867822
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679219391.3465564
+INFO:root:Sun is currently at alt, az: -47.016461349336126, 35.37054991301601
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679219451.4339237
+INFO:root:Sun is currently at alt, az: -46.901339124780044, 35.69634136053127
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679219511.516184
+INFO:root:Sun is currently at alt, az: -46.7853164880327, 36.020711284708575
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679219571.638414
+INFO:root:Sun is currently at alt, az: -46.66831321786535, 36.34390262847906
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679219631.741729
+INFO:root:Sun is currently at alt, az: -46.550451027858564, 36.66559916225672
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679219691.852688
+INFO:root:Sun is currently at alt, az: -46.43168566143091, 36.985944703054614
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679219751.9922936
+INFO:root:Sun is currently at alt, az: -46.311982373089414, 37.30505142053037
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679219812.0984495
+INFO:root:Sun is currently at alt, az: -46.191472391305446, 37.62259171866361
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679219872.188489
+INFO:root:Sun is currently at alt, az: -46.070129536489794, 37.93866082880142
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679219932.2970488
+INFO:root:Sun is currently at alt, az: -45.94789127930982, 38.253443009578184
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679219992.395531
+INFO:root:Sun is currently at alt, az: -45.82482303328658, 38.5667905666831
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679220052.5049794
+INFO:root:Sun is currently at alt, az: -45.70088909515188, 38.87881575639772
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679220112.6188242
+INFO:root:Sun is currently at alt, az: -45.576110067390154, 39.189486709436785
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679220172.7209697
+INFO:root:Sun is currently at alt, az: -45.45052685934251, 39.49872344751339
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679220232.8676465
+INFO:root:Sun is currently at alt, az: -45.324028620943615, 39.806817308559424
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679220292.9681044
+INFO:root:Sun is currently at alt, az: -45.19681353243499, 40.11330681908537
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679220353.0785246
+INFO:root:Sun is currently at alt, az: -45.06877065948284, 40.41848322165081
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679220413.159696
+INFO:root:Sun is currently at alt, az: -44.93999112062948, 40.722151771805706
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679220473.2947628
+INFO:root:Sun is currently at alt, az: -44.810303390528055, 41.02473571084252
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679220533.4126706
+INFO:root:Sun is currently at alt, az: -44.679867121939516, 41.32588027486547
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679220593.4973676
+INFO:root:Sun is currently at alt, az: -44.548725228019535, 41.62551091668125
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679220653.5982163
+INFO:root:Sun is currently at alt, az: -44.41677736131512, 41.92387868342758
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679220713.6939423
+INFO:root:Sun is currently at alt, az: -44.28407703743651, 42.22088205017838
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679220773.8018253
+INFO:root:Sun is currently at alt, az: -44.150592951065924, 42.51661078643123
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679220833.9083426
+INFO:root:Sun is currently at alt, az: -44.01636187430913, 42.81100274728851
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679220894.013681
+INFO:root:Sun is currently at alt, az: -43.881390343354305, 43.10406381178026
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679220954.1190305
+INFO:root:Sun is currently at alt, az: -43.74568257166753, 43.395804832089006
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679221014.2225013
+INFO:root:Sun is currently at alt, az: -43.60924968346646, 43.68622183242533
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679221074.3028214
+INFO:root:Sun is currently at alt, az: -43.472147196909674, 43.975218103083265
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679221134.402862
+INFO:root:Sun is currently at alt, az: -43.334284077936005, 44.26300534677589
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679221194.5155528
+INFO:root:Sun is currently at alt, az: -43.19568266405209, 44.54955414196577
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679221254.6172075
+INFO:root:Sun is currently at alt, az: -43.05640419255139, 44.83475712693441
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679221314.7185488
+INFO:root:Sun is currently at alt, az: -42.9164306239897, 45.118671252311806
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679221374.82717
+INFO:root:Sun is currently at alt, az: -42.77575071954421, 45.4013379700192
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679221434.965629
+INFO:root:Sun is currently at alt, az: -42.634317574188046, 45.68286808337231
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679221495.0742333
+INFO:root:Sun is currently at alt, az: -42.49227805627124, 45.962988147381985
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679221555.2116508
+INFO:root:Sun is currently at alt, az: -42.34949998908293, 46.24197769689717
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679221615.293935
+INFO:root:Sun is currently at alt, az: -42.20618950657798, 46.51945428751975
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679221675.428616
+INFO:root:Sun is currently at alt, az: -42.06209651860723, 46.795920868939696
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679221735.5344493
+INFO:root:Sun is currently at alt, az: -41.91742161592789, 47.07100952418602
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679221795.6411512
+INFO:root:Sun is currently at alt, az: -41.7720999815734, 47.34486353784747
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679221855.7330918
+INFO:root:Sun is currently at alt, az: -41.626175834042016, 47.617418608173296
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679221915.8418148
+INFO:root:Sun is currently at alt, az: -41.47957870550977, 47.88882429400003
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679221975.9524581
+INFO:root:Sun is currently at alt, az: -41.332350665535856, 48.15901953697169
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679222036.0921888
+INFO:root:Sun is currently at alt, az: -41.18443076926063, 48.42813219548372
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679222096.2219121
+INFO:root:Sun is currently at alt, az: -41.03592091271336, 48.69599349983374
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679222156.3577514
+INFO:root:Sun is currently at alt, az: -40.88678732319626, 48.96268219824911
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679222216.4711676
+INFO:root:Sun is currently at alt, az: -40.73710696281954, 49.22807907050589
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679222276.617472
+INFO:root:Sun is currently at alt, az: -40.58674784920663, 49.49243491180739
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679222336.7154224
+INFO:root:Sun is currently at alt, az: -40.43591915412319, 49.75540005450414
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679222396.86192
+INFO:root:Sun is currently at alt, az: -40.28438348571374, 50.01740549783948
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679222456.9480817
+INFO:root:Sun is currently at alt, az: -40.132421092606634, 50.27798431273297
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679222517.0574117
+INFO:root:Sun is currently at alt, az: -39.97982702904453, 50.53750679340463
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679222577.1657922
+INFO:root:Sun is currently at alt, az: -39.82666786299424, 50.79587528325903
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679222637.2694674
+INFO:root:Sun is currently at alt, az: -39.67295885969659, 51.05308094736149
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679222697.37677
+INFO:root:Sun is currently at alt, az: -39.51868429282344, 51.3091666565236
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679222757.5130627
+INFO:root:Sun is currently at alt, az: -39.36378414165793, 51.564246759268
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679222817.6508768
+INFO:root:Sun is currently at alt, az: -39.208334227095605, 51.81821112994765
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679222877.7489717
+INFO:root:Sun is currently at alt, az: -39.05244710654087, 52.07089394293369
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679222937.89556
+INFO:root:Sun is currently at alt, az: -38.89589924451513, 52.322673139670606
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679222997.987502
+INFO:root:Sun is currently at alt, az: -38.738964515800156, 52.573124445555074
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679223058.1368947
+INFO:root:Sun is currently at alt, az: -38.5813554396436, 52.82272231654239
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679223118.2378862
+INFO:root:Sun is currently at alt, az: -38.42335451599572, 53.07103460598802
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679223178.3740294
+INFO:root:Sun is currently at alt, az: -38.26474747749907, 53.31841424377972
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679223238.4710467
+INFO:root:Sun is currently at alt, az: -38.10573544565642, 53.56456315526316
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679223298.5827177
+INFO:root:Sun is currently at alt, az: -37.94618155652732, 53.80970965083366
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679223358.7249327
+INFO:root:Sun is currently at alt, az: -37.78604814804112, 54.05392473526658
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679223418.8653448
+INFO:root:Sun is currently at alt, az: -37.62542603089286, 54.297083713002465
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679223479.0015385
+INFO:root:Sun is currently at alt, az: -37.46432672850304, 54.53918439198496
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679223539.1387992
+INFO:root:Sun is currently at alt, az: -37.302741075317385, 54.78025555229436
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679223599.2737713
+INFO:root:Sun is currently at alt, az: -37.140683013464724, 55.02029119681883
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679223659.4212458
+INFO:root:Sun is currently at alt, az: -36.9781174308918, 55.25935753037066
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679223719.5680518
+INFO:root:Sun is currently at alt, az: -36.815084614333145, 55.49740932891918
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679223779.6412
+INFO:root:Sun is currently at alt, az: -36.65178805164751, 55.73416699614452
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679223839.740427
+INFO:root:Sun is currently at alt, az: -36.487961912671715, 55.97003220406817
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679223899.8867612
+INFO:root:Sun is currently at alt, az: -36.323552734339856, 56.20509307234538
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679223960.0338142
+INFO:root:Sun is currently at alt, az: -36.1586914359312, 56.439174538102115
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679224020.1732066
+INFO:root:Sun is currently at alt, az: -35.99340568169865, 56.67225156307639
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679224080.2683551
+INFO:root:Sun is currently at alt, az: -35.82780116339079, 56.90419101034885
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679224140.3475792
+INFO:root:Sun is currently at alt, az: -35.66180502739084, 57.135110996113255
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679224200.4558487
+INFO:root:Sun is currently at alt, az: -35.495297368068044, 57.365191410399795
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679224260.6137683
+INFO:root:Sun is currently at alt, az: -35.328224714670654, 57.59451661512084
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679224320.704276
+INFO:root:Sun is currently at alt, az: -35.160916774778116, 57.82264812017902
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679224380.8433568
+INFO:root:Sun is currently at alt, az: -34.9930551877597, 58.05003402926461
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679224441.0013206
+INFO:root:Sun is currently at alt, az: -34.82472645898451, 58.276567841273994
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679224501.1274927
+INFO:root:Sun is currently at alt, az: -34.656076812389045, 58.50206633333205
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679224561.2714055
+INFO:root:Sun is currently at alt, az: -34.48697171606176, 58.72672288157348
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679224621.3730934
+INFO:root:Sun is currently at alt, az: -34.317584237243366, 58.95032131139711
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679224681.522049
+INFO:root:Sun is currently at alt, az: -34.14766628599695, 59.173201701568274
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679224741.6600964
+INFO:root:Sun is currently at alt, az: -33.977385990314616, 59.39515490373743
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679224801.8001459
+INFO:root:Sun is currently at alt, az: -33.80671099021064, 59.6162359750353
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679224861.9025552
+INFO:root:Sun is currently at alt, az: -33.63575819968997, 59.836307151723524
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679224922.0421739
+INFO:root:Sun is currently at alt, az: -33.464318755799944, 60.05564967797466
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679224982.1818619
+INFO:root:Sun is currently at alt, az: -33.29250217481854, 60.27413443826891
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679225042.3201346
+INFO:root:Sun is currently at alt, az: -33.12031667143802, 60.491763192327
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679225102.4601293
+INFO:root:Sun is currently at alt, az: -32.947757185480306, 60.70855438756779
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679225162.6001697
+INFO:root:Sun is currently at alt, az: -32.77483239906272, 60.92450902229763
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679225222.7435338
+INFO:root:Sun is currently at alt, az: -32.601536710356505, 61.13964585070453
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679225282.867338
+INFO:root:Sun is currently at alt, az: -32.42794002009565, 61.3538903761389
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679225343.0058358
+INFO:root:Sun is currently at alt, az: -32.253947253300886, 61.567371758525155
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679225403.1519554
+INFO:root:Sun is currently at alt, az: -32.07958242410233, 61.780071416113074
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679225463.3064237
+INFO:root:Sun is currently at alt, az: -31.904847003671843, 61.991998550437934
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679225523.4500122
+INFO:root:Sun is currently at alt, az: -31.72980055194199, 62.20309239403132
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679225583.5872917
+INFO:root:Sun is currently at alt, az: -31.55443356200805, 62.41337622533037
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679225643.6786945
+INFO:root:Sun is currently at alt, az: -31.378865469290332, 62.62271956876726
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679225703.825221
+INFO:root:Sun is currently at alt, az: -31.202804686304706, 62.83148094027581
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679225763.9829166
+INFO:root:Sun is currently at alt, az: -31.026382881335593, 63.039513310686495
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679225824.1245666
+INFO:root:Sun is currently at alt, az: -30.84968342509048, 63.24672944601448
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679225884.260454
+INFO:root:Sun is currently at alt, az: -30.6726797691708, 63.45317194196868
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679225944.4176688
+INFO:root:Sun is currently at alt, az: -30.495295509308665, 63.658940230290966
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679226004.522316
+INFO:root:Sun is currently at alt, az: -30.31775220769451, 63.863788821125276
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679226064.6121087
+INFO:root:Sun is currently at alt, az: -30.13994237830045, 64.06785414383073
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679226124.7189727
+INFO:root:Sun is currently at alt, az: -29.961774890384692, 64.27125119800245
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679226184.8548303
+INFO:root:Sun is currently at alt, az: -29.783217380834632, 64.47402608979218
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679226244.940454
+INFO:root:Sun is currently at alt, az: -29.6045085524423, 64.67591860951669
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679226305.096652
+INFO:root:Sun is currently at alt, az: -29.425292213278414, 64.87734085939873
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679226365.2423408
+INFO:root:Sun is currently at alt, az: -29.24581272481553, 65.07802679699942
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679226425.382181
+INFO:root:Sun is currently at alt, az: -29.066059515362184, 65.27799873947885
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679226485.539927
+INFO:root:Sun is currently at alt, az: -28.885964685187613, 65.47734191644189
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679226545.6867013
+INFO:root:Sun is currently at alt, az: -28.70561779574966, 65.67596693705491
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679226605.7804773
+INFO:root:Sun is currently at alt, az: -28.525148442145145, 65.87374248037675
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679226665.9236112
+INFO:root:Sun is currently at alt, az: -28.344252362040237, 66.07101182430952
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679226726.0773377
+INFO:root:Sun is currently at alt, az: -28.16304881104027, 66.26765314268141
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679226786.222599
+INFO:root:Sun is currently at alt, az: -27.981598232777237, 66.4636103930659
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679226846.3178427
+INFO:root:Sun is currently at alt, az: -27.80002940008265, 66.658755403725
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679226906.464482
+INFO:root:Sun is currently at alt, az: -27.61803889209998, 66.85342369254265
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679226966.605098
+INFO:root:Sun is currently at alt, az: -27.43580311276969, 67.0474348855252
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679227026.7389379
+INFO:root:Sun is currently at alt, az: -27.25332736897356, 67.2407929209881
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679227086.8271043
+INFO:root:Sun is currently at alt, az: -27.070732946889795, 67.4333796738486
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679227146.9784381
+INFO:root:Sun is currently at alt, az: -26.88769188195912, 67.62554981127613
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679227207.1352963
+INFO:root:Sun is currently at alt, az: -26.704382013242245, 67.81712418724521
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679227267.270639
+INFO:root:Sun is currently at alt, az: -26.52088867946073, 68.00802297320406
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679227327.4172084
+INFO:root:Sun is currently at alt, az: -26.337114853746957, 68.19835627234265
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679227387.5518022
+INFO:root:Sun is currently at alt, az: -26.153134227421926, 68.3880566445418
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679227447.6887136
+INFO:root:Sun is currently at alt, az: -25.968905897172807, 68.57717526472582
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679227507.8262584
+INFO:root:Sun is currently at alt, az: -25.784437749605175, 68.7657127031517
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679227567.9648716
+INFO:root:Sun is currently at alt, az: -25.599731162276214, 68.9536761774838
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679227628.0708477
+INFO:root:Sun is currently at alt, az: -25.414892537424027, 69.14096663770289
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679227688.176705
+INFO:root:Sun is currently at alt, az: -25.22982473657448, 69.32769168557056
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679227748.3117375
+INFO:root:Sun is currently at alt, az: -25.044440045847335, 69.51394769906324
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679227808.4478946
+INFO:root:Sun is currently at alt, az: -24.858827399980424, 69.69965312549365
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679227868.6003132
+INFO:root:Sun is currently at alt, az: -24.672942589928414, 69.8848601955402
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679227928.7404006
+INFO:root:Sun is currently at alt, az: -24.486876540083493, 70.06948651371603
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679227988.8354547
+INFO:root:Sun is currently at alt, az: -24.300733302599422, 70.25343811911574
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679228048.975398
+INFO:root:Sun is currently at alt, az: -24.11423688836847, 70.43699589631953
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679228109.1216366
+INFO:root:Sun is currently at alt, az: -23.92750922909385, 70.6200469733007
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679228169.2613528
+INFO:root:Sun is currently at alt, az: -23.740592622235766, 70.8025579161046
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679228229.4012825
+INFO:root:Sun is currently at alt, az: -23.55346864743045, 70.9845547914076
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679228289.547989
+INFO:root:Sun is currently at alt, az: -23.36611931101201, 71.16606288392565
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679228349.7052178
+INFO:root:Sun is currently at alt, az: -23.178535300325954, 71.34709876466103
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679228409.841106
+INFO:root:Sun is currently at alt, az: -22.990818450434936, 71.52757213441028
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679228469.9794319
+INFO:root:Sun is currently at alt, az: -22.80289703236975, 71.70756001398657
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679228530.1336145
+INFO:root:Sun is currently at alt, az: -22.614731409552288, 71.8871077367998
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679228590.2811244
+INFO:root:Sun is currently at alt, az: -22.42639437734916, 72.06615331307032
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679228650.4153643
+INFO:root:Sun is currently at alt, az: -22.237909034807206, 72.24468268182
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679228710.507383
+INFO:root:Sun is currently at alt, az: -22.04936871393538, 72.42261585165751
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679228770.645924
+INFO:root:Sun is currently at alt, az: -21.860497268428173, 72.60022081794246
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679228830.7919552
+INFO:root:Sun is currently at alt, az: -21.67141932437051, 72.77738693253846
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679228890.9278367
+INFO:root:Sun is currently at alt, az: -21.482192621334363, 72.95406748977335
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679228951.0204124
+INFO:root:Sun is currently at alt, az: -21.29292398345213, 73.13017087286418
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679229011.1665466
+INFO:root:Sun is currently at alt, az: -21.103310518683134, 73.30598599609509
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679229071.3136876
+INFO:root:Sun is currently at alt, az: -20.913519880583475, 73.48136378010187
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679229131.4499233
+INFO:root:Sun is currently at alt, az: -20.723591905383856, 73.65627471448367
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679229191.5934613
+INFO:root:Sun is currently at alt, az: -20.53347129262181, 73.83077688430372
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679229251.7296581
+INFO:root:Sun is currently at alt, az: -20.34320650416527, 74.00483286339941
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679229311.8863454
+INFO:root:Sun is currently at alt, az: -20.15271158611189, 74.17852810369942
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679229372.022822
+INFO:root:Sun is currently at alt, az: -19.962117563893038, 74.35175009115045
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679229432.1690698
+INFO:root:Sun is currently at alt, az: -19.7713315810199, 74.52459027988198
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679229492.30502
+INFO:root:Sun is currently at alt, az: -19.580419407703417, 74.69699596006154
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679229552.4420397
+INFO:root:Sun is currently at alt, az: -19.38934708795174, 74.869004743123
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679229612.578943
+INFO:root:Sun is currently at alt, az: -19.19812046354176, 75.04061813299894
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679229672.73562
+INFO:root:Sun is currently at alt, az: -19.006678275820445, 75.21189757916756
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679229732.843219
+INFO:root:Sun is currently at alt, az: -18.815241797094902, 75.38265218260845
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679229792.919558
+INFO:root:Sun is currently at alt, az: -18.623756610604786, 75.55293815278291
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679229853.063164
+INFO:root:Sun is currently at alt, az: -18.431910560271177, 75.72303922434274
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679229913.1993787
+INFO:root:Sun is currently at alt, az: -18.239943577524116, 75.89274846531411
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679229973.294828
+INFO:root:Sun is currently at alt, az: -18.047964363339975, 76.06197688848236
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679230033.3977628
+INFO:root:Sun is currently at alt, az: -17.855820869730536, 76.23086539964032
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679230093.5058575
+INFO:root:Sun is currently at alt, az: -17.66352244987341, 76.39941205336585
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679230153.5962484
+INFO:root:Sun is currently at alt, az: -17.47114424080748, 76.56755752913439
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679230213.6760876
+INFO:root:Sun is currently at alt, az: -17.278665375638173, 76.73532674149968
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679230273.777854
+INFO:root:Sun is currently at alt, az: -17.085983685381837, 76.90281492013293
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679230333.9227738
+INFO:root:Sun is currently at alt, az: -16.893032816925555, 77.07008527952341
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679230394.0044115
+INFO:root:Sun is currently at alt, az: -16.700156190255296, 77.23684656892588
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679230454.092226
+INFO:root:Sun is currently at alt, az: -16.507132892775758, 77.40329661923448
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679230514.1986344
+INFO:root:Sun is currently at alt, az: -16.31392483201748, 77.56947416993845
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679230574.30681
+INFO:root:Sun is currently at alt, az: -16.12058789456083, 77.73533706229375
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679230634.3910472
+INFO:root:Sun is currently at alt, az: -15.927206678595638, 77.90081904475377
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679230694.4769695
+INFO:root:Sun is currently at alt, az: -15.73370062082659, 78.06599534368839
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679230754.5923781
+INFO:root:Sun is currently at alt, az: -15.539981921256278, 78.2309466082772
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679230814.7382863
+INFO:root:Sun is currently at alt, az: -15.346048957969199, 78.39567961002325
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679230874.8784049
+INFO:root:Sun is currently at alt, az: -15.15202047727248, 78.56009920324918
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679230935.0102465
+INFO:root:Sun is currently at alt, az: -14.957906341755818, 78.72420310331555
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679230995.1472082
+INFO:root:Sun is currently at alt, az: -14.763665099742703, 78.88803228657805
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679231055.2722938
+INFO:root:Sun is currently at alt, az: -14.569353442887655, 79.05154487094578
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679231115.4204388
+INFO:root:Sun is currently at alt, az: -14.374860203245944, 79.21484014036893
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679231175.5580192
+INFO:root:Sun is currently at alt, az: -14.180295829124658, 79.37783105832426
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679231235.6964445
+INFO:root:Sun is currently at alt, az: -13.98562517899425, 79.54055293229857
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679231295.8326418
+INFO:root:Sun is currently at alt, az: -13.790859940240722, 79.70300175558666
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679231355.9699686
+INFO:root:Sun is currently at alt, az: -13.595990968776617, 79.86519088591803
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679231416.1135414
+INFO:root:Sun is currently at alt, az: -13.401003383845994, 80.02713833864233
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679231476.2713785
+INFO:root:Sun is currently at alt, az: -13.205872849112689, 80.18886982100645
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679231536.408777
+INFO:root:Sun is currently at alt, az: -13.010713643356672, 80.3502963048634
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679231596.557613
+INFO:root:Sun is currently at alt, az: -12.815424033955297, 80.51150762498797
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679231656.7151647
+INFO:root:Sun is currently at alt, az: -12.620014493057687, 80.67250056201435
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679231716.8726912
+INFO:root:Sun is currently at alt, az: -12.42451506911603, 80.83325585354633
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679231777.0306945
+INFO:root:Sun is currently at alt, az: -12.228925795526953, 80.99377900575134
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679231837.1675878
+INFO:root:Sun is currently at alt, az: -12.033318559125895, 81.15401668571623
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679231897.2723403
+INFO:root:Sun is currently at alt, az: -11.83773100098732, 81.31394393374386
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679231957.4088817
+INFO:root:Sun is currently at alt, az: -11.641956727285685, 81.47373497031074
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679232017.5530896
+INFO:root:Sun is currently at alt, az: -11.446075818256407, 81.63332958317581
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679232077.6909826
+INFO:root:Sun is currently at alt, az: -11.250135431958574, 81.79269475122669
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679232137.8486428
+INFO:root:Sun is currently at alt, az: -11.054052178898916, 81.95190359554265
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679232198.0060973
+INFO:root:Sun is currently at alt, az: -10.857892734007516, 82.11090721633215
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679232258.1531656
+INFO:root:Sun is currently at alt, az: -10.661691917489577, 82.26968280573391
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679232318.272399
+INFO:root:Sun is currently at alt, az: -10.465508314038233, 82.42818852268363
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679232378.4141912
+INFO:root:Sun is currently at alt, az: -10.269179074751783, 82.58656127357052
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679232438.573414
+INFO:root:Sun is currently at alt, az: -10.072722452088225, 82.74479136735842
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679232498.7316444
+INFO:root:Sun is currently at alt, az: -9.87620015670212, 82.90283426459887
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679232558.8703706
+INFO:root:Sun is currently at alt, az: -9.679674266182253, 83.06064540683556
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679232619.005149
+INFO:root:Sun is currently at alt, az: -9.483095547274221, 83.21826968592657
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679232679.139278
+INFO:root:Sun is currently at alt, az: -9.286454780320511, 83.37571972108157
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679232739.2723897
+INFO:root:Sun is currently at alt, az: -9.089754721997275, 83.53299849577577
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679232799.4270842
+INFO:root:Sun is currently at alt, az: -8.892922958644164, 83.69016896549526
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679232859.561929
+INFO:root:Sun is currently at alt, az: -8.696096598204312, 83.84712678750753
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679232919.704313
+INFO:root:Sun is currently at alt, az: -8.499187546044851, 84.00394740677548
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679232979.8617628
+INFO:root:Sun is currently at alt, az: -8.302172656668928, 84.16065425819104
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679233040.0042737
+INFO:root:Sun is currently at alt, az: -8.105151717648505, 84.31717306810332
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679233100.1387103
+INFO:root:Sun is currently at alt, az: -7.9081037906341365, 84.47352566192082
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679233160.2722855
+INFO:root:Sun is currently at alt, az: -7.711006764795173, 84.6297346899418
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679233220.3795874
+INFO:root:Sun is currently at alt, az: -7.513945472662974, 84.78573808636104
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679233280.5237353
+INFO:root:Sun is currently at alt, az: -7.316714467847875, 84.94170347957126
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679233340.6326509
+INFO:root:Sun is currently at alt, az: -7.119551611810336, 85.09744778353745
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679233400.736909
+INFO:root:Sun is currently at alt, az: -6.922358155374015, 85.25305416912961
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679233460.839298
+INFO:root:Sun is currently at alt, az: -6.725126444262489, 85.40853368754779
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679233520.9398131
+INFO:root:Sun is currently at alt, az: -6.527857981783861, 85.56389013955945
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679233581.0402048
+INFO:root:Sun is currently at alt, az: -6.330548503124545, 85.71913184975986
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679233641.1731908
+INFO:root:Sun is currently at alt, az: -6.133092037939577, 85.87434702661922
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679233701.2837777
+INFO:root:Sun is currently at alt, az: -5.935670628668797, 86.0293974732535
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679233761.4411755
+INFO:root:Sun is currently at alt, az: -5.738058415359645, 86.18446542437428
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679233821.5777562
+INFO:root:Sun is currently at alt, az: -5.540478992874626, 86.33938025864698
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679233881.712235
+INFO:root:Sun is currently at alt, az: -5.3428723558697, 86.49419400691578
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679233941.8131762
+INFO:root:Sun is currently at alt, az: -5.145343293128258, 86.64882957584344
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679234001.9239042
+INFO:root:Sun is currently at alt, az: -4.947750887643023, 86.80340223510986
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679234062.0190494
+INFO:root:Sun is currently at alt, az: -4.75017998856589, 86.95785049636291
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679234122.1296043
+INFO:root:Sun is currently at alt, az: -4.552530152626639, 87.1122577437778
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679234182.2302659
+INFO:root:Sun is currently at alt, az: -4.354886020954935, 87.26656269424817
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679234242.3704932
+INFO:root:Sun is currently at alt, az: -4.157086369237463, 87.42089599786247
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679234302.5185413
+INFO:root:Sun is currently at alt, az: -3.9592370191359407, 87.57517982412773
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679234362.6629596
+INFO:root:Sun is currently at alt, az: -3.7613770752999067, 87.72938851024611
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679234422.7982733
+INFO:root:Sun is currently at alt, az: -3.563525993532246, 87.88351175102744
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679234482.9450974
+INFO:root:Sun is currently at alt, az: -3.36561738456283, 88.03760608411827
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679234543.0790899
+INFO:root:Sun is currently at alt, az: -3.167732779309045, 88.19161284913693
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679234603.2243376
+INFO:root:Sun is currently at alt, az: -2.969794347939075, 88.34559743441528
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679234663.3343573
+INFO:root:Sun is currently at alt, az: -2.7719565072244206, 88.4994445539336
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679234723.4709141
+INFO:root:Sun is currently at alt, az: -2.574017403960124, 88.65331598970415
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679234783.6083746
+INFO:root:Sun is currently at alt, az: -2.376062829122216, 88.80714980896519
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679234843.7004573
+INFO:root:Sun is currently at alt, az: -2.1782465656301015, 88.96083134474311
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679234903.8576753
+INFO:root:Sun is currently at alt, az: -1.9802062374091498, 89.1146468890611
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679234964.015287
+INFO:root:Sun is currently at alt, az: -1.7821563863925654, 89.26843453139847
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679235024.1209192
+INFO:root:Sun is currently at alt, az: -1.5842708670813208, 89.42206409534148
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679235084.2640734
+INFO:root:Sun is currently at alt, az: -1.386256440146525, 89.5757680268938
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679235144.4111893
+INFO:root:Sun is currently at alt, az: -1.188225014863044, 89.7294642086219
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679235204.5059907
+INFO:root:Sun is currently at alt, az: -0.9903633028392236, 89.88301252259926
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679235264.6425357
+INFO:root:Sun is currently at alt, az: -0.7923630395037174, 90.03665696661534
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679235324.7820013
+INFO:root:Sun is currently at alt, az: -0.5943534688468379, 90.19030200576451
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679235384.9391673
+INFO:root:Sun is currently at alt, az: -0.3962873498066283, 90.34398906467274
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679235445.049699
+INFO:root:Sun is currently at alt, az: -0.19837792114593156, 90.49755744978678
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679235505.195951
+INFO:root:Sun is currently at alt, az: -0.0003554571275285421, 90.65122122220501
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679235565.3423636
+INFO:root:Sun is currently at alt, az: 0.1976615430955265, 90.80489320307473
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679235625.488395
+INFO:root:Sun is currently at alt, az: 0.39566987376128226, 90.95857567441621
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679235685.599383
+INFO:root:Sun is currently at alt, az: 0.5935540091560495, 91.1121837223376
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679235745.7346926
+INFO:root:Sun is currently at alt, az: 0.7915079570543673, 91.26587270795864
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679235805.887873
+INFO:root:Sun is currently at alt, az: 0.9895090499695745, 91.41962983348478
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679235866.022563
+INFO:root:Sun is currently at alt, az: 1.1874361772469857, 91.57336582419475
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679235926.1187408
+INFO:root:Sun is currently at alt, az: 1.3852220346685578, 91.72703312105764
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679235986.2283227
+INFO:root:Sun is currently at alt, az: 1.5830360726194403, 91.88076812213684
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679236046.3752031
+INFO:root:Sun is currently at alt, az: 1.7809554781918941, 92.03463565258046
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679236106.4702005
+INFO:root:Sun is currently at alt, az: 1.9786853709845242, 92.18841122493355
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679236166.6161914
+INFO:root:Sun is currently at alt, az: 2.1765628154196404, 92.34236176193114
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679236226.773972
+INFO:root:Sun is currently at alt, az: 2.3744573698619917, 92.49639066816353
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679236286.9210143
+INFO:root:Sun is currently at alt, az: 2.5722934915425775, 92.65044394774759
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679236347.0575843
+INFO:root:Sun is currently at alt, az: 2.7700706329037565, 92.80452594060822
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679236407.2149284
+INFO:root:Sun is currently at alt, az: 2.967890113344889, 92.95872041134156
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679236467.372932
+INFO:root:Sun is currently at alt, az: 3.1656843345988577, 93.11297952912022
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679236527.531163
+INFO:root:Sun is currently at alt, az: 3.3634504332563906, 93.26730588690542
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679236587.6888072
+INFO:root:Sun is currently at alt, az: 3.5611842882451286, 93.42170109870348
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679236647.8239555
+INFO:root:Sun is currently at alt, az: 3.758812456749692, 93.57611259871366
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679236707.9649067
+INFO:root:Sun is currently at alt, az: 3.9564265047872564, 93.73061672919157
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679236768.1115742
+INFO:root:Sun is currently at alt, az: 4.154024686960058, 93.88521700427067
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679236828.214759
+INFO:root:Sun is currently at alt, az: 4.351443951653234, 94.03979060165803
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679236888.3232522
+INFO:root:Sun is currently at alt, az: 4.548843139707622, 94.19446663865544
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679236948.4609337
+INFO:root:Sun is currently at alt, az: 4.746299183582488, 94.34931036869166
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679237008.603732
+INFO:root:Sun is currently at alt, az: 4.943731550476594, 94.50426362561909
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679237068.7448125
+INFO:root:Sun is currently at alt, az: 5.141116332724208, 94.65931254871599
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679237128.8817835
+INFO:root:Sun is currently at alt, az: 5.33844421780421, 94.81445470501255
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679237189.0215304
+INFO:root:Sun is currently at alt, az: 5.535736326068388, 94.96971160696123
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679237249.1671417
+INFO:root:Sun is currently at alt, az: 5.733001301880982, 95.1250950115191
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679237309.302253
+INFO:root:Sun is currently at alt, az: 5.93018399755642, 95.28056639594489
+INFO:root:Sun has not risen yet
+INFO:root:First tracking start time (JD): 1679237369.4074032
+INFO:root:Sun is currently at alt, az: 6.1272191643811125, 95.43607909977487
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute
+INFO:root:Unsuccessful pointing, trying again in a minute

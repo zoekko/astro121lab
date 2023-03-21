@@ -70,9 +70,9 @@ def record():
     
 if __name__=="__main__":
     
-    save_dir = '/home/pi/Blueberry Pi/astro121lab/lab3/data/sun/full_day_sun/'
+    save_dir = '/home/pi/Blueberry Pi/astro121lab/lab3/data/sun/full_day_sun_3_18/'
     logging.basicConfig(filename=f'{save_dir}full_day_sun_log.log', level=logging.INFO)
-    total_time = 11*60 # duration of observation in minutes
+    total_time = 23*60 # duration of observation in minutes
 
     # create interferometer object
     interf = ugradio.interf.Interferometer()
