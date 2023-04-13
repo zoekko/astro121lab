@@ -4,3 +4,5 @@ unzip file.zip
 
 (cd to directory containing directory_name_to_be_zipped)
 zip -r output_filename.zip directory_name_to_be_zipped
+
+pip3 install --upgrade shapely==1.7
