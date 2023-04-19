@@ -1,20 +1,20 @@
 import ugradio
+from ugradio import leusch
+
 import astropy.coordinates
+from astropy.coordinates import AltAz, EarthLocation, SkyCoord
 import astropy.time
+from astropy.time import Time
+import astropy.units as u
+
+from datetime import datetime
 import time
+
 import matplotlib.pylab as plt
 import numpy as np
 import logging
 
-import astropy.units as u
-from astropy.coordinates import AltAz, EarthLocation, SkyCoord
-from astropy.time import Time
-from datetime import datetime
-from ugradio import leusch
-import matplotlib.pyplot as plt
-import time
-
-save_dir = '/home/radiolab/Desktop/bpi/astro121lab/'
+save_dir = '/home/radiolab/Desktop/bpi/astro121lab/data/'
 logging.basicConfig(filename=f'{save_dir}orion.log', level=logging.INFO)
 # get coordinates of where we want to point
 t = Time(time.time(), format='unix').value
