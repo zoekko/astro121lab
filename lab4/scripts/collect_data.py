@@ -33,21 +33,22 @@ telescope = ugradio.leusch.LeuschTelescope()
 # set the LO such that HI is in the center of the bandpass
 LO = 1419 #MHz, TODO: SET LO
 synclient = ugradio.agilent.SynthClient()
-synclient.set_freqeuncy(LO, unit='MHz')
+synclient.set_frequency(LO, unit='MHz')
 
 LOC = EarthLocation(lat=37.91934*u.deg, lon=122.15385*u.deg, height=304*u.m)
 ALT_MIN, ALT_MAX = leusch.ALT_MIN, leusch.ALT_MAX
 AZ_MIN, AZ_MAX = leusch.AZ_MIN, leusch.AZ_MAX
 
-pointings = np.load('/home/zoeko/astro121lab/lab4/pointings.npy')
+pointings = np.load('/home/radiolab/Desktop/bpi/astro121lab/lab4/pointings.npy')
 
 # first pointing: do calibration 
 noisediode = ugradio.leusch.LeuschNoise()
 noisediode.on()
-logging.info('turned on noise diode')
+logging.info('Turned on noise diode')
 gal_coord = pointings[0]
 l, b = gal_coord
 alt, az = galactic_to_altaz(gal_coord, Time(datetime.now()))
+logging.info(f'alt az set to: {alt}, {az}')
 
 if TEST_ON_MOON:
     # get the coordinates of the moon to test
