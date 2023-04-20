@@ -14,6 +14,8 @@ import matplotlib.pylab as plt
 import numpy as np
 import logging
 
+time.sleep(40800)
+
 TEST_ON_MOON = False
 
 def galactic_to_altaz(coord, time):
@@ -31,9 +33,10 @@ logging.info(f'First tracking start time (unix time): {t}')
 telescope = ugradio.leusch.LeuschTelescope()
 
 # set the LO such that HI is in the center of the bandpass
-LO = 1419 #MHz, TODO: SET LO
+LO = 635 #MHz
 synclient = ugradio.agilent.SynthClient()
 synclient.set_frequency(LO, unit='MHz')
+logging.info(f'LO set to: {LO} MHz')
 
 LOC = EarthLocation(lat=37.91934*u.deg, lon=122.15385*u.deg, height=304*u.m)
 ALT_MIN, ALT_MAX = leusch.ALT_MIN, leusch.ALT_MAX
@@ -68,6 +71,7 @@ while successful_pointing:
         telescope.point(alt, az)
         logging.info(f'CALIBRATION: telescope now pointing at: {telescope.get_pointing()}')
         spec.read_spec(fname, N, (l,b), 'ga')
+        successful_pointing=False
     except(AssertionError):
         logging.info(f'CALIBRATION: Unsuccessful pointing, trying again in a second')
         num_times_failed+= 1
@@ -76,7 +80,9 @@ while successful_pointing:
             successful_pointing=False
         time.sleep(1)
 noisediode.off()
-logging.info('turned off noise diode')
+logging.info('Turned off noise diode')
+
+failed_coords = []
 
 for gal_coord in pointings:
     l, b = gal_coord
@@ -105,12 +111,78 @@ for gal_coord in pointings:
             telescope.point(alt, az)
             logging.info(f'telescope now pointing at: {telescope.get_pointing()}')
             spec.read_spec(fname, N, (l,b), 'ga')
+            successful_pointing=False
         except(AssertionError):
             logging.info(f'Unsuccessful pointing, trying again in a second')
             num_times_failed+= 1
             if num_times_failed > fail_threshold:
-                logging.info(f'More than ten failed tries: break')
+                logging.info(f'More than ten failed tries: break and add to queue')
+                failed_coords += [list(gal_coord)]
                 successful_pointing=False
             time.sleep(1)
+            
+            
+# # run on previously failed coordinates
+# logging.info(f'Running on previously failed coordinates.')
+# for gal_coord in failed_coords:
+#     l, b = gal_coord
+#     alt, az = galactic_to_altaz(gal_coord, Time(datetime.now()))
+
+#     # read data
+#     t = Time(time.time(), format='unix').value
+#     logging.info(f'Time (unix time): {t}')
+#     logging.info(f'Previously failed coordinate (l, b): {l}, {b}')
+#     logging.info(f'alt az set to: {alt}, {az}')
+    
+#     fname = f'{save_dir}take2_{t}_{l}_{b}.fits'
+#     N = 10 
+#     spec = ugradio.leusch.Spectrometer()
+
+#     successful_pointing=True
+#     while successful_pointing:
+#         try:
+#             telescope.point(alt, az)
+#             logging.info(f'telescope now pointing at: {telescope.get_pointing()}')
+#             spec.read_spec(fname, N, (l,b), 'ga')
+#             successful_pointing=False
+#         except(AssertionError):
+#             logging.info(f'Unsuccessful pointing, trying again in a minute')
+#             time.sleep(60)
+            
+
+# george's edit:
+# run on previously failed coordinates
+logging.info(f'Running on previously failed coordinates.')
+compete = False
+while complete==False:
+    gal_coord = list(failed_coords).pop(0)
+    l, b = gal_coord
+    alt, az = galactic_to_altaz(gal_coord, Time(datetime.now()))
+
+    # read data
+    t = Time(time.time(), format='unix').value
+    logging.info(f'Time (unix time): {t}')
+    logging.info(f'Previously failed coordinate (l, b): {l}, {b}')
+    logging.info(f'alt az set to: {alt}, {az}')
+    
+    fname = f'{save_dir}take2_{t}_{l}_{b}.fits'
+    N = 10 
+    spec = ugradio.leusch.Spectrometer()
+    try:
+        telescope.point(alt, az)
+        logging.info(f'telescope now pointing at: {telescope.get_pointing()}')
+        spec.read_spec(fname, N, (l,b), 'ga')
+    except(AssertionError):
+        logging.info(f'Unsuccessful pointing, trying again in a minute')
+        failed_coords += [list(gal_coord)]
+#         time.sleep(60)
+    if len(failed_coords) == 0:
+        complete = True
+     
+            
+            
+            
+            
+            
             
 telescope.stow()
