@@ -11,6 +11,7 @@ import matplotlib.pylab as plt
 import numpy as np
 import logging
 
+sleep_time = 9000 #s, sleep for this duration of time before beginning to track
 pointings = np.load('/home/radiolab/Desktop/bpi/astro121lab/lab4/pointings.npy')
 
 # # where to point for callibration 
@@ -25,6 +26,14 @@ def galactic_to_altaz(coord, time):
 
 save_dir = '/home/radiolab/Desktop/bpi/astro121lab/lab4/cal_data/'
 logging.basicConfig(filename=f'{save_dir}orion.log', level=logging.INFO)
+
+# go to sleep 
+t = Time(time.time(), format='unix').value
+logging.info(f'Current unix time: {t}')
+logging.info(f'Going to sleep for {sleep_time} seconds.')
+time.sleep(sleep_time)
+t = Time(time.time(), format='unix').value
+logging.info(f'Current unix time: {t}')
 
 # create LeuschTelescope object
 telescope = ugradio.leusch.LeuschTelescope()
