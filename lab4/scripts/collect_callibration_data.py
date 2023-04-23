@@ -49,6 +49,7 @@ for gal_coord in pointings:
     alt, az = galactic_to_altaz(gal_coord, Time(datetime.now()))
     logging.info(f'alt az set to: {alt}, {az}')
 
+    t = Time(time.time(), format='unix').value
     # point + read data
     on_fname = f'{save_dir}ON_{l}_{b}_{t}'
     off_fname = f'{save_dir}OFF_{l}_{b}_{t}'
