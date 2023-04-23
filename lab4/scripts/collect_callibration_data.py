@@ -50,8 +50,8 @@ for gal_coord in pointings:
     logging.info(f'alt az set to: {alt}, {az}')
 
     # point + read data
-    on_fname = f'{save_dir}ON{t}_{l}_{b}'
-    off_fname = f'{save_dir}OFF{t}_{l}_{b}'
+    on_fname = f'{save_dir}ON_{l}_{b}_{t}'
+    off_fname = f'{save_dir}OFF_{l}_{b}_{t}'
     N = 10 # try dif values of N and explore how this affects SNR
     
     try:
